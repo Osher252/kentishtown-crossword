@@ -9,290 +9,276 @@
       "#",
       "#",
       "#",
-      "B",
       "#",
+      "F",
+      "O",
+      "O",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "I",
+      "T",
+      "Y",
+      "F",
+      "A",
+      "R",
+      "M",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "T",
+      "#",
+      "E",
+      "#",
+      "M",
+      "#"
+    ],
+    [
       "#",
       "F",
       "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "L",
-      "E",
-      "V",
-      "E",
-      "R",
-      "T",
-      "O",
-      "N",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "I",
-      "#",
-      "#",
       "A",
       "#",
+      "#",
+      "#",
+      "#",
+      "D",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "Y",
+      "O",
+      "U",
+      "N",
+      "G",
+      "#",
+      "#",
+      "C",
+      "A",
+      "G",
+      "E",
+      "#"
+    ],
+    [
       "#",
       "X",
       "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "D",
-      "#",
-      "S",
-      "M",
-      "O",
-      "K",
-      "E",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "O",
-      "#",
-      "P",
-      "#",
-      "U",
-      "#",
-      "S",
-      "#",
-      "#",
-      "V"
-    ],
-    [
-      "#",
-      "W",
-      "#",
-      "#",
-      "I",
-      "#",
-      "T",
-      "#",
-      "#",
-      "#",
-      "#",
-      "E"
-    ],
-    [
-      "C",
-      "O",
-      "A",
-      "S",
-      "T",
-      "#",
-      "E",
-      "P",
-      "I",
       "C",
       "#",
-      "N"
-    ],
-    [
-      "#",
-      "R",
       "#",
       "#",
-      "E",
-      "#",
-      "R",
-      "#",
-      "#",
-      "R",
-      "#",
-      "U"
-    ],
-    [
       "#",
       "L",
       "#",
-      "C",
-      "#",
-      "#",
-      "#",
-      "U",
-      "S",
-      "A",
-      "G",
-      "E"
-    ],
-    [
-      "#",
-      "D",
-      "R",
-      "U",
-      "M",
-      "S",
-      "#",
-      "#",
-      "#",
-      "S",
-      "#",
+      "N",
       "#"
     ],
     [
       "#",
-      "#",
-      "#",
-      "R",
-      "#",
-      "#",
-      "Y",
-      "A",
-      "C",
-      "H",
-      "T",
-      "#"
-    ],
-    [
-      "C",
-      "O",
-      "M",
       "E",
       "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "B",
+      "#",
+      "F",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "M",
+      "A",
+      "L",
+      "L",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "I",
+      "N",
+      "D",
+      "I",
+      "E",
+      "#",
+      "#"
+    ],
+    [
       "#",
       "#",
       "#",
       "#",
       "#",
+      "D",
+      "#",
+      "Y",
+      "#",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "L",
+      "O",
+      "O",
+      "D",
+      "#",
+      "#",
+      "T",
       "#",
       "#"
     ]
   ],
   "across": [
     {
-      "number": 3,
-      "row": 1,
-      "col": 2,
-      "answer": "LEVERTON",
-      "clue": "Street where The Pineapple pub hides (8)"
+      "number": 1,
+      "row": 0,
+      "col": 6,
+      "answer": "FOOD",
+      "clue": "Nourishment on the plate"
     },
     {
       "number": 4,
-      "row": 3,
-      "col": 4,
-      "answer": "SMOKE",
-      "clue": "London, the Big ___ (5)"
+      "row": 2,
+      "col": 1,
+      "answer": "CITYFARM",
+      "clue": "Cressfield Close's resident goats and chickens, farming since '72"
+    },
+    {
+      "number": 7,
+      "row": 5,
+      "col": 0,
+      "answer": "YOUNG",
+      "clue": "Not old"
     },
     {
       "number": 8,
-      "row": 6,
-      "col": 0,
-      "answer": "COAST",
-      "clue": "Cruise along the shoreline (5)"
-    },
-    {
-      "number": 9,
-      "row": 6,
-      "col": 6,
-      "answer": "EPIC",
-      "clue": "Grand poem, or simply huge (4)"
-    },
-    {
-      "number": 12,
-      "row": 8,
+      "row": 5,
       "col": 7,
-      "answer": "USAGE",
-      "clue": "How a word is employed (5)"
+      "answer": "CAGE",
+      "clue": "Enclosure for a bird"
+    },
+    {
+      "number": 11,
+      "row": 8,
+      "col": 1,
+      "answer": "SMALL",
+      "clue": "Not large"
     },
     {
       "number": 13,
       "row": 9,
-      "col": 1,
-      "answer": "DRUMS",
-      "clue": "Percussion at an NW5 indie gig (5)"
+      "col": 5,
+      "answer": "INDIE",
+      "clue": "Genre that built the Forum and Bull & Gate"
     },
     {
       "number": 14,
-      "row": 10,
-      "col": 6,
-      "answer": "YACHT",
-      "clue": "Luxury boat for the rich (5)"
-    },
-    {
-      "number": 15,
       "row": 11,
-      "col": 0,
-      "answer": "COME",
-      "clue": "Arrive, as fans do for gigs (4)"
+      "col": 2,
+      "answer": "FLOOD",
+      "clue": "Deluge of water"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 5,
-      "answer": "BEAM",
-      "clue": "Ray of light, or grin broadly (4)"
+      "col": 6,
+      "answer": "FLAT",
+      "clue": "Pancake-shaped, or a Kentish Town rental"
     },
     {
       "number": 2,
-      "row": 0,
-      "col": 8,
-      "answer": "FOXES",
-      "clue": "Urban prowlers of Kentish Town nights (5)"
+      "row": 1,
+      "col": 3,
+      "answer": "STPANCRAS",
+      "clue": "Grand station and the old borough that covered us all"
     },
     {
       "number": 3,
       "row": 1,
-      "col": 2,
-      "answer": "LIDO",
-      "clue": "Open-air pool near the Heath (4)"
-    },
-    {
-      "number": 4,
-      "row": 3,
-      "col": 4,
-      "answer": "SPITE",
-      "clue": "Malice; act done in ___ of (5)"
+      "col": 10,
+      "answer": "CAMDEN",
+      "clue": "Market mayhem just down the road from us"
     },
     {
       "number": 5,
-      "row": 3,
-      "col": 6,
-      "answer": "OUTER",
-      "clue": "On the edge, like London's reaches (5)"
+      "row": 2,
+      "col": 8,
+      "answer": "MEDAL",
+      "clue": "Olympic gong"
     },
     {
       "number": 6,
       "row": 4,
-      "col": 11,
-      "answer": "VENUE",
-      "clue": "The Forum, an NW5 music ___ (5)"
+      "col": 1,
+      "answer": "FOXES",
+      "clue": "Russet midnight bin-raiders, the true NW5 mascots"
     },
     {
-      "number": 7,
-      "row": 5,
-      "col": 1,
-      "answer": "WORLD",
-      "clue": "The whole globe (5)"
+      "number": 9,
+      "row": 7,
+      "col": 7,
+      "answer": "BODY",
+      "clue": "Corpse, or your physical form"
     },
     {
       "number": 10,
-      "row": 6,
+      "row": 7,
       "col": 9,
-      "answer": "CRASH",
-      "clue": "Collide; or sleep on someone's sofa (5)"
+      "answer": "FLEET",
+      "clue": "Lost river still flowing beneath the High Street"
     },
     {
-      "number": 11,
+      "number": 12,
       "row": 8,
-      "col": 3,
-      "answer": "CURE",
-      "clue": "Remedy; treat to preserve (4)"
+      "col": 5,
+      "answer": "LIDO",
+      "clue": "Open-air pool on the Heath, brave swimmers' delight"
     }
   ]
 }

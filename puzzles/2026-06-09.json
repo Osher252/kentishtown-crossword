@@ -6,32 +6,92 @@
     [
       "#",
       "#",
+      "M",
       "#",
       "#",
       "#",
-      "E",
+      "B",
       "#",
       "#",
-      "F",
-      "I",
-      "L",
-      "E"
-    ],
-    [
       "#",
       "#",
-      "T",
-      "U",
-      "F",
-      "N",
-      "E",
-      "L",
-      "L",
-      "#",
-      "Y",
       "#"
     ],
     [
+      "#",
+      "D",
+      "A",
+      "R",
+      "T",
+      "M",
+      "O",
+      "U",
+      "T",
+      "H",
+      "#",
+      "B"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "#",
+      "R",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "#",
+      "A",
+      "R",
+      "T",
+      "I",
+      "S",
+      "T",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "#",
+      "N",
+      "#",
+      "#",
+      "S",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "#",
       "#",
       "#",
       "H",
@@ -39,267 +99,200 @@
       "#",
       "T",
       "#",
-      "#",
-      "A",
-      "C",
-      "R",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "#",
-      "R",
-      "E",
-      "A",
-      "C",
-      "T",
-      "#",
-      "I",
       "#"
     ],
     [
-      "#",
-      "#",
-      "O",
-      "#",
-      "#",
-      "R",
-      "#",
-      "A",
-      "#",
-      "#",
-      "C",
-      "#"
-    ],
-    [
-      "#",
-      "A",
-      "W",
-      "A",
-      "Y",
-      "#",
-      "#",
-      "R",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "I",
-      "#",
-      "#",
-      "S",
-      "T",
-      "A",
-      "G",
-      "E",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "C",
-      "L",
-      "A",
-      "Y",
-      "#",
-      "#",
-      "#",
-      "O",
-      "#",
-      "H"
-    ],
-    [
-      "#",
-      "#",
       "#",
       "S",
       "#",
-      "I",
-      "#",
-      "#",
-      "#",
-      "W",
-      "#",
-      "O"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "E",
-      "#",
-      "B",
+      "C",
       "A",
-      "N",
-      "D",
-      "S"
+      "V",
+      "E",
+      "R",
+      "S",
+      "H",
+      "A",
+      "M"
     ],
     [
-      "#",
-      "#",
       "F",
-      "I",
+      "E",
       "E",
       "L",
-      "D",
       "#",
       "#",
+      "A",
+      "#",
+      "T",
       "#",
       "#",
-      "T"
+      "U"
     ],
     [
       "#",
+      "N",
+      "#",
+      "O",
       "#",
       "#",
+      "T",
+      "#",
+      "O",
       "#",
       "#",
+      "R"
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      "S",
+      "T",
+      "#",
+      "H",
+      "A",
+      "R",
       "D",
       "#",
+      "A"
+    ],
+    [
+      "#",
+      "Y",
+      "#",
+      "E",
       "#",
       "#",
       "#",
       "#",
-      "#"
+      "M",
+      "#",
+      "#",
+      "L"
     ]
   ],
   "across": [
     {
-      "number": 2,
-      "row": 0,
-      "col": 8,
-      "answer": "FILE",
-      "clue": "Documents in order, or a tool"
-    },
-    {
-      "number": 4,
+      "number": 3,
       "row": 1,
-      "col": 2,
-      "answer": "TUFNELL",
-      "clue": "NW5 park name, near Camden's neighbour"
-    },
-    {
-      "number": 5,
-      "row": 2,
-      "col": 8,
-      "answer": "ACRE",
-      "clue": "Land measure of 4,840 square yards"
+      "col": 1,
+      "answer": "DARTMOUTH",
+      "clue": "Gospel Oak's cosy local, the ___ Arms"
     },
     {
       "number": 6,
       "row": 3,
       "col": 4,
-      "answer": "REACT",
-      "clue": "Respond to stimulus"
+      "answer": "ARTIST",
+      "clue": "NW5's elusive painter leaving freebies on walls"
     },
     {
       "number": 8,
       "row": 5,
-      "col": 1,
-      "answer": "AWAY",
-      "clue": "Not at home, like a gig out of town"
+      "col": 7,
+      "answer": "SOUND",
+      "clue": "Sensible, or what you hear"
     },
     {
-      "number": 10,
-      "row": 6,
-      "col": 6,
-      "answer": "STAGE",
-      "clue": "Where indie acts perform at The Forum"
-    },
-    {
-      "number": 12,
+      "number": 11,
       "row": 7,
-      "col": 2,
-      "answer": "CLAY",
-      "clue": "Potter's material, or tennis surface"
+      "col": 3,
+      "answer": "CAVERSHAM",
+      "clue": "Christ Church Oxford gave this NW5 road its name"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 0,
+      "answer": "FEEL",
+      "clue": "Touch, or sense emotionally"
     },
     {
       "number": 15,
-      "row": 9,
-      "col": 7,
-      "answer": "BANDS",
-      "clue": "Groups playing live at Kentish Town gigs"
+      "row": 10,
+      "col": 0,
+      "answer": "LEAST",
+      "clue": "Smallest amount, at the very ___"
     },
     {
       "number": 16,
       "row": 10,
-      "col": 2,
-      "answer": "FIELD",
-      "clue": "Parliament Hill offers this open space"
+      "col": 6,
+      "answer": "HARD",
+      "clue": "Tough, or difficult going"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 5,
-      "answer": "ENTER",
-      "clue": "Go in, or hit the keyboard key"
+      "col": 2,
+      "answer": "MALDEN",
+      "clue": "NW5 road and Arms named for a Surrey town"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 8,
-      "answer": "FLAT",
-      "clue": "Apartment, the London kind"
-    },
-    {
-      "number": 3,
-      "row": 0,
-      "col": 10,
-      "answer": "LYRIC",
-      "clue": "Words of a song, or a Hammersmith theatre"
+      "col": 6,
+      "answer": "BOAT",
+      "clue": "Rowing vessel"
     },
     {
       "number": 4,
       "row": 1,
-      "col": 2,
-      "answer": "THROW",
-      "clue": "Hurl or cast away"
+      "col": 4,
+      "answer": "TRAIN",
+      "clue": "Coach the team, or catch this at the station"
+    },
+    {
+      "number": 5,
+      "row": 1,
+      "col": 11,
+      "answer": "BOARD",
+      "clue": "Plank, or get on the plane"
     },
     {
       "number": 7,
       "row": 3,
-      "col": 7,
-      "answer": "CART",
-      "clue": "Vehicle pulled along, before the horse"
+      "col": 9,
+      "answer": "TRUTH",
+      "clue": "Honesty, the whole ___"
     },
     {
       "number": 9,
-      "row": 5,
-      "col": 3,
-      "answer": "AILS",
-      "clue": "Troubles or makes unwell"
+      "row": 6,
+      "col": 1,
+      "answer": "OSENEY",
+      "clue": "NW5 crescent borrowed from an Oxford abbey"
+    },
+    {
+      "number": 10,
+      "row": 6,
+      "col": 6,
+      "answer": "HEATH",
+      "clue": "The ancient wilderness on NW5's doorstep"
     },
     {
       "number": 11,
-      "row": 6,
-      "col": 9,
-      "answer": "GOWN",
-      "clue": "Graduate's robe, or evening dress"
+      "row": 7,
+      "col": 3,
+      "answer": "CLOSE",
+      "clue": "Shut, or nearly there"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 8,
+      "answer": "STORM",
+      "clue": "Tempest brewing"
     },
     {
       "number": 13,
       "row": 7,
-      "col": 5,
-      "answer": "YIELD",
-      "clue": "Give way, or crop's produce"
-    },
-    {
-      "number": 14,
-      "row": 7,
       "col": 11,
-      "answer": "HOST",
-      "clue": "One who entertains guests"
+      "answer": "MURAL",
+      "clue": "What our Secret painter leaves on a wall"
     }
   ]
 }

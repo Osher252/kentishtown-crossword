@@ -10,151 +10,151 @@
       "#",
       "#",
       "#",
-      "#",
-      "B",
-      "#",
-      "P",
-      "#",
-      "#"
-    ],
-    [
-      "T",
-      "#",
-      "H",
-      "I",
-      "G",
-      "H",
-      "G",
-      "A",
-      "T",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "U",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "L",
-      "#",
-      "D",
-      "#",
-      "#"
-    ],
-    [
       "F",
-      "#",
-      "#",
-      "L",
       "O",
-      "C",
-      "A",
-      "L",
+      "X",
+      "E",
+      "S",
+      "#"
+    ],
+    [
       "#",
-      "A",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ],
     [
-      "N",
-      "#",
       "#",
       "O",
-      "#",
-      "H",
-      "#",
-      "#",
-      "C",
-      "L",
-      "A",
-      "M"
-    ],
-    [
-      "E",
-      "X",
-      "P",
-      "O",
-      "#",
-      "I",
-      "#",
-      "O",
-      "#",
-      "#",
-      "#",
-      "U"
-    ],
-    [
-      "L",
-      "#",
-      "#",
-      "S",
-      "#",
-      "P",
-      "E",
-      "A",
-      "C",
-      "E",
-      "#",
-      "R"
-    ],
-    [
-      "L",
-      "E",
       "V",
       "E",
+      "R",
+      "G",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "#",
+      "D",
+      "#",
+      "M",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "N",
+      "E",
+      "#",
+      "#",
+      "S",
+      "P",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "I",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
       "L",
       "#",
       "#",
-      "K",
-      "#",
-      "#",
-      "#",
-      "A"
-    ],
-    [
+      "A",
       "#",
       "A",
       "#",
-      "#",
-      "#",
-      "C",
-      "#",
-      "E",
-      "#",
-      "#",
-      "#",
-      "L"
-    ],
-    [
-      "#",
-      "S",
-      "#",
-      "#",
-      "#",
-      "H",
-      "U",
-      "N",
-      "T",
-      "#",
-      "#",
+      "O",
       "#"
     ],
     [
-      "H",
+      "V",
+      "#",
+      "V",
+      "I",
+      "N",
+      "Y",
+      "L",
+      "#",
+      "N",
+      "#",
+      "U",
+      "#"
+    ],
+    [
       "E",
-      "A",
+      "#",
+      "#",
       "D",
       "#",
+      "#",
+      "F",
+      "L",
+      "O",
       "A",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "G",
+      "L",
+      "O",
+      "B",
+      "E",
       "#",
       "#",
       "#",
       "#",
-      "#",
+      "H",
       "#"
     ],
     [
@@ -163,143 +163,122 @@
       "#",
       "#",
       "#",
-      "T",
-      "O",
-      "R",
-      "C",
-      "H",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ]
   ],
   "across": [
     {
-      "number": 4,
-      "row": 1,
-      "col": 2,
-      "answer": "HIGHGATE",
-      "clue": "Hilly area near Swain's Lane, home to Marx's grave"
+      "number": 1,
+      "row": 0,
+      "col": 6,
+      "answer": "FOXES",
+      "clue": "Bin-raiding locals who'd never pay rent"
     },
     {
-      "number": 5,
-      "row": 3,
-      "col": 3,
-      "answer": "LOCAL",
-      "clue": "Like The Pineapple, the friendly NW5 pub"
+      "number": 3,
+      "row": 2,
+      "col": 1,
+      "answer": "OVERGROUND",
+      "clue": "Orange-line saviour from Gospel Oak"
+    },
+    {
+      "number": 6,
+      "row": 5,
+      "col": 0,
+      "answer": "SPINE",
+      "clue": "Backbone of the book"
     },
     {
       "number": 7,
-      "row": 4,
-      "col": 8,
-      "answer": "CLAM",
-      "clue": "Shellfish that clams up?"
-    },
-    {
-      "number": 9,
       "row": 5,
-      "col": 0,
-      "answer": "EXPO",
-      "clue": "Big exhibition, briefly"
+      "col": 7,
+      "answer": "SPITE",
+      "clue": "Bear someone a grudge"
     },
     {
       "number": 11,
-      "row": 6,
-      "col": 5,
-      "answer": "PEACE",
-      "clue": "Calm on Parliament Hill (5)"
+      "row": 8,
+      "col": 2,
+      "answer": "VINYL",
+      "clue": "Spinning treasure on Camden shelves"
     },
     {
       "number": 12,
-      "row": 7,
-      "col": 0,
-      "answer": "LEVEL",
-      "clue": "Flat, like a building floor"
-    },
-    {
-      "number": 15,
       "row": 9,
-      "col": 5,
-      "answer": "HUNT",
-      "clue": "Search, or chase the urban fox"
+      "col": 6,
+      "answer": "FLOAT",
+      "clue": "Stay buoyant in the parade"
     },
     {
-      "number": 16,
+      "number": 13,
       "row": 10,
-      "col": 0,
-      "answer": "HEAD",
-      "clue": "Lead a body part"
-    },
-    {
-      "number": 17,
-      "row": 11,
-      "col": 5,
-      "answer": "TORCH",
-      "clue": "Flaming light, or carry on"
+      "col": 1,
+      "answer": "GLOBE",
+      "clue": "Theatre Shakespeare would recognise"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 7,
-      "answer": "BALL",
-      "clue": "Dance, or round object"
+      "col": 6,
+      "answer": "FORUM",
+      "clue": "Highgate Road temple, once Town & Country"
     },
     {
       "number": 2,
-      "row": 0,
-      "col": 9,
-      "answer": "PEDAL",
-      "clue": "Push it on the bike along Regent's Canal"
+      "row": 1,
+      "col": 4,
+      "answer": "GRADE",
+      "clue": "School year, or a steep slope"
     },
     {
-      "number": 3,
-      "row": 1,
-      "col": 0,
-      "answer": "TUFNELL",
-      "clue": "___ Park, station next to Kentish Town"
+      "number": 4,
+      "row": 2,
+      "col": 2,
+      "answer": "VIVID",
+      "clue": "Bright and intensely colourful"
     },
     {
       "number": 5,
-      "row": 3,
-      "col": 3,
-      "answer": "LOOSE",
-      "clue": "Slack, not tight"
+      "row": 2,
+      "col": 10,
+      "answer": "DARTMOUTH",
+      "clue": "Gospel Oak's cosy Arms for a pint"
     },
     {
       "number": 6,
-      "row": 3,
-      "col": 5,
-      "answer": "CHIP",
-      "clue": "Crisp, or microchip's bit"
+      "row": 5,
+      "col": 0,
+      "answer": "SERVE",
+      "clue": "Dish up dinner, or open play"
     },
     {
       "number": 8,
-      "row": 4,
-      "col": 11,
-      "answer": "MURAL",
-      "clue": "Secret Artist's larger wall painting?"
+      "row": 5,
+      "col": 8,
+      "answer": "PIANO",
+      "clue": "Grand instrument with 88 keys"
+    },
+    {
+      "number": 9,
+      "row": 6,
+      "col": 6,
+      "answer": "HALF",
+      "clue": "Not the whole pint, sadly"
     },
     {
       "number": 10,
-      "row": 5,
-      "col": 7,
-      "answer": "OAKEN",
-      "clue": "Made of wood, like Gospel ___"
-    },
-    {
-      "number": 13,
       "row": 7,
-      "col": 1,
-      "answer": "EASE",
-      "clue": "Comfort, or relaxed manner"
-    },
-    {
-      "number": 14,
-      "row": 8,
-      "col": 5,
-      "answer": "CHAT",
-      "clue": "Friendly natter at the craft beer bar"
+      "col": 3,
+      "answer": "LIDO",
+      "clue": "Heath's bracing open-air dip"
     }
   ]
 }

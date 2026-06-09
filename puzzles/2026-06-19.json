@@ -6,167 +6,167 @@
     [
       "#",
       "#",
-      "#",
-      "#",
-      "H",
-      "#",
-      "#",
-      "V",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "B",
       "U",
-      "S",
-      "K",
-      "E",
-      "R",
       "#",
       "#",
-      "#"
-    ],
-    [
-      "B",
-      "#",
-      "B",
-      "#",
-      "N",
-      "#",
-      "#",
-      "N",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "V",
-      "E",
-      "R",
       "G",
-      "R",
-      "O",
-      "U",
-      "N",
-      "D",
+      "#",
+      "#",
+      "V",
+      "#",
       "#",
       "#"
     ],
     [
-      "S",
-      "#",
-      "A",
-      "#",
-      "#",
-      "#",
-      "#",
-      "E",
-      "#",
-      "A",
-      "#",
-      "#"
-    ],
-    [
-      "S",
-      "O",
-      "N",
-      "I",
       "C",
-      "#",
-      "#",
-      "#",
-      "#",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "D",
-      "A",
-      "N",
-      "C",
-      "E",
-      "#",
-      "#"
-    ],
-    [
+      "O",
       "P",
-      "A",
-      "U",
-      "S",
-      "E",
-      "#",
-      "#",
-      "#",
-      "I",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "#",
-      "A",
-      "#",
-      "#",
-      "#",
-      "T",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "B",
-      "#",
-      "R",
-      "U",
-      "G",
-      "B",
       "Y",
       "#",
+      "R",
+      "I",
+      "V",
+      "A",
+      "L",
       "#",
       "#"
     ],
     [
       "#",
-      "F",
-      "A",
+      "#",
       "S",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "E",
+      "C",
+      "K",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
       "T",
       "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
       "#",
       "#",
       "N",
       "#",
-      "H",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#",
+      "G",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "I",
+      "D",
+      "D",
+      "L",
       "E",
+      "R",
+      "S",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
       "A",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "G",
+      "O",
+      "O",
+      "D",
+      "#",
+      "C",
+      "R",
+      "A",
+      "F",
       "T",
-      "H",
+      "#",
+      "I"
+    ],
+    [
+      "I",
+      "#",
+      "G",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "T",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "V",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "E",
+      "X",
+      "T",
+      "R",
+      "A",
+      "#",
+      "#",
+      "#",
+      "N",
       "#",
       "#",
       "#"
@@ -174,118 +174,118 @@
   ],
   "across": [
     {
-      "number": 3,
+      "number": 4,
       "row": 1,
-      "col": 3,
-      "answer": "BUSKER",
-      "clue": "Street performer outside Kentish Town tube"
+      "col": 0,
+      "answer": "COPY",
+      "clue": "Imitate, or duplicate text"
+    },
+    {
+      "number": 5,
+      "row": 1,
+      "col": 5,
+      "answer": "RIVAL",
+      "clue": "Competitor for the same prize"
     },
     {
       "number": 6,
       "row": 3,
-      "col": 0,
-      "answer": "OVERGROUND",
-      "clue": "London line through Gospel Oak"
+      "col": 1,
+      "answer": "PECKWATER",
+      "clue": "NW5 street borrowing a quad's name from Christ Church"
     },
     {
-      "number": 8,
-      "row": 5,
-      "col": 0,
-      "answer": "SONIC",
-      "clue": "Like a hedgehog, or speedy?"
-    },
-    {
-      "number": 9,
+      "number": 10,
       "row": 6,
-      "col": 5,
-      "answer": "DANCE",
-      "clue": "Move to indie gig rhythms"
+      "col": 2,
+      "answer": "FIDDLERS",
+      "clue": "Bend your arm and catch some live music on Malden Road"
     },
     {
       "number": 11,
-      "row": 7,
+      "row": 8,
       "col": 0,
-      "answer": "PAUSE",
-      "clue": "Brief stop in the music"
+      "answer": "GOOD",
+      "clue": "Well-behaved, or a hearty greeting?"
+    },
+    {
+      "number": 12,
+      "row": 8,
+      "col": 5,
+      "answer": "CRAFT",
+      "clue": "What The Grafton pours with reverence — beer made with care"
+    },
+    {
+      "number": 13,
+      "row": 10,
+      "col": 7,
+      "answer": "TOAST",
+      "clue": "Raise a glass, or grill some bread"
     },
     {
       "number": 14,
-      "row": 9,
-      "col": 4,
-      "answer": "RUGBY",
-      "clue": "Sport played near Parliament Hill"
-    },
-    {
-      "number": 15,
-      "row": 10,
-      "col": 1,
-      "answer": "FAST",
-      "clue": "Quick, or going without food"
-    },
-    {
-      "number": 16,
       "row": 11,
-      "col": 4,
-      "answer": "HEATH",
-      "clue": "Hampstead ___, with bathing ponds"
+      "col": 0,
+      "answer": "EXTRA",
+      "clue": "Additional, like a film's hired hand"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 4,
-      "answer": "HUNG",
-      "clue": "Displayed, like Secret Artist's paintings"
+      "col": 2,
+      "answer": "UPSET",
+      "clue": "Knocked over, or thoroughly miffed"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 7,
-      "answer": "VENUE",
-      "clue": "The Forum, a Highgate Road one"
+      "col": 5,
+      "answer": "GROW",
+      "clue": "Cultivate in the garden"
     },
     {
-      "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "BOSS",
-      "clue": "Chief at the craft beer bar"
-    },
-    {
-      "number": 5,
-      "row": 2,
-      "col": 2,
-      "answer": "BEAN",
-      "clue": "Coffee shop staple, or pulse"
+      "number": 3,
+      "row": 0,
+      "col": 8,
+      "answer": "VALE",
+      "clue": "Hidden Hampstead hamlet good for your wellbeing, allegedly"
     },
     {
       "number": 7,
       "row": 3,
-      "col": 9,
-      "answer": "DATE",
-      "clue": "Romantic outing, or palm fruit"
+      "col": 6,
+      "answer": "ANGLERS",
+      "clue": "The Jolly fishermen who gave their Lane its name"
+    },
+    {
+      "number": 8,
+      "row": 5,
+      "col": 8,
+      "answer": "GRAFTON",
+      "clue": "Beloved Victorian boozer beside Kentish Town West"
+    },
+    {
+      "number": 9,
+      "row": 5,
+      "col": 11,
+      "answer": "ARTIST",
+      "clue": "NW5's mysterious painter leaving secret canvases about town"
     },
     {
       "number": 10,
       "row": 6,
-      "col": 8,
-      "answer": "CITY",
-      "clue": "Camden's not far from this"
-    },
-    {
-      "number": 12,
-      "row": 7,
       "col": 2,
-      "answer": "URBAN",
-      "clue": "Like a fox roaming NW5"
+      "answer": "FROG",
+      "clue": "It croaks down by the pond"
     },
     {
-      "number": 13,
-      "row": 7,
-      "col": 4,
-      "answer": "EARTH",
-      "clue": "Our planet, or soil"
+      "number": 11,
+      "row": 8,
+      "col": 0,
+      "answer": "GIVE",
+      "clue": "Donate, or yield under pressure"
     }
   ]
 }

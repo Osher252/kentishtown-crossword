@@ -4,156 +4,156 @@
   "size": 12,
   "grid": [
     [
-      "D",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
       "A",
-      "T",
-      "A",
+      "R",
+      "S",
+      "H",
+      "#",
+      "#"
+    ],
+    [
       "#",
       "#",
       "#",
-      "W",
       "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
       "#",
       "#",
       "#"
     ],
     [
-      "E",
       "#",
       "#",
-      "G",
+      "#",
+      "#",
       "O",
       "S",
-      "P",
-      "E",
-      "L",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "C",
-      "O",
-      "N",
-      "E",
-      "#",
-      "T",
-      "#",
-      "A",
-      "#",
-      "#",
-      "A",
-      "#"
-    ],
-    [
-      "K",
-      "#",
-      "#",
-      "D",
-      "#",
-      "O",
-      "#",
-      "V",
-      "#",
-      "#",
-      "R",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "D",
-      "#",
-      "#",
-      "R",
-      "#",
-      "E",
-      "X",
-      "I",
-      "T",
-      "#"
-    ],
-    [
-      "#",
-      "P",
       "E",
       "N",
-      "N",
+      "E",
       "Y",
       "#",
-      "#",
-      "#",
-      "#",
-      "I",
       "#"
     ],
     [
-      "S",
-      "#",
-      "S",
       "#",
       "#",
       "#",
-      "#",
-      "H",
-      "O",
-      "U",
-      "S",
-      "E"
-    ],
-    [
-      "O",
-      "A",
-      "K",
-      "E",
-      "N",
-      "#",
-      "#",
-      "U",
       "#",
       "#",
       "T",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
       "#"
     ],
     [
-      "L",
       "#",
       "#",
-      "E",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "K",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
       "#",
       "H",
-      "U",
-      "M",
-      "P",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "A",
-      "P",
-      "P",
-      "L",
       "E",
-      "#",
-      "#",
       "A",
+      "T",
+      "H",
       "#",
       "#",
       "#",
       "#"
     ],
     [
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "D",
+      "#",
+      "C",
+      "#",
+      "#",
       "R",
       "#",
       "#",
-      "S",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "#",
+      "P",
+      "R",
+      "I",
+      "D",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
       "#",
       "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "H",
       "A",
-      "N",
-      "E",
+      "M",
+      "P",
       "S",
+      "T",
+      "E",
+      "A",
+      "D",
       "#",
       "#"
     ],
@@ -166,7 +166,7 @@
       "#",
       "#",
       "#",
-      "#",
+      "X",
       "#",
       "#",
       "#"
@@ -176,137 +176,74 @@
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "DATA",
-      "clue": "Facts and figures for processing"
+      "col": 5,
+      "answer": "HARSH",
+      "clue": "Severe or unkind"
     },
     {
-      "number": 4,
-      "row": 1,
-      "col": 3,
-      "answer": "GOSPEL",
-      "clue": "Local oak's start, where soul music began (6)"
-    },
-    {
-      "number": 6,
+      "number": 3,
       "row": 2,
+      "col": 4,
+      "answer": "OSENEY",
+      "clue": "Crescent off Kentish Town Road borrowing its name from an Oxford abbey"
+    },
+    {
+      "number": 5,
+      "row": 5,
+      "col": 3,
+      "answer": "HEATH",
+      "clue": "Where NW5 walks the dog, swims at dawn, and spots the parakeets"
+    },
+    {
+      "number": 7,
+      "row": 7,
       "col": 0,
-      "answer": "CONE",
-      "clue": "Ice cream holder or traffic marker"
+      "answer": "BALD",
+      "clue": "Lacking hair"
     },
     {
       "number": 9,
-      "row": 4,
-      "col": 7,
-      "answer": "EXIT",
-      "clue": "Way out of the venue"
+      "row": 8,
+      "col": 4,
+      "answer": "PRIDE",
+      "clue": "Lions show this collectively"
     },
     {
       "number": 10,
-      "row": 5,
-      "col": 1,
-      "answer": "PENNY",
-      "clue": "Coin worth little, but Lane's first"
-    },
-    {
-      "number": 12,
-      "row": 6,
-      "col": 7,
-      "answer": "HOUSE",
-      "clue": "Music venue, or where you live"
-    },
-    {
-      "number": 13,
-      "row": 7,
-      "col": 0,
-      "answer": "OAKEN",
-      "clue": "Made of strong wood, like NW5's famous Gospel ___"
-    },
-    {
-      "number": 15,
-      "row": 8,
-      "col": 5,
-      "answer": "HUMP",
-      "clue": "Camel's back feature, or speed bump"
-    },
-    {
-      "number": 16,
-      "row": 9,
-      "col": 0,
-      "answer": "APPLE",
-      "clue": "Fruit the Secret Artist might paint"
-    },
-    {
-      "number": 17,
       "row": 10,
-      "col": 5,
-      "answer": "LANES",
-      "clue": "Swain's and others lead to Highgate (5)"
+      "col": 1,
+      "answer": "HAMPSTEAD",
+      "clue": "Posh NW3 neighbour to the north, all artisan bakeries and Keats"
     }
   ],
   "down": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "DECK",
-      "clue": "Ship's floor, or pack of cards"
-    },
-    {
       "number": 2,
       "row": 0,
-      "col": 3,
-      "answer": "AGED",
-      "clue": "Old, like vinyl in NW5 shops"
+      "col": 8,
+      "answer": "SPEAK",
+      "clue": "Talk or address a crowd"
     },
     {
-      "number": 3,
-      "row": 0,
-      "col": 7,
-      "answer": "WEAVE",
-      "clue": "Interlace threads on a loom"
-    },
-    {
-      "number": 5,
-      "row": 1,
-      "col": 5,
-      "answer": "STORY",
-      "clue": "Building floor, or a tale"
-    },
-    {
-      "number": 7,
+      "number": 4,
       "row": 2,
-      "col": 10,
-      "answer": "ARTIST",
-      "clue": "Secret one leaves paintings round NW5 (6)"
+      "col": 5,
+      "answer": "STPANCRAS",
+      "clue": "The grand old borough Kentish Town once answered to, before Camden swallowed it"
+    },
+    {
+      "number": 6,
+      "row": 6,
+      "col": 1,
+      "answer": "PATCH",
+      "clue": "Repair, or small plot of ground"
     },
     {
       "number": 8,
-      "row": 4,
-      "col": 2,
-      "answer": "DESK",
-      "clue": "Where you write, found in office"
-    },
-    {
-      "number": 11,
-      "row": 6,
-      "col": 0,
-      "answer": "SOLAR",
-      "clue": "Powered by the sun"
-    },
-    {
-      "number": 12,
-      "row": 6,
-      "col": 7,
-      "answer": "HUMAN",
-      "clue": "One of us, not robot"
-    },
-    {
-      "number": 14,
       "row": 7,
-      "col": 3,
-      "answer": "EELS",
-      "clue": "Slippery fish, jellied in old London"
+      "col": 8,
+      "answer": "RELAX",
+      "clue": "Unwind after a long week"
     }
   ]
 }

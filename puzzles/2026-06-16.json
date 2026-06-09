@@ -5,12 +5,12 @@
   "grid": [
     [
       "#",
+      "H",
       "#",
       "#",
-      "O",
+      "B",
       "#",
       "#",
-      "D",
       "#",
       "#",
       "#",
@@ -19,280 +19,266 @@
     ],
     [
       "#",
-      "P",
-      "#",
       "A",
-      "R",
+      "#",
+      "W",
+      "O",
+      "L",
+      "S",
+      "E",
+      "Y",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "#",
+      "S",
+      "#",
       "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "G",
+      "A",
+      "I",
+      "S",
+      "F",
+      "O",
+      "R",
+      "D",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "V",
+      "A",
+      "N",
+      "G",
+      "E",
+      "L",
       "I",
       "S",
       "T",
-      "#",
-      "#",
       "#"
     ],
     [
+      "L",
       "#",
-      "E",
-      "#",
-      "K",
-      "#",
-      "#",
-      "M",
-      "#",
-      "#",
-      "T",
-      "#",
-      "B"
-    ],
-    [
-      "C",
       "A",
-      "M",
-      "E",
       "#",
-      "R",
-      "E",
-      "F",
-      "E",
-      "R",
-      "#",
-      "U"
-    ],
-    [
       "#",
       "R",
       "#",
-      "N",
       "#",
-      "A",
-      "#",
-      "#",
-      "#",
-      "A",
-      "#",
-      "S"
-    ],
-    [
-      "#",
-      "L",
-      "#",
-      "#",
-      "#",
-      "L",
-      "#",
-      "D",
-      "R",
-      "I",
-      "N",
-      "K"
-    ],
-    [
-      "#",
-      "#",
-      "F",
-      "#",
-      "#",
-      "L",
-      "#",
-      "U",
-      "#",
-      "T",
-      "#",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "W",
-      "A",
-      "Y",
-      "#",
-      "L",
-      "#",
-      "#",
-      "#",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "N",
-      "#",
-      "#",
-      "#",
-      "#",
-      "L",
-      "I",
-      "D",
-      "O",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "C",
-      "O",
-      "U",
-      "N",
-      "T",
-      "#",
-      "#",
-      "U",
-      "#",
-      "#"
-    ],
-    [
       "#",
       "#",
       "Y",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "K",
-      "#",
       "#"
     ],
     [
+      "I",
       "#",
-      "#",
-      "#",
-      "#",
-      "#",
+      "L",
       "#",
       "H",
-      "O",
-      "P",
+      "A",
+      "C",
+      "K",
+      "#",
+      "#",
+      "F",
+      "#"
+    ],
+    [
+      "D",
       "E",
+      "E",
+      "D",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "M",
+      "A",
+      "K",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "A",
+      "I",
+      "N",
+      "T",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ]
   ],
   "across": [
     {
-      "number": 4,
+      "number": 3,
       "row": 1,
       "col": 3,
-      "answer": "ARTIST",
-      "clue": "Secret one leaves paintings around NW5"
+      "answer": "WOLSEY",
+      "clue": "Cardinal's road off Kentish Town, never finished his big house"
+    },
+    {
+      "number": 5,
+      "row": 3,
+      "col": 1,
+      "answer": "GAISFORD",
+      "clue": "Our street that owes its name to Christ Church, Oxford"
     },
     {
       "number": 7,
-      "row": 3,
-      "col": 0,
-      "answer": "CAME",
-      "clue": "Arrived on the scene"
-    },
-    {
-      "number": 8,
-      "row": 3,
-      "col": 5,
-      "answer": "REFER",
-      "clue": "Point to a reference"
-    },
-    {
-      "number": 9,
       "row": 5,
-      "col": 7,
-      "answer": "DRINK",
-      "clue": "Pint at The Pineapple, perhaps"
+      "col": 1,
+      "answer": "EVANGELIST",
+      "clue": "Gospel-writer road from the St John's, Cambridge estate"
     },
     {
       "number": 11,
       "row": 7,
-      "col": 2,
-      "answer": "AWAY",
-      "clue": "Off and not present"
+      "col": 4,
+      "answer": "HACK",
+      "clue": "Cut roughly, or a tired writer"
     },
     {
       "number": 12,
       "row": 8,
-      "col": 7,
-      "answer": "LIDO",
-      "clue": "Open-air swim, like Heath's ponds"
+      "col": 0,
+      "answer": "DEED",
+      "clue": "Document signed and sealed"
     },
     {
       "number": 14,
       "row": 9,
-      "col": 2,
-      "answer": "COUNT",
-      "clue": "Tally up the votes"
+      "col": 6,
+      "answer": "MAKER",
+      "clue": "One who creates"
     },
     {
       "number": 15,
       "row": 11,
-      "col": 6,
-      "answer": "HOPE",
-      "clue": "Wish from Parliament Hill"
+      "col": 2,
+      "answer": "SAINT",
+      "clue": "Halo-wearer, like John round our way"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 3,
-      "answer": "OAKEN",
-      "clue": "Like Gospel Oak's namesake, wooden"
+      "col": 1,
+      "answer": "HANG",
+      "clue": "Suspend from a hook"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 6,
-      "answer": "DIME",
-      "clue": "Ten-cent coin"
+      "col": 4,
+      "answer": "BOSS",
+      "clue": "Person in charge, or a stud"
     },
     {
-      "number": 3,
+      "number": 4,
       "row": 1,
-      "col": 1,
-      "answer": "PEARL",
-      "clue": "Gem from an oyster"
-    },
-    {
-      "number": 5,
-      "row": 2,
-      "col": 9,
-      "answer": "TRAIT",
-      "clue": "Distinguishing feature"
+      "col": 6,
+      "answer": "STORE",
+      "clue": "Shop, or keep for later"
     },
     {
       "number": 6,
-      "row": 2,
-      "col": 11,
-      "answer": "BUSKER",
-      "clue": "Forum's street performer earns coins"
+      "row": 3,
+      "col": 10,
+      "answer": "CITYFARM",
+      "clue": "Cressfield Close spot where toddlers meet the goats"
     },
     {
       "number": 8,
-      "row": 3,
-      "col": 5,
-      "answer": "RALLY",
-      "clue": "Indie gig crowd's protest gathering"
+      "row": 5,
+      "col": 2,
+      "answer": "VALE",
+      "clue": "Heath's hidden hamlet, healthy by name only now"
     },
     {
       "number": 9,
       "row": 5,
-      "col": 7,
-      "answer": "DULL",
-      "clue": "Boring and grey"
+      "col": 5,
+      "answer": "GRAB",
+      "clue": "Snatch quickly"
     },
     {
       "number": 10,
       "row": 6,
-      "col": 2,
-      "answer": "FANCY",
-      "clue": "Imagine elaborate decoration"
+      "col": 0,
+      "answer": "LIDO",
+      "clue": "Open-air Heath plunge for hardy NW5 swimmers"
     },
     {
       "number": 13,
       "row": 8,
-      "col": 9,
-      "answer": "DUKE",
-      "clue": "Noble above a marquess"
+      "col": 3,
+      "answer": "DATA",
+      "clue": "Facts and figures for the computer"
     }
   ]
 }

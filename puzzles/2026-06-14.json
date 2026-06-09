@@ -4,158 +4,158 @@
   "size": 12,
   "grid": [
     [
-      "E",
-      "P",
-      "I",
-      "C",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "A",
-      "R",
-      "T",
-      "I",
-      "S",
-      "T",
-      "#",
-      "#",
-      "#"
-    ],
-    [
       "D",
-      "A",
-      "Y",
-      "S",
       "#",
       "#",
       "#",
-      "P",
       "#",
       "#",
-      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "#"
     ],
     [
-      "E",
-      "#",
-      "#",
-      "E",
-      "#",
-      "F",
-      "#",
-      "I",
-      "#",
-      "#",
-      "O",
-      "#"
-    ],
-    [
-      "A",
-      "#",
-      "#",
-      "#",
-      "H",
-      "I",
-      "N",
-      "T",
-      "#",
-      "#",
-      "A",
-      "#"
-    ],
-    [
-      "R",
-      "#",
-      "#",
-      "H",
-      "#",
-      "N",
-      "#",
       "E",
       "V",
-      "I",
-      "L",
-      "#"
-    ],
-    [
-      "#",
-      "S",
-      "L",
-      "O",
-      "P",
-      "E",
-      "#",
-      "#",
-      "#",
+      "A",
       "N",
-      "#",
-      "#"
-    ],
-    [
-      "#",
+      "G",
+      "E",
+      "L",
       "I",
-      "#",
+      "S",
       "T",
       "#",
-      "#",
-      "D",
-      "#",
-      "#",
-      "D",
-      "#",
-      "D"
+      "#"
     ],
     [
+      "A",
       "#",
-      "G",
+      "R",
       "#",
-      "E",
+      "I",
+      "#",
+      "#",
       "#",
       "#",
       "U",
       "#",
-      "F",
-      "I",
+      "#"
+    ],
+    [
       "R",
+      "#",
+      "T",
+      "#",
+      "V",
+      "#",
+      "B",
+      "#",
+      "#",
+      "L",
+      "#",
+      "W"
+    ],
+    [
+      "#",
+      "B",
+      "I",
+      "T",
+      "E",
+      "#",
+      "O",
+      "#",
+      "L",
+      "I",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "P",
+      "#",
+      "L"
+    ],
+    [
+      "C",
+      "I",
+      "T",
+      "Y",
+      "F",
+      "A",
+      "R",
+      "M",
+      "#",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "#",
+      "E",
+      "#",
+      "D",
+      "#",
+      "C",
+      "O",
+      "V",
       "E"
     ],
     [
       "#",
-      "N",
-      "#",
-      "L",
-      "I",
-      "N",
-      "K",
-      "S",
-      "#",
-      "E",
-      "#",
-      "N"
-    ],
-    [
-      "#",
-      "S",
-      "#",
-      "#",
+      "D",
       "#",
       "#",
       "E",
       "#",
       "#",
+      "#",
+      "U",
       "#",
       "#",
       "Y"
+    ],
+    [
+      "V",
+      "I",
+      "N",
+      "Y",
+      "L",
+      "#",
+      "#",
+      "F",
+      "R",
+      "O",
+      "G",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#"
     ],
     [
       "#",
@@ -174,132 +174,118 @@
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "EPIC",
-      "clue": "Grand tale of heroic deeds"
-    },
-    {
-      "number": 3,
+      "number": 2,
       "row": 1,
-      "col": 3,
-      "answer": "ARTIST",
-      "clue": "Secret one leaves paintings round NW5"
-    },
-    {
-      "number": 5,
-      "row": 2,
       "col": 0,
-      "answer": "DAYS",
-      "clue": "Periods of light between nights"
+      "answer": "EVANGELIST",
+      "clue": "St John's college estate road, for a preacher (10)"
     },
     {
       "number": 8,
       "row": 4,
-      "col": 4,
-      "answer": "HINT",
-      "clue": "Subtle clue or tip"
-    },
-    {
-      "number": 10,
-      "row": 5,
-      "col": 7,
-      "answer": "EVIL",
-      "clue": "Wickedness, opposite of good"
-    },
-    {
-      "number": 12,
-      "row": 6,
       "col": 1,
-      "answer": "SLOPE",
-      "clue": "Parliament Hill's grassy incline"
-    },
-    {
-      "number": 15,
-      "row": 8,
-      "col": 8,
-      "answer": "FIRE",
-      "clue": "Forum gig sets it alight (4)"
-    },
-    {
-      "number": 16,
-      "row": 9,
-      "col": 3,
-      "answer": "LINKS",
-      "clue": "Connects, or golf course"
-    }
-  ],
-  "down": [
-    {
-      "number": 2,
-      "row": 0,
-      "col": 3,
-      "answer": "CASE",
-      "clue": "Detective's investigation"
-    },
-    {
-      "number": 4,
-      "row": 1,
-      "col": 7,
-      "answer": "SPITE",
-      "clue": "Malice, done in ___"
-    },
-    {
-      "number": 5,
-      "row": 2,
-      "col": 0,
-      "answer": "DEAR",
-      "clue": "Beloved, or costly"
-    },
-    {
-      "number": 6,
-      "row": 2,
-      "col": 10,
-      "answer": "COAL",
-      "clue": "What the cellar by York Rise stored"
-    },
-    {
-      "number": 7,
-      "row": 3,
-      "col": 5,
-      "answer": "FINE",
-      "clue": "Penalty, or excellent"
+      "answer": "BITE",
+      "clue": "Nip, or what to grab for lunch (4)"
     },
     {
       "number": 9,
-      "row": 5,
-      "col": 3,
-      "answer": "HOTEL",
-      "clue": "Place to stay the night"
+      "row": 4,
+      "col": 8,
+      "answer": "LIDO",
+      "clue": "Heath's open-air pool — brave it in April (4)"
     },
     {
-      "number": 11,
-      "row": 5,
-      "col": 9,
-      "answer": "INDIE",
-      "clue": "Forum's gig genre, not mainstream"
-    },
-    {
-      "number": 12,
+      "number": 10,
       "row": 6,
-      "col": 1,
-      "answer": "SIGNS",
-      "clue": "Secret Artist's works, or zodiac symbols"
+      "col": 0,
+      "answer": "CITYFARM",
+      "clue": "Cressfield Close's home for goats since 1972 (8)"
     },
     {
       "number": 13,
       "row": 7,
-      "col": 6,
-      "answer": "DUKE",
-      "clue": "Noble ranking below prince"
+      "col": 8,
+      "answer": "COVE",
+      "clue": "Sheltered inlet on the coast (4)"
     },
     {
       "number": 14,
-      "row": 7,
+      "row": 9,
+      "col": 0,
+      "answer": "VINYL",
+      "clue": "What the record shops still spin round here (5)"
+    },
+    {
+      "number": 15,
+      "row": 9,
+      "col": 7,
+      "answer": "FROG",
+      "clue": "It croaks by the lily pad (4)"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "DEAR",
+      "clue": "Beloved, or pricey (4)"
+    },
+    {
+      "number": 3,
+      "row": 1,
+      "col": 2,
+      "answer": "ARTIST",
+      "clue": "One who paints — ours leaves works around NW5 in secret (6)"
+    },
+    {
+      "number": 4,
+      "row": 1,
+      "col": 4,
+      "answer": "GIVE",
+      "clue": "Donate or hand over (4)"
+    },
+    {
+      "number": 5,
+      "row": 1,
+      "col": 9,
+      "answer": "TULIP",
+      "clue": "Spring bloom, Dutch favourite (5)"
+    },
+    {
+      "number": 6,
+      "row": 3,
+      "col": 6,
+      "answer": "BOARD",
+      "clue": "Plank, or get on a train (5)"
+    },
+    {
+      "number": 7,
+      "row": 3,
       "col": 11,
-      "answer": "DENY",
-      "clue": "Refuse to admit"
+      "answer": "WOLSEY",
+      "clue": "Cardinal's road off NW5, his namesake fell from favour (6)"
+    },
+    {
+      "number": 11,
+      "row": 6,
+      "col": 1,
+      "answer": "INDIE",
+      "clue": "The Forum and Bull & Gate were built on it (5)"
+    },
+    {
+      "number": 12,
+      "row": 6,
+      "col": 4,
+      "answer": "FEEL",
+      "clue": "Sense or emotion (4)"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 8,
+      "answer": "CURL",
+      "clue": "Twist of hair (4)"
     }
   ]
 }

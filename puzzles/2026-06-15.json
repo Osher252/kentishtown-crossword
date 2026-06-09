@@ -5,169 +5,169 @@
   "grid": [
     [
       "#",
+      "P",
       "#",
       "#",
       "#",
       "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "O",
+      "S",
+      "E",
+      "N",
+      "E",
+      "Y",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "W",
+      "#",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "E",
+      "#",
+      "H",
+      "#",
+      "U",
+      "#",
+      "#",
+      "F",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "A",
+      "L",
+      "M",
+      "E",
+      "R",
+      "S",
+      "T",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "P",
       "#",
       "L",
       "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "S",
-      "W",
-      "A",
       "I",
-      "N",
-      "S",
-      "#",
-      "#",
-      "#"
-    ],
-    [
       "#",
       "K",
       "#",
       "#",
-      "#",
-      "#",
-      "V",
-      "#",
-      "#",
-      "#",
-      "#",
+      "E",
       "#"
     ],
     [
       "#",
-      "E",
-      "#",
-      "N",
-      "O",
-      "V",
-      "E",
       "L",
       "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "N",
-      "#",
-      "I",
       "#",
       "#",
       "R",
       "#",
-      "F",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "T",
-      "I",
-      "G",
       "E",
+      "A",
       "R",
-      "#",
-      "S",
-      "O",
-      "N",
-      "I",
-      "C"
+      "L",
+      "Y"
     ],
     [
-      "#",
-      "I",
-      "#",
-      "H",
-      "#",
-      "#",
-      "#",
-      "#",
-      "O",
-      "#",
-      "#",
-      "O"
-    ],
-    [
-      "#",
-      "S",
-      "#",
-      "T",
-      "U",
-      "F",
-      "N",
-      "E",
-      "L",
-      "L",
-      "#",
-      "R"
-    ],
-    [
-      "#",
-      "H",
-      "#",
-      "#",
-      "#",
-      "L",
-      "#",
       "M",
-      "#",
-      "O",
-      "#",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "L",
-      "S",
-      "O",
-      "#",
-      "P",
-      "#",
-      "W",
-      "#",
-      "L"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "O",
-      "#",
-      "T",
-      "#",
       "E",
+      "D",
+      "I",
+      "A",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ],
     [
+      "R",
       "#",
       "#",
       "#",
       "E",
-      "A",
-      "R",
-      "L",
-      "Y",
       "#",
-      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "X",
+      "#",
+      "G",
+      "L",
+      "A",
+      "S",
+      "S",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ]
@@ -177,108 +177,94 @@
       "number": 2,
       "row": 1,
       "col": 3,
-      "answer": "SWAINS",
-      "clue": "___ Lane to Highgate Cemetery, Marx's resting place"
-    },
-    {
-      "number": 4,
-      "row": 3,
-      "col": 3,
-      "answer": "NOVEL",
-      "clue": "Fresh book"
+      "answer": "OSENEY",
+      "clue": "Crescent named for an Oxford abbey (6)"
     },
     {
       "number": 6,
       "row": 5,
       "col": 1,
-      "answer": "TIGER",
-      "clue": "Big cat, or urban fox's striped cousin"
+      "answer": "PALMERSTON",
+      "clue": "Dartmouth Park Hill boozer named for a Foreign Secretary (10)"
     },
     {
       "number": 7,
-      "row": 5,
-      "col": 7,
-      "answer": "SONIC",
-      "clue": "Hedgehog's video-game speed"
-    },
-    {
-      "number": 9,
       "row": 7,
-      "col": 3,
-      "answer": "TUFNELL",
-      "clue": "___ Park, tube stop near NW5"
+      "col": 7,
+      "answer": "EARL",
+      "clue": "Bird-catching, not late (5)"
     },
     {
-      "number": 13,
-      "row": 9,
-      "col": 2,
-      "answer": "ALSO",
-      "clue": "In addition"
-    },
-    {
-      "number": 14,
-      "row": 11,
-      "col": 3,
+      "number": 7,
+      "row": 7,
+      "col": 7,
       "answer": "EARLY",
-      "clue": "Premature, or before time"
+      "clue": "Bird-catching, not late (5)"
+    },
+    {
+      "number": 8,
+      "row": 8,
+      "col": 0,
+      "answer": "MEDIA",
+      "clue": "Press, the fourth estate (5)"
+    },
+    {
+      "number": 10,
+      "row": 11,
+      "col": 2,
+      "answer": "GLASS",
+      "clue": "What you raise for a toast (5)"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 6,
-      "answer": "LIVER",
-      "clue": "Organ that filters, briefly a Scouser"
+      "col": 1,
+      "answer": "PINEAPPLE",
+      "clue": "Leverton Street local with a cracking beer garden, not a fruit (9)"
+    },
+    {
+      "number": 2,
+      "row": 1,
+      "col": 3,
+      "answer": "ORWELL",
+      "clue": "Big Brother's creator, an NW5 resident (6)"
     },
     {
       "number": 3,
       "row": 2,
-      "col": 1,
-      "answer": "KENTISH",
-      "clue": "___ Town, our NW5 patch"
+      "col": 10,
+      "answer": "TUFNELL",
+      "clue": "Park just west of us, with its own tube stop (7)"
     },
     {
       "number": 4,
       "row": 3,
-      "col": 3,
-      "answer": "NIGHT",
-      "clue": "Indie gig time at The Forum"
+      "col": 7,
+      "answer": "BUSKER",
+      "clue": "Guitar-strumming earner outside the tube (6)"
     },
     {
       "number": 5,
       "row": 4,
-      "col": 8,
-      "answer": "FOOL",
-      "clue": "Jester or April victim"
+      "col": 5,
+      "answer": "HEIR",
+      "clue": "One next in line for the throne (4)"
     },
     {
       "number": 8,
-      "row": 5,
-      "col": 11,
-      "answer": "CORAL",
-      "clue": "Reef-building marine pink"
+      "row": 8,
+      "col": 0,
+      "answer": "MARX",
+      "clue": "Das Kapital author, once of Grafton Terrace (4)"
     },
     {
-      "number": 10,
-      "row": 7,
-      "col": 5,
-      "answer": "FLOOR",
-      "clue": "Storey, or dance venue surface"
-    },
-    {
-      "number": 11,
-      "row": 7,
-      "col": 7,
-      "answer": "EMPTY",
-      "clue": "Vacant, like a pub at closing"
-    },
-    {
-      "number": 12,
-      "row": 7,
-      "col": 9,
-      "answer": "LOWER",
-      "clue": "Drop down, or reduce"
+      "number": 9,
+      "row": 8,
+      "col": 4,
+      "answer": "AREA",
+      "clue": "Region, or NW5 postcode patch (4)"
     }
   ]
 }

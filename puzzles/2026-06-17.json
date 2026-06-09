@@ -11,295 +11,288 @@
       "#",
       "#",
       "#",
-      "H",
+      "#",
       "#",
       "#",
       "#",
       "#"
     ],
     [
-      "#",
-      "H",
+      "G",
       "A",
-      "M",
-      "P",
-      "S",
-      "T",
-      "E",
-      "A",
-      "D",
-      "#",
-      "#"
-    ],
-    [
-      "#",
+      "Z",
       "E",
       "#",
+      "G",
       "#",
-      "#",
-      "#",
-      "#",
-      "A",
-      "#",
-      "I",
-      "#",
-      "V"
-    ],
-    [
-      "#",
-      "A",
-      "#",
-      "L",
-      "O",
-      "W",
-      "E",
-      "R",
-      "#",
-      "R",
-      "#",
-      "A"
-    ],
-    [
       "C",
-      "L",
-      "U",
-      "E",
-      "#",
-      "O",
-      "#",
-      "T",
-      "O",
-      "T",
-      "A",
-      "L"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "M",
-      "#",
-      "O",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "O",
-      "#",
-      "D",
-      "#",
-      "#",
       "#",
       "#",
       "#",
       "#"
     ],
     [
+      "L",
       "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "#",
+      "M",
+      "A",
+      "L",
+      "D",
+      "E",
+      "N",
+      "#",
+      "#"
+    ],
+    [
       "B",
-      "A",
-      "N",
-      "D",
-      "S",
+      "#",
+      "P",
       "#",
       "#",
-      "Y",
+      "T",
       "#",
+      "E",
       "#",
-      "A"
+      "G",
+      "#",
+      "#"
     ],
     [
-      "#",
-      "#",
-      "X",
-      "#",
-      "I",
-      "#",
-      "C",
-      "#",
+      "E",
       "A",
+      "R",
+      "T",
+      "H",
       "#",
       "#",
-      "C"
+      "#",
+      "#",
+      "L",
+      "#",
+      "#"
     ],
     [
       "#",
       "#",
       "E",
       "#",
-      "S",
+      "#",
       "O",
-      "L",
-      "A",
+      "S",
+      "E",
+      "N",
+      "E",
+      "Y",
+      "#"
+    ],
+    [
+      "B",
+      "U",
+      "S",
+      "K",
+      "E",
       "R",
       "#",
       "#",
-      "R"
+      "#",
+      "R",
+      "#",
+      "S"
     ],
     [
-      "#",
-      "#",
-      "S",
-      "#",
-      "K",
-      "#",
       "A",
       "#",
-      "D",
-      "O",
-      "N",
-      "E"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "M",
-      "#",
       "S",
       "#",
       "#",
-      "#"
+      "W",
+      "#",
+      "O",
+      "N",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "G",
+      "R",
+      "E",
+      "W",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "H",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "M",
+      "U",
+      "R",
+      "A",
+      "L",
+      "#",
+      "#",
+      "V",
+      "A",
+      "L",
+      "E"
     ]
   ],
   "across": [
     {
-      "number": 2,
+      "number": 1,
       "row": 1,
-      "col": 1,
-      "answer": "HAMPSTEAD",
-      "clue": "Heath where NW5 folk swim in ponds"
+      "col": 0,
+      "answer": "GAZE",
+      "clue": "Stare fixedly"
     },
     {
       "number": 5,
       "row": 3,
-      "col": 3,
-      "answer": "LOWER",
-      "clue": "Reduce, or opposite of upper"
+      "col": 4,
+      "answer": "MALDEN",
+      "clue": "Road and arms where NW5 raises a glass"
     },
     {
       "number": 7,
-      "row": 4,
+      "row": 5,
       "col": 0,
-      "answer": "CLUE",
-      "clue": "Hint for a crossword solver"
+      "answer": "EARTH",
+      "clue": "Our planet, or where street art ends up"
     },
     {
       "number": 8,
-      "row": 4,
-      "col": 7,
-      "answer": "TOTAL",
-      "clue": "Complete sum or amount"
+      "row": 6,
+      "col": 5,
+      "answer": "OSENEY",
+      "clue": "Crescent borrowing an Oxford abbey's name"
     },
     {
       "number": 9,
       "row": 7,
-      "col": 1,
-      "answer": "BANDS",
-      "clue": "Indie groups playing The Forum, perhaps"
+      "col": 0,
+      "answer": "BUSKER",
+      "clue": "Tube-station serenader after your spare change"
     },
     {
-      "number": 15,
+      "number": 11,
+      "row": 8,
+      "col": 7,
+      "answer": "ONSET",
+      "clue": "Beginning of an illness"
+    },
+    {
+      "number": 12,
       "row": 9,
-      "col": 4,
-      "answer": "SOLAR",
-      "clue": "Powered by the sun"
+      "col": 3,
+      "answer": "GREW",
+      "clue": "Increased in size"
     },
     {
-      "number": 16,
-      "row": 10,
+      "number": 13,
+      "row": 11,
+      "col": 1,
+      "answer": "MURAL",
+      "clue": "Secret Artist NW5's painted gift to a wall"
+    },
+    {
+      "number": 14,
+      "row": 11,
       "col": 8,
-      "answer": "DONE",
-      "clue": "Finished, cooked just right"
+      "answer": "VALE",
+      "clue": "Hampstead's hidden hamlet, of Health"
     }
   ],
   "down": [
     {
       "number": 1,
-      "row": 0,
-      "col": 7,
-      "answer": "HEART",
-      "clue": "Centre of love, organ that beats"
+      "row": 1,
+      "col": 0,
+      "answer": "GLOBE",
+      "clue": "Theatre once Shakespeare's, or a light fitting"
     },
     {
       "number": 2,
       "row": 1,
-      "col": 1,
-      "answer": "HEAL",
-      "clue": "Mend or recover"
+      "col": 5,
+      "answer": "GOAT",
+      "clue": "Horned billy"
     },
     {
       "number": 3,
       "row": 1,
-      "col": 9,
-      "answer": "DIRT",
-      "clue": "Soil, or filth"
+      "col": 7,
+      "answer": "CODE",
+      "clue": "Secret cipher"
     },
     {
       "number": 4,
       "row": 2,
-      "col": 11,
-      "answer": "VALE",
-      "clue": "Gospel Oak's neighbour, York Rise's ___?"
-    },
-    {
-      "number": 5,
-      "row": 3,
-      "col": 3,
-      "answer": "LEMON",
-      "clue": "Sour yellow citrus fruit"
+      "col": 9,
+      "answer": "ANGLERS",
+      "clue": "Jolly pub and lane for fishermen"
     },
     {
       "number": 6,
-      "row": 3,
+      "row": 4,
+      "col": 2,
+      "answer": "PRESS",
+      "clue": "Squeeze, or Fleet Street collectively"
+    },
+    {
+      "number": 8,
+      "row": 6,
       "col": 5,
-      "answer": "WOODS",
-      "clue": "Hampstead Heath's wooded areas"
+      "answer": "ORWELL",
+      "clue": "NW5 author who watched Big Brother coming"
+    },
+    {
+      "number": 9,
+      "row": 7,
+      "col": 0,
+      "answer": "BATH",
+      "clue": "Long soak in the tub"
     },
     {
       "number": 10,
       "row": 7,
-      "col": 2,
-      "answer": "AXES",
-      "clue": "Chops or cutting tools"
-    },
-    {
-      "number": 11,
-      "row": 7,
-      "col": 4,
-      "answer": "DISK",
-      "clue": "Round vinyl record's old cousin"
-    },
-    {
-      "number": 12,
-      "row": 7,
-      "col": 8,
-      "answer": "YARDS",
-      "clue": "Swain's Lane measures, or gardens"
-    },
-    {
-      "number": 13,
-      "row": 7,
       "col": 11,
-      "answer": "ACRE",
-      "clue": "Land measure, about 4000 square metres"
-    },
-    {
-      "number": 14,
-      "row": 8,
-      "col": 6,
-      "answer": "CLAM",
-      "clue": "Shellfish that keeps quiet"
+      "answer": "STONE",
+      "clue": "Rolling type that gathers no moss"
     }
   ]
 }

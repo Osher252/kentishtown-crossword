@@ -5,169 +5,169 @@
   "grid": [
     [
       "#",
-      "R",
       "#",
       "#",
-      "#",
-      "D",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "E",
-      "#",
-      "B",
-      "R",
-      "U",
-      "N",
-      "C",
-      "H",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "A",
-      "#",
-      "O",
-      "#",
-      "T",
-      "#",
-      "I",
       "#",
       "#",
       "S",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#",
       "#"
     ],
     [
       "#",
+      "#",
+      "#",
       "C",
-      "A",
-      "R",
-      "R",
+      "I",
+      "T",
       "Y",
-      "#",
-      "T",
-      "O",
-      "U",
-      "C",
-      "H"
-    ],
-    [
-      "#",
-      "T",
-      "#",
-      "N",
-      "#",
-      "#",
-      "#",
-      "E",
-      "#",
-      "#",
+      "F",
       "A",
+      "R",
+      "M",
       "#"
     ],
     [
+      "A",
+      "R",
+      "E",
+      "A",
       "#",
+      "O",
       "#",
+      "A",
       "#",
+      "I",
       "#",
-      "#",
-      "#",
+      "#"
+    ],
+    [
+      "N",
       "#",
       "#",
       "V",
+      "O",
+      "C",
+      "A",
+      "L",
+      "#",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "A",
+      "L",
+      "E",
+      "#",
+      "K",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "#",
       "#",
       "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "I",
+      "S",
+      "L",
+      "I",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "P",
+      "A",
+      "N",
+      "C",
+      "R",
+      "A",
+      "S",
+      "#",
+      "#",
       "#"
     ],
     [
       "#",
-      "C",
-      "L",
+      "#",
+      "#",
+      "M",
+      "#",
       "A",
-      "S",
-      "H",
       "#",
       "R",
-      "I",
-      "S",
-      "E",
-      "N"
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
       "#",
       "#",
       "#",
-      "#",
-      "M",
-      "#",
-      "M",
-      "#",
-      "T",
-      "#",
-      "#",
-      "O"
-    ],
-    [
-      "#",
-      "C",
-      "#",
-      "D",
-      "A",
-      "T",
-      "A",
-      "#",
-      "A",
-      "#",
-      "#",
-      "R"
-    ],
-    [
-      "#",
-      "A",
-      "#",
-      "#",
-      "L",
-      "#",
-      "G",
-      "O",
-      "L",
-      "D",
-      "#",
-      "T"
-    ],
-    [
       "#",
       "F",
-      "I",
       "L",
-      "L",
-      "#",
-      "I",
-      "#",
+      "E",
+      "X",
       "#",
       "#",
       "#",
-      "H"
+      "#"
     ],
     [
       "#",
-      "E",
       "#",
       "#",
       "#",
       "#",
-      "C",
       "L",
-      "U",
-      "B",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ]
@@ -177,136 +177,101 @@
       "number": 3,
       "row": 1,
       "col": 3,
-      "answer": "BRUNCH",
-      "clue": "Weekend meal enjoyed at York Rise spots"
+      "answer": "CITYFARM",
+      "clue": "Where NW5 kids met sheep since 1972 (4,4)"
+    },
+    {
+      "number": 5,
+      "row": 2,
+      "col": 0,
+      "answer": "AREA",
+      "clue": "Region or zone (4)"
     },
     {
       "number": 6,
       "row": 3,
-      "col": 1,
-      "answer": "CARRY",
-      "clue": "Transport or bear the weight"
+      "col": 3,
+      "answer": "VOCAL",
+      "clue": "Outspoken, or about the singing (5)"
     },
     {
       "number": 7,
-      "row": 3,
-      "col": 7,
-      "answer": "TOUCH",
-      "clue": "Slight contact or finishing flourish"
+      "row": 4,
+      "col": 0,
+      "answer": "GALE",
+      "clue": "Force of wind, blowing hard (4)"
     },
     {
-      "number": 9,
+      "number": 8,
       "row": 6,
-      "col": 1,
-      "answer": "CLASH",
-      "clue": "The Forum band's loud confrontation"
+      "col": 2,
+      "answer": "ISLIP",
+      "clue": "Christ Church street off the Oxford-named estate (5)"
     },
     {
-      "number": 11,
-      "row": 6,
-      "col": 7,
-      "answer": "RISEN",
-      "clue": "York ___, NW5 street where the sun's come up"
-    },
-    {
-      "number": 15,
+      "number": 10,
       "row": 8,
-      "col": 3,
-      "answer": "DATA",
-      "clue": "Facts and figures for computing"
+      "col": 0,
+      "answer": "STPANCRAS",
+      "clue": "Old borough that once ruled Kentish Town — and a fine station (2,7)"
     },
     {
-      "number": 16,
-      "row": 9,
-      "col": 6,
-      "answer": "GOLD",
-      "clue": "Marx's value, like Heath's medals?"
-    },
-    {
-      "number": 17,
+      "number": 12,
       "row": 10,
-      "col": 1,
-      "answer": "FILL",
-      "clue": "Top up a glass"
-    },
-    {
-      "number": 18,
-      "row": 11,
-      "col": 6,
-      "answer": "CLUB",
-      "clue": "Vinyl shop bargain, or Camden nightspot"
+      "col": 4,
+      "answer": "FLEX",
+      "clue": "Bend, or what flexible muscles do (4)"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 1,
-      "answer": "REACT",
-      "clue": "Respond to an indie gig"
+      "col": 5,
+      "answer": "STOCK",
+      "clue": "Soup base, or shares (5)"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 5,
-      "answer": "DUTY",
-      "clue": "Tax obligation at the bar"
+      "col": 9,
+      "answer": "GRIP",
+      "clue": "Firm hold on the handle (4)"
     },
     {
       "number": 3,
       "row": 1,
       "col": 3,
-      "answer": "BORN",
-      "clue": "Brought into the world"
+      "answer": "CAVERSHAM",
+      "clue": "Road in the Oxford-college estate, also a Reading town (9)"
     },
     {
       "number": 4,
       "row": 1,
       "col": 7,
-      "answer": "CITE",
-      "clue": "Quote a source"
+      "answer": "FALL",
+      "clue": "Autumn, or what pride comes before (4)"
     },
     {
       "number": 5,
       "row": 2,
-      "col": 10,
-      "answer": "SCARE",
-      "clue": "Fright from urban foxes at night"
+      "col": 0,
+      "answer": "ANGLERS",
+      "clue": "Jolly drinkers on their own NW5 lane (7)"
     },
     {
-      "number": 8,
-      "row": 5,
-      "col": 8,
-      "answer": "VITAL",
-      "clue": "Absolutely essential"
-    },
-    {
-      "number": 10,
-      "row": 6,
-      "col": 4,
-      "answer": "SMALL",
-      "clue": "Secret Artist's paintings are pleasingly this"
-    },
-    {
-      "number": 12,
-      "row": 6,
-      "col": 11,
-      "answer": "NORTH",
-      "clue": "Direction of Kentish Town in postcode NW5"
-    },
-    {
-      "number": 13,
+      "number": 9,
       "row": 7,
-      "col": 6,
-      "answer": "MAGIC",
-      "clue": "The Pineapple pint feels like this"
+      "col": 7,
+      "answer": "MARX",
+      "clue": "Bearded Grafton Terrace lodger who wrote Das Kapital (4)"
     },
     {
-      "number": 14,
+      "number": 11,
       "row": 8,
-      "col": 1,
-      "answer": "CAFE",
-      "clue": "Coffee stop dotting Kentish Town Road"
+      "col": 5,
+      "answer": "CALL",
+      "clue": "Phone, or a bird's cry (4)"
     }
   ]
 }

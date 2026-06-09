@@ -6,314 +6,286 @@
     [
       "#",
       "#",
-      "S",
       "#",
       "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "V",
-      "#",
-      "T",
-      "U",
-      "F",
-      "N",
-      "E",
+      "C",
       "L",
-      "L",
-      "#",
-      "#",
-      "#"
-    ],
-    [
       "A",
+      "M",
       "#",
-      "A",
-      "#",
-      "#",
-      "#",
-      "A",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "L",
-      "O",
-      "G",
-      "I",
       "C",
       "#",
-      "G",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "E",
-      "#",
-      "E",
-      "#",
-      "H",
-      "#",
-      "L",
-      "I",
-      "V",
-      "E",
-      "R",
       "#"
     ],
     [
       "#",
       "#",
       "#",
-      "F",
-      "A",
       "T",
-      "E",
       "#",
       "#",
       "#",
+      "U",
+      "N",
+      "I",
       "O",
-      "#"
+      "N"
     ],
     [
       "#",
       "#",
-      "#",
-      "#",
-      "R",
-      "#",
-      "#",
-      "D",
-      "E",
       "B",
       "U",
-      "T"
+      "S",
+      "K",
+      "E",
+      "R",
+      "#",
+      "T",
+      "#",
+      "#"
     ],
     [
-      "P",
       "#",
-      "C",
+      "#",
+      "#",
+      "F",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "Y",
+      "#",
+      "A"
+    ],
+    [
+      "B",
+      "R",
+      "I",
+      "N",
+      "G",
+      "#",
+      "#",
+      "L",
+      "#",
+      "F",
+      "#",
+      "S"
+    ],
+    [
       "O",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "F",
+      "L",
+      "A",
       "M",
       "E",
       "#",
-      "#",
-      "#",
-      "#",
-      "T",
-      "#"
+      "F",
+      "R",
+      "E",
+      "E"
     ],
     [
+      "T",
+      "#",
+      "#",
+      "L",
+      "#",
       "A",
       "#",
-      "H",
       "#",
       "#",
-      "X",
+      "M",
+      "#",
+      "M"
+    ],
+    [
       "#",
       "#",
-      "F",
-      "E",
-      "E",
+      "D",
+      "#",
+      "#",
+      "L",
+      "I",
+      "D",
+      "O",
+      "#",
+      "#",
+      "B"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "L"
     ],
     [
-      "N",
       "#",
-      "I",
-      "#",
-      "V",
-      "I",
-      "N",
-      "Y",
-      "L",
-      "#",
-      "#",
-      "I"
-    ],
-    [
-      "E",
-      "X",
-      "P",
-      "O",
       "#",
       "T",
-      "#",
-      "#",
-      "A",
-      "G",
+      "I",
+      "M",
       "E",
-      "D"
+      "R",
+      "#",
+      "B",
+      "O",
+      "D",
+      "Y"
     ],
     [
-      "L",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "N",
       "#",
       "#",
       "#",
       "#",
       "#",
-      "#",
-      "#",
-      "W",
-      "#",
-      "#",
-      "O"
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 3,
-      "row": 1,
-      "col": 2,
-      "answer": "TUFNELL",
-      "clue": "Local park is a stop on the Northern line"
+      "number": 1,
+      "row": 0,
+      "col": 4,
+      "answer": "CLAM",
+      "clue": "Bivalve that clams up"
     },
     {
       "number": 5,
-      "row": 3,
-      "col": 0,
-      "answer": "LOGIC",
-      "clue": "Sound reasoning"
-    },
-    {
-      "number": 7,
-      "row": 4,
-      "col": 6,
-      "answer": "LIVER",
-      "clue": "Organ that filters blood"
-    },
-    {
-      "number": 9,
-      "row": 5,
-      "col": 3,
-      "answer": "FATE",
-      "clue": "Destiny one cannot escape"
-    },
-    {
-      "number": 10,
-      "row": 6,
+      "row": 1,
       "col": 7,
-      "answer": "DEBUT",
-      "clue": "First public appearance"
-    },
-    {
-      "number": 12,
-      "row": 7,
-      "col": 2,
-      "answer": "COME",
-      "clue": "Arrive at last"
-    },
-    {
-      "number": 14,
-      "row": 8,
-      "col": 8,
-      "answer": "FEEL",
-      "clue": "Sense by touch"
-    },
-    {
-      "number": 16,
-      "row": 9,
-      "col": 4,
-      "answer": "VINYL",
-      "clue": "Records spun at NW5 shops"
-    },
-    {
-      "number": 17,
-      "row": 10,
-      "col": 0,
-      "answer": "EXPO",
-      "clue": "Trade show, briefly"
-    },
-    {
-      "number": 18,
-      "row": 10,
-      "col": 8,
-      "answer": "AGED",
-      "clue": "Matured, like fine wine"
-    }
-  ],
-  "down": [
-    {
-      "number": 1,
-      "row": 0,
-      "col": 2,
-      "answer": "STAGE",
-      "clue": "Where indie gigs unfold at The Forum"
-    },
-    {
-      "number": 2,
-      "row": 1,
-      "col": 0,
-      "answer": "VALE",
-      "clue": "Gospel Oak's neighbour, the green valley"
-    },
-    {
-      "number": 4,
-      "row": 1,
-      "col": 6,
-      "answer": "EAGLE",
-      "clue": "Bird soaring over Parliament Hill"
+      "answer": "UNION",
+      "clue": "Marriage, or labour group"
     },
     {
       "number": 6,
-      "row": 3,
-      "col": 4,
-      "answer": "CHARM",
-      "clue": "Magical appeal"
+      "row": 2,
+      "col": 2,
+      "answer": "BUSKER",
+      "clue": "Tube-station serenader you toss coins to — guitar case open by the NW5 entrance"
     },
     {
       "number": 8,
       "row": 4,
-      "col": 10,
-      "answer": "ROUTE",
-      "clue": "Path the Overground takes"
+      "col": 0,
+      "answer": "BRING",
+      "clue": "Carry along"
+    },
+    {
+      "number": 9,
+      "row": 6,
+      "col": 2,
+      "answer": "FLAME",
+      "clue": "Tongue of fire"
     },
     {
       "number": 11,
-      "row": 7,
-      "col": 0,
-      "answer": "PANEL",
-      "clue": "Discussion group's board"
-    },
-    {
-      "number": 12,
-      "row": 7,
-      "col": 2,
-      "answer": "CHIP",
-      "clue": "Fried potato or microchip"
+      "row": 6,
+      "col": 8,
+      "answer": "FREE",
+      "clue": "Without charge"
     },
     {
       "number": 13,
-      "row": 7,
+      "row": 8,
       "col": 5,
-      "answer": "EXIT",
-      "clue": "Way out of The Pineapple"
+      "answer": "LIDO",
+      "clue": "Heath's open-air dip where hardy NW5 souls swim year-round"
     },
     {
       "number": 14,
-      "row": 8,
-      "col": 8,
-      "answer": "FLAW",
-      "clue": "Imperfection or crack"
+      "row": 10,
+      "col": 2,
+      "answer": "TIMER",
+      "clue": "Egg-boiling device"
     },
     {
       "number": 15,
-      "row": 8,
+      "row": 10,
+      "col": 8,
+      "answer": "BODY",
+      "clue": "Corpse, or torso"
+    }
+  ],
+  "down": [
+    {
+      "number": 2,
+      "row": 0,
+      "col": 7,
+      "answer": "MURAL",
+      "clue": "Wall art, a Secret Artist NW5 calling card"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 9,
+      "answer": "CITYFARM",
+      "clue": "Cressfield Close spot with goats, pigs and free entry"
+    },
+    {
+      "number": 4,
+      "row": 1,
+      "col": 3,
+      "answer": "TUFNELL",
+      "clue": "___ Park, the bit just west of us"
+    },
+    {
+      "number": 7,
+      "row": 3,
       "col": 11,
-      "answer": "LIDO",
-      "clue": "Open-air pool near the Heath ponds"
+      "answer": "ASSEMBLY",
+      "clue": "Grade II listed boozer at 292 Kentish Town Road (two words)"
+    },
+    {
+      "number": 8,
+      "row": 4,
+      "col": 0,
+      "answer": "BOOT",
+      "clue": "Footwear, or car's storage"
+    },
+    {
+      "number": 10,
+      "row": 6,
+      "col": 5,
+      "answer": "MALDEN",
+      "clue": "___ Road, or its eponymous Arms pub off it"
+    },
+    {
+      "number": 12,
+      "row": 8,
+      "col": 2,
+      "answer": "DATE",
+      "clue": "Romantic outing, or a sweet fruit"
     }
   ]
 }
