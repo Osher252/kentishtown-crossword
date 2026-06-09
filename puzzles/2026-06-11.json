@@ -1,87 +1,298 @@
 {
   "date": "2026-06-11",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "C",
-      "U",
+      "#",
+      "#",
+      "#",
+      "#",
+      "F",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
       "B",
+      "R",
+      "U",
+      "N",
+      "C",
+      "H",
+      "#",
+      "V",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
       "I",
-      "C"
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "A",
+      "N",
+      "D",
+      "S",
+      "#",
+      "L",
+      "I",
+      "D",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "#",
+      "K",
+      "#",
+      "T",
+      "#",
+      "L",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "B",
+      "E",
+      "N",
+      "D",
+      "#",
+      "#",
+      "E",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "H"
     ],
     [
       "O",
       "#",
-      "A",
+      "D",
       "#",
-      "A"
-    ],
-    [
-      "R",
-      "I",
-      "S",
+      "#",
+      "#",
       "E",
-      "N"
-    ],
-    [
-      "A",
       "#",
-      "I",
       "#",
-      "A"
+      "#",
+      "#",
+      "E"
     ],
     [
       "L",
+      "#",
+      "#",
+      "#",
+      "F",
       "O",
+      "L",
+      "K",
+      "#",
+      "#",
+      "#",
+      "R"
+    ],
+    [
+      "D",
+      "#",
       "C",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "B",
+      "L",
+      "U",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
       "A",
-      "L"
+      "#",
+      "D",
+      "E",
+      "S",
+      "K",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "M",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "CUBIC",
-      "clue": "Shaped like dice, perhaps measuring volume in three dimensions"
-    },
-    {
-      "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "RISEN",
-      "clue": "Got up, as bread dough has on Parliament Hill picnic morning"
+      "number": 3,
+      "row": 1,
+      "col": 3,
+      "answer": "BRUNCH",
+      "clue": "Weekend feast after a Pineapple pint"
     },
     {
       "number": 5,
-      "row": 4,
+      "row": 3,
+      "col": 2,
+      "answer": "BANDS",
+      "clue": "Indie acts gigging at The Forum"
+    },
+    {
+      "number": 7,
+      "row": 3,
+      "col": 8,
+      "answer": "LIDO",
+      "clue": "Open-air pool like the Heath's ponds"
+    },
+    {
+      "number": 9,
+      "row": 5,
       "col": 0,
-      "answer": "LOCAL",
-      "clue": "The Pineapple is the perfect one for an NW5 pint"
+      "answer": "BEND",
+      "clue": "Curve in Swain's Lane"
+    },
+    {
+      "number": 10,
+      "row": 7,
+      "col": 4,
+      "answer": "FOLK",
+      "clue": "Traditional music, or local Gospel Oak?"
+    },
+    {
+      "number": 12,
+      "row": 9,
+      "col": 1,
+      "answer": "BLUR",
+      "clue": "Smear or indistinct '90s band"
+    },
+    {
+      "number": 13,
+      "row": 10,
+      "col": 4,
+      "answer": "DESK",
+      "clue": "Writing table"
+    },
+    {
+      "number": 14,
+      "row": 11,
+      "col": 0,
+      "answer": "DAME",
+      "clue": "Pantomime grand lady"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "CORAL",
-      "clue": "Reef-building organism, a pinkish-red hue"
+      "col": 4,
+      "answer": "FRANK",
+      "clue": "Honest hot dog?"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "BASIC",
-      "clue": "Fundamental, no-frills sort of thing"
+      "col": 10,
+      "answer": "AVID",
+      "clue": "Keen vinyl collector"
     },
     {
-      "number": 3,
-      "row": 0,
+      "number": 4,
+      "row": 1,
+      "col": 8,
+      "answer": "HOLLY",
+      "clue": "Festive evergreen with red berries"
+    },
+    {
+      "number": 5,
+      "row": 3,
+      "col": 2,
+      "answer": "BOND",
+      "clue": "007's surname"
+    },
+    {
+      "number": 6,
+      "row": 3,
+      "col": 6,
+      "answer": "STEEL",
+      "clue": "Tough metal for nerves of it"
+    },
+    {
+      "number": 8,
+      "row": 3,
+      "col": 11,
+      "answer": "OTHER",
+      "clue": "The remaining one"
+    },
+    {
+      "number": 9,
+      "row": 5,
+      "col": 0,
+      "answer": "BOLD",
+      "clue": "Daring and bright"
+    },
+    {
+      "number": 10,
+      "row": 7,
       "col": 4,
-      "answer": "CANAL",
-      "clue": "Regent's waterway winding through Camden"
+      "answer": "FORD",
+      "clue": "River crossing, or Harrison the actor"
+    },
+    {
+      "number": 11,
+      "row": 8,
+      "col": 2,
+      "answer": "CLAM",
+      "clue": "Shellfish that clams up?"
     }
   ]
 }

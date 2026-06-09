@@ -1,87 +1,305 @@
 {
   "date": "2026-06-22",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "L",
-      "A",
-      "G",
-      "E",
-      "R"
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "B",
+      "#",
+      "P",
+      "#",
+      "#"
     ],
     [
+      "T",
+      "#",
+      "H",
+      "I",
+      "G",
+      "H",
+      "G",
+      "A",
+      "T",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "F",
+      "#",
+      "#",
+      "L",
+      "O",
+      "C",
+      "A",
+      "L",
+      "#",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "#",
+      "#",
       "O",
       "#",
       "H",
       "#",
-      "A"
-    ],
-    [
+      "#",
       "C",
-      "R",
-      "O",
-      "W",
-      "D"
+      "L",
+      "A",
+      "M"
     ],
     [
-      "A",
+      "E",
+      "X",
+      "P",
+      "O",
       "#",
-      "S",
+      "I",
       "#",
-      "A"
+      "O",
+      "#",
+      "#",
+      "#",
+      "U"
     ],
     [
       "L",
-      "A",
-      "T",
+      "#",
+      "#",
+      "S",
+      "#",
+      "P",
       "E",
+      "A",
+      "C",
+      "E",
+      "#",
       "R"
+    ],
+    [
+      "L",
+      "E",
+      "V",
+      "E",
+      "L",
+      "#",
+      "#",
+      "K",
+      "#",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "H",
+      "U",
+      "N",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "D",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "O",
+      "R",
+      "C",
+      "H",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "LAGER",
-      "clue": "Pint pulled at The Pineapple, mostly large"
-    },
-    {
       "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "CROWD",
-      "clue": "The Forum gig draws a noisy one"
+      "row": 1,
+      "col": 2,
+      "answer": "HIGHGATE",
+      "clue": "Hilly area near Swain's Lane, home to Marx's grave"
     },
     {
       "number": 5,
+      "row": 3,
+      "col": 3,
+      "answer": "LOCAL",
+      "clue": "Like The Pineapple, the friendly NW5 pub"
+    },
+    {
+      "number": 7,
       "row": 4,
+      "col": 8,
+      "answer": "CLAM",
+      "clue": "Shellfish that clams up?"
+    },
+    {
+      "number": 9,
+      "row": 5,
       "col": 0,
-      "answer": "LATER",
-      "clue": "After a while, sounds like Camden waterway after rain (5)"
+      "answer": "EXPO",
+      "clue": "Big exhibition, briefly"
+    },
+    {
+      "number": 11,
+      "row": 6,
+      "col": 5,
+      "answer": "PEACE",
+      "clue": "Calm on Parliament Hill (5)"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 0,
+      "answer": "LEVEL",
+      "clue": "Flat, like a building floor"
+    },
+    {
+      "number": 15,
+      "row": 9,
+      "col": 5,
+      "answer": "HUNT",
+      "clue": "Search, or chase the urban fox"
+    },
+    {
+      "number": 16,
+      "row": 10,
+      "col": 0,
+      "answer": "HEAD",
+      "clue": "Lead a body part"
+    },
+    {
+      "number": 17,
+      "row": 11,
+      "col": 5,
+      "answer": "TORCH",
+      "clue": "Flaming light, or carry on"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "LOCAL",
-      "clue": "The Pineapple, perhaps, to a Leverton Street regular"
+      "col": 7,
+      "answer": "BALL",
+      "clue": "Dance, or round object"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "GHOST",
-      "clue": "Spirit that might haunt Highgate Cemetery up Swain's Lane"
+      "col": 9,
+      "answer": "PEDAL",
+      "clue": "Push it on the bike along Regent's Canal"
     },
     {
       "number": 3,
-      "row": 0,
-      "col": 4,
-      "answer": "RADAR",
-      "clue": "Detection system that reads the same backwards as forwards"
+      "row": 1,
+      "col": 0,
+      "answer": "TUFNELL",
+      "clue": "___ Park, station next to Kentish Town"
+    },
+    {
+      "number": 5,
+      "row": 3,
+      "col": 3,
+      "answer": "LOOSE",
+      "clue": "Slack, not tight"
+    },
+    {
+      "number": 6,
+      "row": 3,
+      "col": 5,
+      "answer": "CHIP",
+      "clue": "Crisp, or microchip's bit"
+    },
+    {
+      "number": 8,
+      "row": 4,
+      "col": 11,
+      "answer": "MURAL",
+      "clue": "Secret Artist's larger wall painting?"
+    },
+    {
+      "number": 10,
+      "row": 5,
+      "col": 7,
+      "answer": "OAKEN",
+      "clue": "Made of wood, like Gospel ___"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 1,
+      "answer": "EASE",
+      "clue": "Comfort, or relaxed manner"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 5,
+      "answer": "CHAT",
+      "clue": "Friendly natter at the craft beer bar"
     }
   ]
 }

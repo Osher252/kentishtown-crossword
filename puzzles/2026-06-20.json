@@ -1,87 +1,256 @@
 {
   "date": "2026-06-20",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "F",
+      "#",
+      "G",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
       "L",
-      "A",
-      "N",
-      "T"
-    ],
-    [
-      "A",
-      "#",
-      "W",
-      "#",
-      "O"
-    ],
-    [
-      "T",
+      "E",
+      "V",
+      "E",
       "R",
-      "A",
-      "C",
-      "K"
+      "T",
+      "O",
+      "N",
+      "#",
+      "#"
     ],
     [
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
       "H",
+      "I",
+      "R",
+      "E",
       "#",
-      "K",
       "#",
-      "E"
+      "#"
     ],
     [
+      "#",
+      "C",
+      "O",
+      "L",
+      "D",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "E",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
       "S",
       "T",
       "E",
       "R",
-      "N"
+      "N",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "A",
+      "D",
+      "A",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "PLANT",
-      "clue": "Factory's pineapple, perhaps, that takes root in NW5?"
+      "number": 3,
+      "row": 1,
+      "col": 2,
+      "answer": "LEVERTON",
+      "clue": "Street where The Pineapple pours its pints"
     },
     {
       "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "TRACK",
-      "clue": "Follow the railway line through Gospel Oak"
+      "row": 3,
+      "col": 5,
+      "answer": "HIRE",
+      "clue": "Rent, as a vinyl-spinning DJ might"
     },
     {
       "number": 5,
       "row": 4,
-      "col": 0,
+      "col": 1,
+      "answer": "COLD",
+      "clue": "Like the Heath's bracing bathing ponds"
+    },
+    {
+      "number": 8,
+      "row": 8,
+      "col": 3,
       "answer": "STERN",
-      "clue": "Severe captain's rear"
+      "clue": "Severe, like a captain's back end"
+    },
+    {
+      "number": 9,
+      "row": 11,
+      "col": 3,
+      "answer": "RADAR",
+      "clue": "Detector spinning to find planes"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "PATHS",
-      "clue": "Routes across Hampstead Heath to Parliament Hill"
+      "col": 6,
+      "answer": "FRUIT",
+      "clue": "What the Secret Artist's pineapple isn't?"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "AWAKE",
-      "clue": "Alert and not asleep at The Forum"
+      "col": 8,
+      "answer": "GORE",
+      "clue": "Blood, or US presidential candidate Al"
     },
     {
       "number": 3,
-      "row": 0,
-      "col": 4,
-      "answer": "TOKEN",
-      "clue": "A gesture, or a small painting left around NW5 by a secret artist?"
+      "row": 1,
+      "col": 2,
+      "answer": "LIDO",
+      "clue": "Open-air pool, Heath swimmers' delight"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 1,
+      "answer": "CENT",
+      "clue": "Hundredth of a dollar"
+    },
+    {
+      "number": 6,
+      "row": 4,
+      "col": 3,
+      "answer": "LANES",
+      "clue": "Swain's and others leading to Highgate Cemetery"
+    },
+    {
+      "number": 7,
+      "row": 7,
+      "col": 6,
+      "answer": "ARENA",
+      "clue": "The Forum, essentially a music ___"
     }
   ]
 }

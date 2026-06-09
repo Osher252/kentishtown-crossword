@@ -1,87 +1,319 @@
 {
   "date": "2026-06-18",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "A",
-      "L",
-      "L",
-      "E",
-      "Y"
-    ],
-    [
+      "#",
+      "#",
       "S",
       "#",
-      "A",
       "#",
-      "A"
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
-      "S",
+      "V",
+      "#",
+      "T",
       "U",
-      "G",
+      "F",
+      "N",
+      "E",
+      "L",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
       "A",
-      "R"
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "O",
+      "G",
+      "I",
+      "C",
+      "#",
+      "G",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
       "E",
       "#",
       "E",
       "#",
+      "H",
+      "#",
+      "L",
+      "I",
+      "V",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "F",
+      "A",
+      "T",
+      "E",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "D",
+      "E",
+      "B",
+      "U",
+      "T"
+    ],
+    [
+      "P",
+      "#",
+      "C",
+      "O",
+      "M",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "H",
+      "#",
+      "#",
+      "X",
+      "#",
+      "#",
+      "F",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "N",
+      "#",
+      "I",
+      "#",
+      "V",
+      "I",
+      "N",
+      "Y",
+      "L",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "E",
+      "X",
+      "P",
+      "O",
+      "#",
+      "T",
+      "#",
+      "#",
+      "A",
+      "G",
+      "E",
       "D"
     ],
     [
-      "T",
-      "E",
-      "R",
-      "M",
-      "S"
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "W",
+      "#",
+      "#",
+      "O"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "ALLEY",
-      "clue": "Narrow passage where secretartistnw5 might leave a hidden gem (5)"
-    },
-    {
-      "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "SUGAR",
-      "clue": "Sweet stuff that's not on a pineapple, but found atop one at the Leverton Street pub (5)"
+      "number": 3,
+      "row": 1,
+      "col": 2,
+      "answer": "TUFNELL",
+      "clue": "Local park is a stop on the Northern line"
     },
     {
       "number": 5,
-      "row": 4,
+      "row": 3,
       "col": 0,
-      "answer": "TERMS",
-      "clue": "Conditions of agreement, or what students study in (5)"
+      "answer": "LOGIC",
+      "clue": "Sound reasoning"
+    },
+    {
+      "number": 7,
+      "row": 4,
+      "col": 6,
+      "answer": "LIVER",
+      "clue": "Organ that filters blood"
+    },
+    {
+      "number": 9,
+      "row": 5,
+      "col": 3,
+      "answer": "FATE",
+      "clue": "Destiny one cannot escape"
+    },
+    {
+      "number": 10,
+      "row": 6,
+      "col": 7,
+      "answer": "DEBUT",
+      "clue": "First public appearance"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 2,
+      "answer": "COME",
+      "clue": "Arrive at last"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 8,
+      "answer": "FEEL",
+      "clue": "Sense by touch"
+    },
+    {
+      "number": 16,
+      "row": 9,
+      "col": 4,
+      "answer": "VINYL",
+      "clue": "Records spun at NW5 shops"
+    },
+    {
+      "number": 17,
+      "row": 10,
+      "col": 0,
+      "answer": "EXPO",
+      "clue": "Trade show, briefly"
+    },
+    {
+      "number": 18,
+      "row": 10,
+      "col": 8,
+      "answer": "AGED",
+      "clue": "Matured, like fine wine"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "ASSET",
-      "clue": "Parliament Hill's view could be considered a valuable one of NW5 (5)"
+      "col": 2,
+      "answer": "STAGE",
+      "clue": "Where indie gigs unfold at The Forum"
     },
     {
       "number": 2,
-      "row": 0,
-      "col": 2,
-      "answer": "LAGER",
-      "clue": "Pint pulled at The Pineapple, brewed cold and crisp (5)"
+      "row": 1,
+      "col": 0,
+      "answer": "VALE",
+      "clue": "Gospel Oak's neighbour, the green valley"
     },
     {
-      "number": 3,
-      "row": 0,
+      "number": 4,
+      "row": 1,
+      "col": 6,
+      "answer": "EAGLE",
+      "clue": "Bird soaring over Parliament Hill"
+    },
+    {
+      "number": 6,
+      "row": 3,
       "col": 4,
-      "answer": "YARDS",
-      "clue": "Measures of fabric, or Highgate's stretches near Swain's Lane (5)"
+      "answer": "CHARM",
+      "clue": "Magical appeal"
+    },
+    {
+      "number": 8,
+      "row": 4,
+      "col": 10,
+      "answer": "ROUTE",
+      "clue": "Path the Overground takes"
+    },
+    {
+      "number": 11,
+      "row": 7,
+      "col": 0,
+      "answer": "PANEL",
+      "clue": "Discussion group's board"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 2,
+      "answer": "CHIP",
+      "clue": "Fried potato or microchip"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 5,
+      "answer": "EXIT",
+      "clue": "Way out of The Pineapple"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 8,
+      "answer": "FLAW",
+      "clue": "Imperfection or crack"
+    },
+    {
+      "number": 15,
+      "row": 8,
+      "col": 11,
+      "answer": "LIDO",
+      "clue": "Open-air pool near the Heath ponds"
     }
   ]
 }

@@ -1,41 +1,175 @@
 {
   "date": "2026-06-12",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "S",
+      "D",
+      "A",
       "T",
-      "E",
-      "R",
-      "N"
+      "A",
+      "#",
+      "#",
+      "#",
+      "W",
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
-      "M",
+      "E",
       "#",
+      "#",
+      "G",
+      "O",
+      "S",
+      "P",
+      "E",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "E",
+      "#",
+      "T",
+      "#",
+      "A",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "K",
+      "#",
+      "#",
+      "D",
+      "#",
+      "O",
+      "#",
+      "V",
+      "#",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "R",
+      "#",
+      "E",
       "X",
-      "#",
-      "O"
+      "I",
+      "T",
+      "#"
     ],
     [
-      "A",
-      "F",
-      "T",
+      "#",
+      "P",
       "E",
-      "R"
+      "N",
+      "N",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#"
     ],
     [
       "S",
       "#",
-      "R",
+      "S",
       "#",
-      "T"
+      "#",
+      "#",
+      "#",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
     ],
     [
-      "H",
-      "E",
+      "O",
       "A",
+      "K",
+      "E",
+      "N",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
       "T",
-      "H"
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "#",
+      "E",
+      "#",
+      "H",
+      "U",
+      "M",
+      "P",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "S",
+      "#",
+      "L",
+      "A",
+      "N",
+      "E",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ]
   ],
   "across": [
@@ -43,22 +177,71 @@
       "number": 1,
       "row": 0,
       "col": 0,
-      "answer": "STERN",
-      "clue": "Severe back end of a boat"
+      "answer": "DATA",
+      "clue": "Facts and figures for processing"
     },
     {
       "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "AFTER",
-      "clue": "Following the manner of, seeking employment"
+      "row": 1,
+      "col": 3,
+      "answer": "GOSPEL",
+      "clue": "Local oak's start, where soul music began (6)"
     },
     {
-      "number": 5,
-      "row": 4,
+      "number": 6,
+      "row": 2,
       "col": 0,
-      "answer": "HEATH",
-      "clue": "Hampstead's open expanse, Parliament Hill's neighbour"
+      "answer": "CONE",
+      "clue": "Ice cream holder or traffic marker"
+    },
+    {
+      "number": 9,
+      "row": 4,
+      "col": 7,
+      "answer": "EXIT",
+      "clue": "Way out of the venue"
+    },
+    {
+      "number": 10,
+      "row": 5,
+      "col": 1,
+      "answer": "PENNY",
+      "clue": "Coin worth little, but Lane's first"
+    },
+    {
+      "number": 12,
+      "row": 6,
+      "col": 7,
+      "answer": "HOUSE",
+      "clue": "Music venue, or where you live"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 0,
+      "answer": "OAKEN",
+      "clue": "Made of strong wood, like NW5's famous Gospel ___"
+    },
+    {
+      "number": 15,
+      "row": 8,
+      "col": 5,
+      "answer": "HUMP",
+      "clue": "Camel's back feature, or speed bump"
+    },
+    {
+      "number": 16,
+      "row": 9,
+      "col": 0,
+      "answer": "APPLE",
+      "clue": "Fruit the Secret Artist might paint"
+    },
+    {
+      "number": 17,
+      "row": 10,
+      "col": 5,
+      "answer": "LANES",
+      "clue": "Swain's and others lead to Highgate (5)"
     }
   ],
   "down": [
@@ -66,22 +249,64 @@
       "number": 1,
       "row": 0,
       "col": 0,
-      "answer": "SMASH",
-      "clue": "Hit hard, like a tennis ace at The Forum's gigs?"
+      "answer": "DECK",
+      "clue": "Ship's floor, or pack of cards"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "EXTRA",
-      "clue": "Additional player at Camden cricket — and a film background role"
+      "col": 3,
+      "answer": "AGED",
+      "clue": "Old, like vinyl in NW5 shops"
     },
     {
       "number": 3,
       "row": 0,
-      "col": 4,
-      "answer": "NORTH",
-      "clue": "Direction to NW5 from central London"
+      "col": 7,
+      "answer": "WEAVE",
+      "clue": "Interlace threads on a loom"
+    },
+    {
+      "number": 5,
+      "row": 1,
+      "col": 5,
+      "answer": "STORY",
+      "clue": "Building floor, or a tale"
+    },
+    {
+      "number": 7,
+      "row": 2,
+      "col": 10,
+      "answer": "ARTIST",
+      "clue": "Secret one leaves paintings round NW5 (6)"
+    },
+    {
+      "number": 8,
+      "row": 4,
+      "col": 2,
+      "answer": "DESK",
+      "clue": "Where you write, found in office"
+    },
+    {
+      "number": 11,
+      "row": 6,
+      "col": 0,
+      "answer": "SOLAR",
+      "clue": "Powered by the sun"
+    },
+    {
+      "number": 12,
+      "row": 6,
+      "col": 7,
+      "answer": "HUMAN",
+      "clue": "One of us, not robot"
+    },
+    {
+      "number": 14,
+      "row": 7,
+      "col": 3,
+      "answer": "EELS",
+      "clue": "Slippery fish, jellied in old London"
     }
   ]
 }

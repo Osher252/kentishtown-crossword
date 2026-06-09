@@ -1,87 +1,305 @@
 {
   "date": "2026-06-10",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "H",
       "A",
+      "M",
+      "P",
       "S",
+      "T",
       "E",
-      "R"
-    ],
-    [
-      "O",
+      "A",
+      "D",
       "#",
-      "O",
-      "#",
-      "A"
+      "D"
     ],
     [
-      "C",
-      "A",
-      "N",
-      "A",
-      "L"
-    ],
-    [
-      "A",
       "#",
       "I",
       "#",
-      "L"
+      "E",
+      "#",
+      "K",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "I"
     ],
     [
+      "B",
       "L",
       "U",
+      "R",
+      "#",
+      "I",
+      "#",
+      "W",
+      "#",
+      "N",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "C",
+      "#",
+      "L",
+      "#",
+      "E",
+      "V",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "Y",
+      "#",
+      "L",
+      "#",
+      "A",
+      "#",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "V",
+      "A",
+      "L",
+      "V",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "H",
+      "A",
+      "S",
+      "T",
+      "E",
+      "#",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "Z",
+      "#",
+      "R",
+      "#",
+      "F",
+      "U",
+      "R",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "E",
+      "L",
+      "A",
+      "X",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "T",
+      "A",
       "C",
       "K",
-      "Y"
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
       "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "LASER",
-      "clue": "Light beam from cat, regularly missing the points"
+      "row": 1,
+      "col": 1,
+      "answer": "HAMPSTEAD",
+      "clue": "Heath beside Kentish Town's leafy neighbour (9)"
     },
     {
-      "number": 4,
-      "row": 2,
+      "number": 6,
+      "row": 3,
       "col": 0,
-      "answer": "CANAL",
-      "clue": "Regent's waterway carrying barges through NW5"
+      "answer": "BLUR",
+      "clue": "Britpop band, or smudge (4)"
     },
     {
-      "number": 5,
+      "number": 8,
       "row": 4,
-      "col": 0,
-      "answer": "LUCKY",
-      "clue": "Fortunate, like finding a free painting from secretartistnw5"
+      "col": 7,
+      "answer": "EVEN",
+      "clue": "Level, or smooth (4)"
+    },
+    {
+      "number": 8,
+      "row": 4,
+      "col": 7,
+      "answer": "EVENT",
+      "clue": "Level, or smooth (4)"
+    },
+    {
+      "number": 11,
+      "row": 6,
+      "col": 7,
+      "answer": "VALVE",
+      "clue": "Old radio tube, or heart part (5)"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 3,
+      "answer": "HASTE",
+      "clue": "Speed, urgency (5)"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 8,
+      "answer": "FURY",
+      "clue": "Wild rage (4)"
+    },
+    {
+      "number": 15,
+      "row": 9,
+      "col": 3,
+      "answer": "RELAX",
+      "clue": "Unwind after an indie gig (5)"
+    },
+    {
+      "number": 16,
+      "row": 11,
+      "col": 2,
+      "answer": "STACK",
+      "clue": "Pile of vinyl in NW5's shops (5)"
     }
   ],
   "down": [
     {
       "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "LOCAL",
-      "clue": "The Pineapple, for many a Kentish Town drinker"
+      "row": 1,
+      "col": 1,
+      "answer": "HILLS",
+      "clue": "Parliament's offer panoramic views (5)"
     },
     {
       "number": 2,
-      "row": 0,
-      "col": 2,
-      "answer": "SONIC",
-      "clue": "Speedy hedgehog producing sound, audibly"
+      "row": 1,
+      "col": 3,
+      "answer": "MERCY",
+      "clue": "Compassion, clemency (5)"
     },
     {
       "number": 3,
-      "row": 0,
+      "row": 1,
+      "col": 5,
+      "answer": "SKILL",
+      "clue": "Talent the Secret Artist shows (5)"
+    },
+    {
+      "number": 4,
+      "row": 1,
+      "col": 9,
+      "answer": "DONE",
+      "clue": "Finished, cooked (4)"
+    },
+    {
+      "number": 5,
+      "row": 1,
+      "col": 11,
+      "answer": "DIRT",
+      "clue": "Grime, or canal-path mud (4)"
+    },
+    {
+      "number": 7,
+      "row": 3,
+      "col": 7,
+      "answer": "WEAVE",
+      "clue": "Interlace threads (5)"
+    },
+    {
+      "number": 9,
+      "row": 4,
+      "col": 10,
+      "answer": "NEVER",
+      "clue": "Not at any time (5)"
+    },
+    {
+      "number": 10,
+      "row": 6,
       "col": 4,
-      "answer": "RALLY",
-      "clue": "Tennis exchange, or a Parliament Hill protest gathering"
+      "answer": "GAZE",
+      "clue": "Stare across Hampstead Heath (4)"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 6,
+      "answer": "TRACK",
+      "clue": "Overground line, or indie LP cut (5)"
     }
   ]
 }

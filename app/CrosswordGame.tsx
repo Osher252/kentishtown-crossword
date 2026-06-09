@@ -63,8 +63,8 @@ function cellNumber(puzzle: Puzzle, row: number, col: number): number | null {
 
 // ── Main component ────────────────────────────────────────────────────────────
 export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
-  const ROWS = 5;
-  const COLS = 5;
+  const ROWS = puzzle.size ?? 12;
+  const COLS = puzzle.size ?? 12;
 
   const [letters, setLetters] = useState<string[][]>(
     Array.from({ length: ROWS }, () => Array(COLS).fill(""))
@@ -288,7 +288,7 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
       {/* Grid */}
       <div
         className="grid gap-[3px] bg-stone-800 p-[3px] rounded-md shadow-lg select-none"
-        style={{ gridTemplateColumns: `repeat(${COLS}, 60px)` }}
+        style={{ gridTemplateColumns: `repeat(${COLS}, 44px)` }}
         onKeyDown={handleKeyDown}
         tabIndex={0}
       >
@@ -304,7 +304,7 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
               <div
                 key={`${r}-${c}`}
                 className={[
-                  "relative w-[60px] h-[60px] flex items-center justify-center cursor-pointer",
+                  "relative w-[44px] h-[44px] flex items-center justify-center cursor-pointer",
                   black
                     ? "bg-stone-900"
                     : isSelected

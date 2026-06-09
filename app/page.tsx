@@ -17,6 +17,7 @@ interface PuzzleEntry {
 export interface Puzzle {
   date: string;
   title: string;
+  size?: number;
   grid: string[][];
   across: PuzzleEntry[];
   down: PuzzleEntry[];
@@ -60,20 +61,8 @@ export default async function Home() {
         </div>
       )}
 
-      <footer className="mt-10 text-center text-xs text-stone-400 space-y-1">
+      <footer className="mt-10 text-center text-xs text-stone-400">
         <p>Inspired by the streets, pubs, and paintings of NW5.</p>
-        <p>
-          Visit{" "}
-          <a
-            href="https://secretartistnw5.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline hover:text-stone-600"
-          >
-            secretartistnw5.com
-          </a>
-          {" "}· Grab a pint at The Pineapple · Catch a gig at The Forum
-        </p>
       </footer>
     </main>
   );

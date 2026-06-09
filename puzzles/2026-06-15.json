@@ -1,87 +1,284 @@
 {
   "date": "2026-06-15",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "H",
-      "A",
-      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
       "S",
-      "H"
-    ],
-    [
-      "O",
-      "#",
+      "W",
+      "A",
       "I",
+      "N",
+      "S",
       "#",
-      "I"
+      "#",
+      "#"
     ],
     [
+      "#",
+      "K",
+      "#",
+      "#",
+      "#",
+      "#",
+      "V",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
       "N",
       "O",
       "V",
       "E",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "#",
+      "R",
+      "#",
+      "F",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "I",
+      "G",
+      "E",
+      "R",
+      "#",
+      "S",
+      "O",
+      "N",
+      "I",
+      "C"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "T",
+      "U",
+      "F",
+      "N",
+      "E",
+      "L",
+      "L",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "M",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "L",
+      "S",
+      "O",
+      "#",
+      "P",
+      "#",
+      "W",
+      "#",
       "L"
     ],
     [
-      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "T",
       "#",
       "E",
       "#",
-      "L"
+      "#"
     ],
     [
-      "Y",
+      "#",
+      "#",
+      "#",
+      "E",
       "A",
       "R",
-      "D",
-      "S"
+      "L",
+      "Y",
+      "#",
+      "R",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "HARSH",
-      "clue": "Severe, like winter winds whipping across Parliament Hill"
+      "number": 2,
+      "row": 1,
+      "col": 3,
+      "answer": "SWAINS",
+      "clue": "___ Lane to Highgate Cemetery, Marx's resting place"
     },
     {
       "number": 4,
-      "row": 2,
-      "col": 0,
+      "row": 3,
+      "col": 3,
       "answer": "NOVEL",
-      "clue": "Fresh and original, or a book to read by Regent's Canal"
+      "clue": "Fresh book"
     },
     {
-      "number": 5,
-      "row": 4,
-      "col": 0,
-      "answer": "YARDS",
-      "clue": "Units of fabric, or where Kentish Town gardens are measured"
+      "number": 6,
+      "row": 5,
+      "col": 1,
+      "answer": "TIGER",
+      "clue": "Big cat, or urban fox's striped cousin"
+    },
+    {
+      "number": 7,
+      "row": 5,
+      "col": 7,
+      "answer": "SONIC",
+      "clue": "Hedgehog's video-game speed"
+    },
+    {
+      "number": 9,
+      "row": 7,
+      "col": 3,
+      "answer": "TUFNELL",
+      "clue": "___ Park, tube stop near NW5"
+    },
+    {
+      "number": 13,
+      "row": 9,
+      "col": 2,
+      "answer": "ALSO",
+      "clue": "In addition"
+    },
+    {
+      "number": 14,
+      "row": 11,
+      "col": 3,
+      "answer": "EARLY",
+      "clue": "Premature, or before time"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "HONEY",
-      "clue": "Sweet stuff the bees make, a term of endearment too"
-    },
-    {
-      "number": 2,
-      "row": 0,
-      "col": 2,
-      "answer": "RIVER",
-      "clue": "Flowing water, like Regent's that runs through Camden"
+      "col": 6,
+      "answer": "LIVER",
+      "clue": "Organ that filters, briefly a Scouser"
     },
     {
       "number": 3,
-      "row": 0,
-      "col": 4,
-      "answer": "HILLS",
-      "clue": "Heights, like Parliament and Primrose near NW5"
+      "row": 2,
+      "col": 1,
+      "answer": "KENTISH",
+      "clue": "___ Town, our NW5 patch"
+    },
+    {
+      "number": 4,
+      "row": 3,
+      "col": 3,
+      "answer": "NIGHT",
+      "clue": "Indie gig time at The Forum"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 8,
+      "answer": "FOOL",
+      "clue": "Jester or April victim"
+    },
+    {
+      "number": 8,
+      "row": 5,
+      "col": 11,
+      "answer": "CORAL",
+      "clue": "Reef-building marine pink"
+    },
+    {
+      "number": 10,
+      "row": 7,
+      "col": 5,
+      "answer": "FLOOR",
+      "clue": "Storey, or dance venue surface"
+    },
+    {
+      "number": 11,
+      "row": 7,
+      "col": 7,
+      "answer": "EMPTY",
+      "clue": "Vacant, like a pub at closing"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 9,
+      "answer": "LOWER",
+      "clue": "Drop down, or reduce"
     }
   ]
 }

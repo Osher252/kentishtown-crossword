@@ -1,87 +1,298 @@
 {
   "date": "2026-06-16",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "G",
-      "A",
-      "M",
-      "M",
-      "A"
-    ],
-    [
-      "A",
+      "#",
+      "#",
       "#",
       "O",
       "#",
-      "L"
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
-      "M",
-      "U",
-      "R",
-      "A",
-      "L"
-    ],
-    [
-      "E",
+      "#",
+      "P",
       "#",
       "A",
+      "R",
+      "T",
+      "I",
+      "S",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "K",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
+      "T",
+      "#",
+      "B"
+    ],
+    [
+      "C",
+      "A",
+      "M",
+      "E",
+      "#",
+      "R",
+      "E",
+      "F",
+      "E",
+      "R",
+      "#",
+      "U"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "N",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "D",
+      "R",
+      "I",
+      "N",
+      "K"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "#",
+      "#",
+      "L",
+      "#",
+      "U",
+      "#",
+      "T",
       "#",
       "E"
     ],
     [
-      "R",
+      "#",
+      "#",
       "A",
+      "W",
+      "A",
+      "Y",
+      "#",
       "L",
+      "#",
+      "#",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
       "L",
-      "Y"
+      "I",
+      "D",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "O",
+      "U",
+      "N",
+      "T",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "O",
+      "P",
+      "E",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "GAMMA",
-      "clue": "Third Greek letter, a gram broken up"
-    },
-    {
       "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "MURAL",
-      "clue": "Wall painting secretartistnw5.com might leave around the area"
+      "row": 1,
+      "col": 3,
+      "answer": "ARTIST",
+      "clue": "Secret one leaves paintings around NW5"
     },
     {
-      "number": 5,
-      "row": 4,
+      "number": 7,
+      "row": 3,
       "col": 0,
-      "answer": "RALLY",
-      "clue": "Motorsport event, or political gathering on Parliament Hill"
+      "answer": "CAME",
+      "clue": "Arrived on the scene"
+    },
+    {
+      "number": 8,
+      "row": 3,
+      "col": 5,
+      "answer": "REFER",
+      "clue": "Point to a reference"
+    },
+    {
+      "number": 9,
+      "row": 5,
+      "col": 7,
+      "answer": "DRINK",
+      "clue": "Pint at The Pineapple, perhaps"
+    },
+    {
+      "number": 11,
+      "row": 7,
+      "col": 2,
+      "answer": "AWAY",
+      "clue": "Off and not present"
+    },
+    {
+      "number": 12,
+      "row": 8,
+      "col": 7,
+      "answer": "LIDO",
+      "clue": "Open-air swim, like Heath's ponds"
+    },
+    {
+      "number": 14,
+      "row": 9,
+      "col": 2,
+      "answer": "COUNT",
+      "clue": "Tally up the votes"
+    },
+    {
+      "number": 15,
+      "row": 11,
+      "col": 6,
+      "answer": "HOPE",
+      "clue": "Wish from Parliament Hill"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "GAMER",
-      "clue": "One glued to a console in Tufnell Park, perhaps"
+      "col": 3,
+      "answer": "OAKEN",
+      "clue": "Like Gospel Oak's namesake, wooden"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "MORAL",
-      "clue": "Lesson from a fable, like Aesop's"
+      "col": 6,
+      "answer": "DIME",
+      "clue": "Ten-cent coin"
     },
     {
       "number": 3,
-      "row": 0,
-      "col": 4,
-      "answer": "ALLEY",
-      "clue": "Narrow passage behind The Pineapple pub, say"
+      "row": 1,
+      "col": 1,
+      "answer": "PEARL",
+      "clue": "Gem from an oyster"
+    },
+    {
+      "number": 5,
+      "row": 2,
+      "col": 9,
+      "answer": "TRAIT",
+      "clue": "Distinguishing feature"
+    },
+    {
+      "number": 6,
+      "row": 2,
+      "col": 11,
+      "answer": "BUSKER",
+      "clue": "Forum's street performer earns coins"
+    },
+    {
+      "number": 8,
+      "row": 3,
+      "col": 5,
+      "answer": "RALLY",
+      "clue": "Indie gig crowd's protest gathering"
+    },
+    {
+      "number": 9,
+      "row": 5,
+      "col": 7,
+      "answer": "DULL",
+      "clue": "Boring and grey"
+    },
+    {
+      "number": 10,
+      "row": 6,
+      "col": 2,
+      "answer": "FANCY",
+      "clue": "Imagine elaborate decoration"
+    },
+    {
+      "number": 13,
+      "row": 8,
+      "col": 9,
+      "answer": "DUKE",
+      "clue": "Noble above a marquess"
     }
   ]
 }

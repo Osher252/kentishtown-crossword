@@ -1,41 +1,175 @@
 {
   "date": "2026-06-14",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "G",
-      "R",
+      "E",
+      "P",
+      "I",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
       "A",
-      "V",
-      "E"
+      "R",
+      "T",
+      "I",
+      "S",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "A",
+      "Y",
+      "S",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "E",
+      "#",
+      "F",
+      "#",
+      "I",
+      "#",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "#",
+      "H",
+      "I",
+      "N",
+      "T",
+      "#",
+      "#",
+      "A",
+      "#"
     ],
     [
       "R",
       "#",
-      "B",
       "#",
-      "V"
+      "H",
+      "#",
+      "N",
+      "#",
+      "E",
+      "V",
+      "I",
+      "L",
+      "#"
     ],
     [
+      "#",
+      "S",
+      "L",
       "O",
-      "Z",
-      "O",
+      "P",
+      "E",
+      "#",
+      "#",
+      "#",
       "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "T",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "D",
+      "#",
+      "D"
+    ],
+    [
+      "#",
+      "G",
+      "#",
+      "E",
+      "#",
+      "#",
+      "U",
+      "#",
+      "F",
+      "I",
+      "R",
       "E"
     ],
     [
-      "V",
       "#",
-      "V",
+      "N",
       "#",
-      "R"
+      "L",
+      "I",
+      "N",
+      "K",
+      "S",
+      "#",
+      "E",
+      "#",
+      "N"
     ],
     [
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
       "E",
-      "N",
-      "E",
-      "M",
+      "#",
+      "#",
+      "#",
+      "#",
       "Y"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ]
   ],
   "across": [
@@ -43,45 +177,129 @@
       "number": 1,
       "row": 0,
       "col": 0,
-      "answer": "GRAVE",
-      "clue": "Serious resting place at the end of Swain's Lane"
+      "answer": "EPIC",
+      "clue": "Grand tale of heroic deeds"
     },
     {
-      "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "OZONE",
-      "clue": "Layer protecting us, found around The Forum's gig zone"
+      "number": 3,
+      "row": 1,
+      "col": 3,
+      "answer": "ARTIST",
+      "clue": "Secret one leaves paintings round NW5"
     },
     {
       "number": 5,
-      "row": 4,
+      "row": 2,
       "col": 0,
-      "answer": "ENEMY",
-      "clue": "Foe seen at the end of any old enemy lines"
+      "answer": "DAYS",
+      "clue": "Periods of light between nights"
+    },
+    {
+      "number": 8,
+      "row": 4,
+      "col": 4,
+      "answer": "HINT",
+      "clue": "Subtle clue or tip"
+    },
+    {
+      "number": 10,
+      "row": 5,
+      "col": 7,
+      "answer": "EVIL",
+      "clue": "Wickedness, opposite of good"
+    },
+    {
+      "number": 12,
+      "row": 6,
+      "col": 1,
+      "answer": "SLOPE",
+      "clue": "Parliament Hill's grassy incline"
+    },
+    {
+      "number": 15,
+      "row": 8,
+      "col": 8,
+      "answer": "FIRE",
+      "clue": "Forum gig sets it alight (4)"
+    },
+    {
+      "number": 16,
+      "row": 9,
+      "col": 3,
+      "answer": "LINKS",
+      "clue": "Connects, or golf course"
     }
   ],
   "down": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "GROVE",
-      "clue": "Tree-lined walk hiding nothing but a grave swap of letters"
-    },
-    {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "ABOVE",
-      "clue": "Overhead, like Parliament Hill's kite-filled sky"
+      "col": 3,
+      "answer": "CASE",
+      "clue": "Detective's investigation"
     },
     {
-      "number": 3,
-      "row": 0,
-      "col": 4,
-      "answer": "EVERY",
-      "clue": "Each and all, as in every pint pulled at The Pineapple"
+      "number": 4,
+      "row": 1,
+      "col": 7,
+      "answer": "SPITE",
+      "clue": "Malice, done in ___"
+    },
+    {
+      "number": 5,
+      "row": 2,
+      "col": 0,
+      "answer": "DEAR",
+      "clue": "Beloved, or costly"
+    },
+    {
+      "number": 6,
+      "row": 2,
+      "col": 10,
+      "answer": "COAL",
+      "clue": "What the cellar by York Rise stored"
+    },
+    {
+      "number": 7,
+      "row": 3,
+      "col": 5,
+      "answer": "FINE",
+      "clue": "Penalty, or excellent"
+    },
+    {
+      "number": 9,
+      "row": 5,
+      "col": 3,
+      "answer": "HOTEL",
+      "clue": "Place to stay the night"
+    },
+    {
+      "number": 11,
+      "row": 5,
+      "col": 9,
+      "answer": "INDIE",
+      "clue": "Forum's gig genre, not mainstream"
+    },
+    {
+      "number": 12,
+      "row": 6,
+      "col": 1,
+      "answer": "SIGNS",
+      "clue": "Secret Artist's works, or zodiac symbols"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 6,
+      "answer": "DUKE",
+      "clue": "Noble ranking below prince"
+    },
+    {
+      "number": 14,
+      "row": 7,
+      "col": 11,
+      "answer": "DENY",
+      "clue": "Refuse to admit"
     }
   ]
 }

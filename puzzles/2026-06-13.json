@@ -1,87 +1,312 @@
 {
   "date": "2026-06-13",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "O",
-      "Z",
-      "O",
-      "N",
-      "E"
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
+      "#",
+      "E",
+      "#",
+      "B",
+      "R",
+      "U",
+      "N",
+      "C",
+      "H",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "I",
+      "#",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "R",
+      "R",
+      "Y",
+      "#",
+      "T",
+      "O",
+      "U",
+      "C",
+      "H"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "V",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "L",
+      "A",
+      "S",
+      "H",
+      "#",
+      "R",
+      "I",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "M",
+      "#",
+      "T",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
       "C",
       "#",
-      "U",
-      "#",
-      "A"
-    ],
-    [
-      "E",
-      "N",
+      "D",
+      "A",
       "T",
-      "E",
+      "A",
+      "#",
+      "A",
+      "#",
+      "#",
       "R"
     ],
     [
+      "#",
       "A",
       "#",
-      "E",
+      "#",
+      "L",
+      "#",
+      "G",
+      "O",
+      "L",
+      "D",
       "#",
       "T"
     ],
     [
-      "N",
-      "O",
-      "R",
-      "T",
+      "#",
+      "F",
+      "I",
+      "L",
+      "L",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
       "H"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "L",
+      "U",
+      "B",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "OZONE",
-      "clue": "Layer protecting us, found in cosy zones oddly"
+      "number": 3,
+      "row": 1,
+      "col": 3,
+      "answer": "BRUNCH",
+      "clue": "Weekend meal enjoyed at York Rise spots"
     },
     {
-      "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "ENTER",
-      "clue": "Walk into Parliament Hill, or hit this key"
+      "number": 6,
+      "row": 3,
+      "col": 1,
+      "answer": "CARRY",
+      "clue": "Transport or bear the weight"
     },
     {
-      "number": 5,
-      "row": 4,
-      "col": 0,
-      "answer": "NORTH",
-      "clue": "Direction to NW5 from central London"
+      "number": 7,
+      "row": 3,
+      "col": 7,
+      "answer": "TOUCH",
+      "clue": "Slight contact or finishing flourish"
+    },
+    {
+      "number": 9,
+      "row": 6,
+      "col": 1,
+      "answer": "CLASH",
+      "clue": "The Forum band's loud confrontation"
+    },
+    {
+      "number": 11,
+      "row": 6,
+      "col": 7,
+      "answer": "RISEN",
+      "clue": "York ___, NW5 street where the sun's come up"
+    },
+    {
+      "number": 15,
+      "row": 8,
+      "col": 3,
+      "answer": "DATA",
+      "clue": "Facts and figures for computing"
+    },
+    {
+      "number": 16,
+      "row": 9,
+      "col": 6,
+      "answer": "GOLD",
+      "clue": "Marx's value, like Heath's medals?"
+    },
+    {
+      "number": 17,
+      "row": 10,
+      "col": 1,
+      "answer": "FILL",
+      "clue": "Top up a glass"
+    },
+    {
+      "number": 18,
+      "row": 11,
+      "col": 6,
+      "answer": "CLUB",
+      "clue": "Vinyl shop bargain, or Camden nightspot"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "OCEAN",
-      "clue": "Vast water mass concealed in piano cantatas"
+      "col": 1,
+      "answer": "REACT",
+      "clue": "Respond to an indie gig"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "OUTER",
-      "clue": "Far from central, like Hampstead Heath's edge"
+      "col": 5,
+      "answer": "DUTY",
+      "clue": "Tax obligation at the bar"
     },
     {
       "number": 3,
-      "row": 0,
+      "row": 1,
+      "col": 3,
+      "answer": "BORN",
+      "clue": "Brought into the world"
+    },
+    {
+      "number": 4,
+      "row": 1,
+      "col": 7,
+      "answer": "CITE",
+      "clue": "Quote a source"
+    },
+    {
+      "number": 5,
+      "row": 2,
+      "col": 10,
+      "answer": "SCARE",
+      "clue": "Fright from urban foxes at night"
+    },
+    {
+      "number": 8,
+      "row": 5,
+      "col": 8,
+      "answer": "VITAL",
+      "clue": "Absolutely essential"
+    },
+    {
+      "number": 10,
+      "row": 6,
       "col": 4,
-      "answer": "EARTH",
-      "clue": "Our planet, or what a gardener works in Gospel Oak"
+      "answer": "SMALL",
+      "clue": "Secret Artist's paintings are pleasingly this"
+    },
+    {
+      "number": 12,
+      "row": 6,
+      "col": 11,
+      "answer": "NORTH",
+      "clue": "Direction of Kentish Town in postcode NW5"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 6,
+      "answer": "MAGIC",
+      "clue": "The Pineapple pint feels like this"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 1,
+      "answer": "CAFE",
+      "clue": "Coffee stop dotting Kentish Town Road"
     }
   ]
 }

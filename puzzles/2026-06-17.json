@@ -1,87 +1,305 @@
 {
   "date": "2026-06-17",
   "title": "Kentish Town Daily Crossword",
+  "size": 12,
   "grid": [
     [
-      "F",
-      "I",
-      "F",
-      "T",
-      "H"
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
+      "#",
+      "H",
       "A",
+      "M",
+      "P",
+      "S",
+      "T",
+      "E",
+      "A",
+      "D",
+      "#",
+      "#"
+    ],
+    [
       "#",
       "E",
       "#",
-      "I"
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "I",
+      "#",
+      "V"
     ],
     [
-      "N",
+      "#",
       "A",
-      "V",
-      "A",
-      "L"
+      "#",
+      "L",
+      "O",
+      "W",
+      "E",
+      "R",
+      "#",
+      "R",
+      "#",
+      "A"
     ],
     [
       "C",
-      "#",
+      "L",
+      "U",
       "E",
       "#",
+      "O",
+      "#",
+      "T",
+      "O",
+      "T",
+      "A",
       "L"
     ],
     [
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "B",
+      "A",
+      "N",
+      "D",
+      "S",
+      "#",
+      "#",
       "Y",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "X",
+      "#",
+      "I",
+      "#",
+      "C",
+      "#",
+      "A",
+      "#",
+      "#",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "#",
+      "S",
+      "O",
+      "L",
       "A",
       "R",
+      "#",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "#",
+      "K",
+      "#",
+      "A",
+      "#",
       "D",
-      "S"
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 0,
-      "answer": "FIFTH",
-      "clue": "Musical interval, or the one before sixth"
-    },
-    {
-      "number": 4,
-      "row": 2,
-      "col": 0,
-      "answer": "NAVAL",
-      "clue": "Maritime, like a Navy officer's bearing"
+      "number": 2,
+      "row": 1,
+      "col": 1,
+      "answer": "HAMPSTEAD",
+      "clue": "Heath where NW5 folk swim in ponds"
     },
     {
       "number": 5,
+      "row": 3,
+      "col": 3,
+      "answer": "LOWER",
+      "clue": "Reduce, or opposite of upper"
+    },
+    {
+      "number": 7,
       "row": 4,
       "col": 0,
-      "answer": "YARDS",
-      "clue": "Measures of cloth, or where Camden's gardens are sized up"
+      "answer": "CLUE",
+      "clue": "Hint for a crossword solver"
+    },
+    {
+      "number": 8,
+      "row": 4,
+      "col": 7,
+      "answer": "TOTAL",
+      "clue": "Complete sum or amount"
+    },
+    {
+      "number": 9,
+      "row": 7,
+      "col": 1,
+      "answer": "BANDS",
+      "clue": "Indie groups playing The Forum, perhaps"
+    },
+    {
+      "number": 15,
+      "row": 9,
+      "col": 4,
+      "answer": "SOLAR",
+      "clue": "Powered by the sun"
+    },
+    {
+      "number": 16,
+      "row": 10,
+      "col": 8,
+      "answer": "DONE",
+      "clue": "Finished, cooked just right"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "FANCY",
-      "clue": "Imagine, or distinctly elaborate"
+      "col": 7,
+      "answer": "HEART",
+      "clue": "Centre of love, organ that beats"
     },
     {
       "number": 2,
-      "row": 0,
-      "col": 2,
-      "answer": "FEVER",
-      "clue": "High temperature catching on at The Forum's hottest gigs"
+      "row": 1,
+      "col": 1,
+      "answer": "HEAL",
+      "clue": "Mend or recover"
     },
     {
       "number": 3,
-      "row": 0,
+      "row": 1,
+      "col": 9,
+      "answer": "DIRT",
+      "clue": "Soil, or filth"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 11,
+      "answer": "VALE",
+      "clue": "Gospel Oak's neighbour, York Rise's ___?"
+    },
+    {
+      "number": 5,
+      "row": 3,
+      "col": 3,
+      "answer": "LEMON",
+      "clue": "Sour yellow citrus fruit"
+    },
+    {
+      "number": 6,
+      "row": 3,
+      "col": 5,
+      "answer": "WOODS",
+      "clue": "Hampstead Heath's wooded areas"
+    },
+    {
+      "number": 10,
+      "row": 7,
+      "col": 2,
+      "answer": "AXES",
+      "clue": "Chops or cutting tools"
+    },
+    {
+      "number": 11,
+      "row": 7,
       "col": 4,
-      "answer": "HILLS",
-      "clue": "Parliament and Primrose are notable London ones"
+      "answer": "DISK",
+      "clue": "Round vinyl record's old cousin"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 8,
+      "answer": "YARDS",
+      "clue": "Swain's Lane measures, or gardens"
+    },
+    {
+      "number": 13,
+      "row": 7,
+      "col": 11,
+      "answer": "ACRE",
+      "clue": "Land measure, about 4000 square metres"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 6,
+      "answer": "CLAM",
+      "clue": "Shellfish that keeps quiet"
     }
   ]
 }
