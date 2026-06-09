@@ -5,7 +5,7 @@
   "grid": [
     [
       "#",
-      "P",
+      "#",
       "#",
       "#",
       "#",
@@ -18,253 +18,239 @@
       "#"
     ],
     [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "S",
+      "W",
+      "A",
+      "I",
+      "N",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "F",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "O",
+      "S",
+      "P",
+      "E",
+      "L",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "X",
+      "#",
+      "#",
       "#",
       "I",
       "#",
-      "O",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "D",
+      "E",
+      "C",
+      "K",
+      "#",
+      "P",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "S",
-      "E",
+      "#",
       "N",
-      "E",
-      "Y",
+      "#",
       "#",
       "#",
       "#"
     ],
     [
       "#",
-      "N",
-      "#",
-      "R",
       "#",
       "#",
       "#",
       "#",
       "#",
+      "F",
+      "O",
+      "U",
+      "L",
       "#",
-      "T",
-      "#"
+      "M"
     ],
     [
       "#",
-      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "W",
       "#",
       "#",
       "#",
-      "B",
-      "#",
-      "#",
-      "U",
-      "#"
+      "E"
     ],
     [
       "#",
-      "A",
-      "#",
-      "E",
-      "#",
-      "H",
-      "#",
-      "U",
       "#",
       "#",
-      "F",
-      "#"
-    ],
-    [
       "#",
-      "P",
-      "A",
-      "L",
-      "M",
-      "E",
-      "R",
-      "S",
-      "T",
-      "O",
+      "#",
+      "#",
+      "#",
       "N",
-      "#"
-    ],
-    [
-      "#",
-      "P",
-      "#",
-      "L",
-      "#",
-      "I",
-      "#",
-      "K",
-      "#",
-      "#",
       "E",
-      "#"
-    ],
-    [
-      "#",
-      "L",
-      "#",
-      "#",
-      "#",
-      "R",
-      "#",
+      "V",
       "E",
-      "A",
-      "R",
-      "L",
-      "Y"
+      "R"
     ],
     [
-      "M",
-      "E",
-      "D",
-      "I",
-      "A",
       "#",
       "#",
-      "R",
       "#",
       "#",
-      "L",
-      "#"
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C"
     ],
     [
-      "A",
-      "#",
-      "#",
-      "#",
-      "R",
       "#",
       "#",
       "#",
       "#",
       "#",
       "#",
-      "#"
-    ],
-    [
-      "R",
-      "#",
-      "#",
-      "#",
-      "E",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "X",
       "#",
       "G",
-      "L",
-      "A",
+      "I",
+      "P",
       "S",
-      "S",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
+      "Y"
     ]
   ],
   "across": [
     {
-      "number": 2,
+      "number": 1,
       "row": 1,
-      "col": 3,
-      "answer": "OSENEY",
-      "clue": "Crescent named for an Oxford abbey (6)"
+      "col": 6,
+      "answer": "SWAINS",
+      "clue": "Calf-burning climb to Highgate's eternal residents (6)"
+    },
+    {
+      "number": 5,
+      "row": 3,
+      "col": 4,
+      "answer": "GOSPEL",
+      "clue": "Where Kentish Town meets Hampstead — singer's tree? (6)"
     },
     {
       "number": 6,
       "row": 5,
-      "col": 1,
-      "answer": "PALMERSTON",
-      "clue": "Dartmouth Park Hill boozer named for a Foreign Secretary (10)"
-    },
-    {
-      "number": 7,
-      "row": 7,
-      "col": 7,
-      "answer": "EARL",
-      "clue": "Bird-catching, not late (5)"
-    },
-    {
-      "number": 7,
-      "row": 7,
-      "col": 7,
-      "answer": "EARLY",
-      "clue": "Bird-catching, not late (5)"
+      "col": 4,
+      "answer": "DECK",
+      "clue": "Cards dealt on a ship's floor (4)"
     },
     {
       "number": 8,
-      "row": 8,
-      "col": 0,
-      "answer": "MEDIA",
-      "clue": "Press, the fourth estate (5)"
+      "row": 7,
+      "col": 6,
+      "answer": "FOUL",
+      "clue": "Disgusting, or against the rules (4)"
     },
     {
       "number": 10,
+      "row": 9,
+      "col": 7,
+      "answer": "NEVER",
+      "clue": "Not at any time (5)"
+    },
+    {
+      "number": 11,
       "row": 11,
-      "col": 2,
-      "answer": "GLASS",
-      "clue": "What you raise for a toast (5)"
+      "col": 7,
+      "answer": "GIPSY",
+      "clue": "Malden Road's monarch, where the little ones are welcome (5)"
     }
   ],
   "down": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 1,
-      "answer": "PINEAPPLE",
-      "clue": "Leverton Street local with a cracking beer garden, not a fruit (9)"
-    },
-    {
       "number": 2,
       "row": 1,
-      "col": 3,
-      "answer": "ORWELL",
-      "clue": "Big Brother's creator, an NW5 resident (6)"
+      "col": 9,
+      "answer": "ISLIP",
+      "clue": "NW5 street named for an Oxford parish (5)"
     },
     {
       "number": 3,
-      "row": 2,
-      "col": 10,
-      "answer": "TUFNELL",
-      "clue": "Park just west of us, with its own tube stop (7)"
+      "row": 1,
+      "col": 11,
+      "answer": "SCALE",
+      "clue": "Climb, or measure on a map (5)"
     },
     {
       "number": 4,
-      "row": 3,
-      "col": 7,
-      "answer": "BUSKER",
-      "clue": "Guitar-strumming earner outside the tube (6)"
-    },
-    {
-      "number": 5,
-      "row": 4,
+      "row": 2,
       "col": 5,
-      "answer": "HEIR",
-      "clue": "One next in line for the throne (4)"
+      "answer": "FOXES",
+      "clue": "Bin-raiding bushy-tailed locals, our true mascots (5)"
     },
     {
-      "number": 8,
-      "row": 8,
-      "col": 0,
-      "answer": "MARX",
-      "clue": "Das Kapital author, once of Grafton Terrace (4)"
+      "number": 7,
+      "row": 5,
+      "col": 7,
+      "answer": "KNOWN",
+      "clue": "Familiar, recognised (5)"
     },
     {
       "number": 9,
-      "row": 8,
-      "col": 4,
-      "answer": "AREA",
-      "clue": "Region, or NW5 postcode patch (4)"
+      "row": 7,
+      "col": 11,
+      "answer": "MERCY",
+      "clue": "Pity, or a Quality Street centre (5)"
     }
   ]
 }

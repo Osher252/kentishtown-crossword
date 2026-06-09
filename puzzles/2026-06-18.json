@@ -8,284 +8,256 @@
       "#",
       "#",
       "#",
-      "C",
-      "L",
-      "A",
-      "M",
+      "#",
       "#",
       "C",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "T",
-      "#",
-      "#",
-      "#",
-      "U",
-      "N",
-      "I",
       "O",
-      "N"
+      "P",
+      "Y",
+      "#",
+      "F"
     ],
     [
       "#",
       "#",
-      "B",
-      "U",
-      "S",
-      "K",
-      "E",
+      "#",
+      "#",
+      "#",
+      "#",
       "R",
       "#",
-      "T",
-      "#",
-      "#"
-    ],
-    [
       "#",
       "#",
-      "#",
-      "F",
-      "#",
-      "#",
-      "#",
-      "A",
-      "#",
-      "Y",
       "#",
       "A"
     ],
     [
-      "B",
-      "R",
-      "I",
-      "N",
-      "G",
       "#",
       "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "A",
       "L",
-      "#",
       "F",
-      "#",
-      "S"
+      "C",
+      "U",
+      "T"
     ],
     [
-      "O",
-      "#",
-      "#",
-      "E",
       "#",
       "#",
       "#",
       "#",
-      "#",
-      "A",
-      "#",
-      "S"
-    ],
-    [
-      "O",
+      "C",
       "#",
       "F",
-      "L",
-      "A",
-      "M",
-      "E",
       "#",
-      "F",
-      "R",
-      "E",
+      "#",
+      "#",
+      "#",
       "E"
     ],
     [
-      "T",
       "#",
       "#",
+      "#",
+      "P",
       "L",
-      "#",
       "A",
-      "#",
-      "#",
-      "#",
-      "M",
-      "#",
-      "M"
-    ],
-    [
-      "#",
-      "#",
-      "D",
-      "#",
-      "#",
-      "L",
-      "I",
-      "D",
-      "O",
-      "#",
-      "#",
-      "B"
-    ],
-    [
-      "#",
-      "#",
-      "A",
-      "#",
-      "#",
-      "D",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "L"
-    ],
-    [
-      "#",
-      "#",
       "T",
-      "I",
-      "M",
       "E",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
       "R",
+      "T",
+      "I",
+      "S",
+      "T",
       "#",
-      "B",
-      "O",
-      "D",
-      "Y"
+      "P",
+      "#"
     ],
     [
+      "#",
+      "#",
       "#",
       "#",
       "E",
       "#",
       "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "P",
+      "I",
       "N",
+      "E",
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "#"
+    ],
+    [
       "#",
       "#",
       "#",
       "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "I",
       "#",
       "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "D",
+      "E",
+      "S",
+      "K",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "O",
+      "D",
+      "E"
     ]
   ],
   "across": [
     {
       "number": 1,
       "row": 0,
-      "col": 4,
-      "answer": "CLAM",
-      "clue": "Bivalve that clams up"
+      "col": 6,
+      "answer": "COPY",
+      "clue": "Imitate, or a manuscript"
+    },
+    {
+      "number": 3,
+      "row": 2,
+      "col": 5,
+      "answer": "HALFCUT",
+      "clue": "Tipsy on Leverton — but here it's a market with killer cocktails and zero seats (4,3)"
     },
     {
       "number": 5,
-      "row": 1,
-      "col": 7,
-      "answer": "UNION",
-      "clue": "Marriage, or labour group"
+      "row": 4,
+      "col": 3,
+      "answer": "PLATE",
+      "clue": "Crockery for your dinner"
     },
     {
-      "number": 6,
-      "row": 2,
-      "col": 2,
-      "answer": "BUSKER",
-      "clue": "Tube-station serenader you toss coins to — guitar case open by the NW5 entrance"
+      "number": 7,
+      "row": 6,
+      "col": 3,
+      "answer": "ARTIST",
+      "clue": "Painter who leaves freebies on NW5 walls, name unknown (6)"
     },
     {
       "number": 8,
-      "row": 4,
-      "col": 0,
-      "answer": "BRING",
-      "clue": "Carry along"
+      "row": 8,
+      "col": 2,
+      "answer": "PINEAPPLE",
+      "clue": "Leverton Street's beloved local with a sun-trap garden — and not a fruit (9)"
     },
     {
-      "number": 9,
-      "row": 6,
-      "col": 2,
-      "answer": "FLAME",
-      "clue": "Tongue of fire"
+      "number": 10,
+      "row": 10,
+      "col": 3,
+      "answer": "DESK",
+      "clue": "Where work piles up"
     },
     {
       "number": 11,
-      "row": 6,
+      "row": 11,
       "col": 8,
-      "answer": "FREE",
-      "clue": "Without charge"
-    },
-    {
-      "number": 13,
-      "row": 8,
-      "col": 5,
-      "answer": "LIDO",
-      "clue": "Heath's open-air dip where hardy NW5 souls swim year-round"
-    },
-    {
-      "number": 14,
-      "row": 10,
-      "col": 2,
-      "answer": "TIMER",
-      "clue": "Egg-boiling device"
-    },
-    {
-      "number": 15,
-      "row": 10,
-      "col": 8,
-      "answer": "BODY",
-      "clue": "Corpse, or torso"
+      "answer": "CODE",
+      "clue": "Secret message system"
     }
   ],
   "down": [
     {
-      "number": 2,
+      "number": 1,
       "row": 0,
-      "col": 7,
-      "answer": "MURAL",
-      "clue": "Wall art, a Secret Artist NW5 calling card"
+      "col": 6,
+      "answer": "CRAFT",
+      "clue": "What The Grafton and Junction Tavern pour with reverence (5)"
     },
     {
-      "number": 3,
+      "number": 2,
       "row": 0,
-      "col": 9,
-      "answer": "CITYFARM",
-      "clue": "Cressfield Close spot with goats, pigs and free entry"
+      "col": 11,
+      "answer": "FATE",
+      "clue": "Destiny, unavoidable"
     },
     {
       "number": 4,
-      "row": 1,
-      "col": 3,
-      "answer": "TUFNELL",
-      "clue": "___ Park, the bit just west of us"
-    },
-    {
-      "number": 7,
       "row": 3,
-      "col": 11,
-      "answer": "ASSEMBLY",
-      "clue": "Grade II listed boozer at 292 Kentish Town Road (two words)"
+      "col": 4,
+      "answer": "CLARENCE",
+      "clue": "This NW5 way honours a royal duke (8)"
     },
     {
-      "number": 8,
+      "number": 6,
       "row": 4,
-      "col": 0,
-      "answer": "BOOT",
-      "clue": "Footwear, or car's storage"
+      "col": 10,
+      "answer": "APPLE",
+      "clue": "Forbidden fruit, by Newton's tree"
     },
     {
-      "number": 10,
-      "row": 6,
-      "col": 5,
-      "answer": "MALDEN",
-      "clue": "___ Road, or its eponymous Arms pub off it"
-    },
-    {
-      "number": 12,
+      "number": 9,
       "row": 8,
-      "col": 2,
-      "answer": "DATE",
-      "clue": "Romantic outing, or a sweet fruit"
+      "col": 9,
+      "answer": "LIDO",
+      "clue": "Hampstead's open-air dip on the Heath, NW5's summer ritual (4)"
     }
   ]
 }

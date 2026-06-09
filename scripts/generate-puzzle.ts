@@ -81,7 +81,11 @@ const KT_WORDS: { word: string; local: true; hint: string }[] = [
   { word: "CRAFT",      local: true, hint: "Craft beer — The Grafton and Junction Tavern are temples to it" },
   { word: "BRUNCH",     local: true, hint: "Brunch — a religion in Kentish Town on Sunday mornings" },
   { word: "ALLOTMENT",  local: true, hint: "Allotments — prized plots scattered around NW5" },
-  { word: "CITYFARM",   local: true, hint: "Kentish Town City Farm, Cressfield Close NW5" },
+  { word: "KOSSOFFS",   local: true, hint: "Kossoff's, the brilliant bakery on Kentish Town Road — coffee and pastries" },
+  { word: "POTTERY",    local: true, hint: "Social Pottery NW5 — workshops on the Kentish Town high street" },
+  { word: "BOOKSHOP",   local: true, hint: "The independent bookshop at 207 Kentish Town Road NW5" },
+  { word: "HALFCUT",    local: true, hint: "Half Cut Market, Kentish Town — great cocktails, standing room only" },
+  { word: "PATRON",     local: true, hint: "Patron brasserie on Fortess Road NW5 — Parisian cooking, local crowd" },
 ];
 
 // ── General English filler words (varied lengths 4–9 letters) ────────────────
@@ -262,11 +266,11 @@ function buildCrossword(): { grid: Grid; placements: Placement[] } | null {
   let grid = emptyGrid();
   const placements: Placement[] = [];
 
-  // First word: always a local word, 6–10 letters, placed horizontally near top-centre
+  // First word: always a local word, 6–10 letters, placed horizontally near the centre
   const starters = KT_WORDS.filter((w) => w.word.length >= 6 && w.word.length <= 10);
   if (starters.length === 0) return null;
   const first = starters[Math.floor(Math.random() * starters.length)];
-  const startRow = 1 + Math.floor(Math.random() * 3); // rows 1–3
+  const startRow = 3 + Math.floor(Math.random() * 5); // rows 3–7 (centre-ish)
   const startCol = Math.max(0, Math.floor((SIZE - first.word.length) / 2) + Math.floor(Math.random() * 3) - 1);
   if (startCol + first.word.length > SIZE) return null;
 
@@ -274,7 +278,7 @@ function buildCrossword(): { grid: Grid; placements: Placement[] } | null {
   placements.push({ word: first.word, local: true, hint: first.hint, direction: "across", row: startRow, col: startCol });
   used.add(first.word);
 
-  const maxWords = 22;
+  const maxWords = 26;
   let attempts = 0;
   const maxAttempts = 8000;
 
@@ -324,6 +328,7 @@ function buildCrossword(): { grid: Grid; placements: Placement[] } | null {
   if (total < 10 || localCount / total < 0.4) return null;
 
   const finalGrid = grid.map((row) => row.map((cell) => (cell === " " ? "#" : cell)));
+
   return { grid: finalGrid, placements };
 }
 
@@ -408,7 +413,7 @@ ${wordList}`,
 // ── Generate full puzzle ────────────────────────────────────────────────────────
 async function generatePuzzle(date: string): Promise<object> {
   let result = null;
-  for (let attempt = 0; attempt < 80; attempt++) {
+  for (let attempt = 0; attempt < 120; attempt++) {
     result = buildCrossword();
     if (result) break;
   }

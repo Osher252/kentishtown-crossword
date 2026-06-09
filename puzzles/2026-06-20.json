@@ -4,267 +4,295 @@
   "size": 12,
   "grid": [
     [
-      "L",
-      "I",
-      "D",
-      "O",
       "#",
-      "O",
-      "#",
-      "S",
       "P",
-      "A",
-      "C",
-      "E"
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "S"
     ],
     [
+      "V",
+      "A",
+      "L",
       "E",
       "#",
       "U",
       "#",
-      "#",
-      "V",
-      "#",
-      "T",
-      "#",
-      "#",
-      "#",
-      "V"
+      "C",
+      "A",
+      "B",
+      "L",
+      "E"
     ],
     [
-      "V",
+      "#",
+      "R",
+      "#",
+      "#",
       "#",
       "S",
       "#",
       "#",
-      "E",
-      "#",
-      "E",
-      "#",
-      "D",
-      "#",
-      "E"
-    ],
-    [
-      "E",
-      "#",
-      "T",
-      "O",
-      "R",
-      "R",
       "I",
-      "A",
-      "N",
-      "O",
+      "#",
       "#",
       "R"
     ],
     [
-      "R",
-      "#",
-      "#",
-      "#",
-      "#",
-      "G",
-      "#",
-      "M",
-      "#",
-      "W",
-      "#",
-      "Y"
-    ],
-    [
-      "T",
-      "#",
-      "#",
-      "#",
-      "#",
-      "R",
-      "#",
-      "#",
-      "#",
-      "N",
-      "#",
-      "#"
-    ],
-    [
-      "O",
-      "#",
-      "#",
-      "G",
-      "O",
-      "O",
-      "D",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "N",
-      "#",
-      "#",
-      "#",
-      "#",
-      "U",
-      "#",
-      "#",
-      "#",
-      "V",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "J",
-      "U",
-      "N",
-      "C",
-      "T",
-      "I",
-      "O",
-      "N",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "D",
-      "#",
-      "#",
-      "#",
-      "I",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "C",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "V",
+      "P",
       "A",
+      "R",
       "L",
+      "I",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T",
+      "#",
+      "V"
+    ],
+    [
+      "#",
+      "K",
+      "#",
+      "U",
+      "#",
+      "G",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "E",
+      "P",
+      "#",
       "E",
       "#",
+      "#",
+      "T",
+      "#",
+      "#",
       "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "G",
+      "U",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "O",
+      "#",
+      "#",
+      "N",
+      "#",
+      "F",
+      "#",
+      "#",
+      "X"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "N",
+      "D",
+      "I",
+      "E",
+      "#",
+      "N",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "V",
+      "#",
+      "E",
+      "#",
+      "#",
+      "M"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "O",
+      "R",
+      "W",
+      "E",
+      "L",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "R",
+      "#",
+      "L",
+      "I",
+      "D",
+      "O"
     ]
   ],
   "across": [
     {
-      "number": 1,
-      "row": 0,
+      "number": 4,
+      "row": 1,
       "col": 0,
-      "answer": "LIDO",
-      "clue": "Brave the chilly open-air dip on the Heath"
+      "answer": "VALE",
+      "clue": "Hidden hamlet on the Heath, in rude health (4)"
     },
     {
-      "number": 4,
-      "row": 0,
+      "number": 6,
+      "row": 1,
       "col": 7,
-      "answer": "SPACE",
-      "clue": "Final frontier, or room to breathe"
+      "answer": "CABLE",
+      "clue": "Knightsbridge store or TV station (5)"
     },
     {
       "number": 7,
       "row": 3,
-      "col": 2,
-      "answer": "TORRIANO",
-      "clue": "NW5's loveliest avenue, with an Arms at its heart"
+      "col": 0,
+      "answer": "PARLIAMENT",
+      "clue": "Climb it for London's finest skyline — and kite-flyers (10)"
     },
     {
-      "number": 8,
-      "row": 6,
-      "col": 3,
-      "answer": "GOOD",
-      "clue": "Well-behaved, or a fond farewell starter"
-    },
-    {
-      "number": 10,
-      "row": 8,
-      "col": 3,
-      "answer": "JUNCTION",
-      "clue": "Fortess Road's beloved real-ale Tavern"
+      "number": 9,
+      "row": 5,
+      "col": 0,
+      "answer": "DEEP",
+      "clue": "Profound, like the end of the pool (4)"
     },
     {
       "number": 11,
+      "row": 6,
+      "col": 7,
+      "answer": "GUIDE",
+      "clue": "Show the way, or a tourist's handbook (5)"
+    },
+    {
+      "number": 14,
+      "row": 8,
+      "col": 2,
+      "answer": "INDIE",
+      "clue": "Genre the Forum and Bull & Gate fed on (5)"
+    },
+    {
+      "number": 16,
+      "row": 10,
+      "col": 3,
+      "answer": "ORWELL",
+      "clue": "Big Brother's NW5 creator (6)"
+    },
+    {
+      "number": 17,
       "row": 11,
-      "col": 6,
-      "answer": "VALE",
-      "clue": "Hidden hamlet of Health on the Heath"
+      "col": 8,
+      "answer": "LIDO",
+      "clue": "Open-air swim on the Heath, for the brave (4)"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "LEVERTON",
-      "clue": "The Pineapple's leafy NW5 street"
+      "col": 1,
+      "answer": "PARAKEET",
+      "clue": "Squawky green flyer, or KT Road's Michelin-listed pub (8)"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 2,
-      "answer": "DUST",
-      "clue": "Settles where the cleaning's overdue"
+      "col": 8,
+      "answer": "GAIN",
+      "clue": "Profit or acquire (4)"
     },
     {
       "number": 3,
       "row": 0,
-      "col": 5,
-      "answer": "OVERGROUND",
-      "clue": "Orange-line train from Kentish Town West to Gospel Oak"
-    },
-    {
-      "number": 4,
-      "row": 0,
-      "col": 7,
-      "answer": "STEAM",
-      "clue": "Power from boiling water, or full ahead"
+      "col": 11,
+      "answer": "SERVE",
+      "clue": "Wait on tables, or open a tennis point (5)"
     },
     {
       "number": 5,
-      "row": 0,
+      "row": 1,
+      "col": 5,
+      "answer": "USAGE",
+      "clue": "How a word is employed (5)"
+    },
+    {
+      "number": 8,
+      "row": 3,
+      "col": 3,
+      "answer": "LUPTON",
+      "clue": "NW5 street, sounds like a sit-down (6)"
+    },
+    {
+      "number": 10,
+      "row": 5,
+      "col": 8,
+      "answer": "TUFNELL",
+      "clue": "Park just west of Kentish Town, with cricketing surname (7)"
+    },
+    {
+      "number": 12,
+      "row": 6,
       "col": 11,
-      "answer": "EVERY",
-      "clue": "Each and all, without exception"
+      "answer": "EXAM",
+      "clue": "Test you can't fail to revise for (4)"
     },
     {
-      "number": 6,
-      "row": 2,
-      "col": 9,
-      "answer": "DOWN",
-      "clue": "Feeling blue, or the duck's soft feathers"
-    },
-    {
-      "number": 9,
+      "number": 13,
       "row": 7,
-      "col": 9,
-      "answer": "VOICE",
-      "clue": "Singer's instrument, or your say"
+      "col": 6,
+      "answer": "NEVER",
+      "clue": "At no time, said gloomily (5)"
+    },
+    {
+      "number": 15,
+      "row": 8,
+      "col": 4,
+      "answer": "DIRT",
+      "clue": "Grime, or cheap gossip (4)"
     }
   ]
 }

@@ -287,7 +287,7 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
 
       {/* Grid */}
       <div
-        className="grid gap-[3px] bg-stone-800 p-[3px] rounded-md shadow-lg select-none"
+        className="grid gap-[2px] bg-stone-300 p-[2px] rounded-md shadow-md select-none"
         style={{ gridTemplateColumns: `repeat(${COLS}, 44px)` }}
         onKeyDown={handleKeyDown}
         tabIndex={0}
@@ -306,13 +306,13 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
                 className={[
                   "relative w-[44px] h-[44px] flex items-center justify-center cursor-pointer",
                   black
-                    ? "bg-stone-900"
+                    ? "bg-stone-500"
                     : isSelected
                     ? "bg-yellow-300"
                     : inClue
-                    ? "bg-blue-100"
+                    ? "bg-amber-50"
                     : "bg-white",
-                  !black && "border border-stone-300",
+                  !black && "border border-stone-200",
                 ].join(" ")}
                 onClick={() => handleCellClick(r, c)}
               >
@@ -358,12 +358,6 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
           className="px-4 py-2 bg-stone-800 text-white text-sm rounded-lg hover:bg-stone-700 transition"
         >
           Check
-        </button>
-        <button
-          onClick={revealAll}
-          className="px-4 py-2 bg-stone-200 text-stone-700 text-sm rounded-lg hover:bg-stone-300 transition"
-        >
-          Reveal
         </button>
         <button
           onClick={reset}

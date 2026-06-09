@@ -6,7 +6,7 @@
     [
       "#",
       "#",
-      "#",
+      "P",
       "#",
       "#",
       "#",
@@ -18,281 +18,267 @@
       "#"
     ],
     [
-      "G",
-      "A",
-      "Z",
+      "P",
+      "I",
+      "E",
+      "C",
       "E",
       "#",
-      "G",
+      "V",
+      "I",
+      "N",
+      "Y",
+      "L",
+      "#"
+    ],
+    [
+      "H",
       "#",
       "C",
       "#",
       "#",
       "#",
-      "#"
-    ],
-    [
-      "L",
-      "#",
-      "#",
-      "#",
-      "#",
       "O",
       "#",
-      "O",
       "#",
-      "A",
+      "#",
       "#",
       "#"
     ],
     [
       "O",
       "#",
-      "#",
-      "#",
-      "M",
-      "A",
-      "L",
-      "D",
-      "E",
-      "N",
-      "#",
-      "#"
-    ],
-    [
-      "B",
-      "#",
-      "P",
-      "#",
-      "#",
-      "T",
-      "#",
-      "E",
-      "#",
-      "G",
-      "#",
-      "#"
-    ],
-    [
-      "E",
-      "A",
-      "R",
-      "T",
-      "H",
-      "#",
-      "#",
-      "#",
-      "#",
-      "L",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "E",
-      "#",
-      "#",
-      "O",
-      "S",
-      "E",
-      "N",
-      "E",
-      "Y",
-      "#"
-    ],
-    [
-      "B",
-      "U",
-      "S",
       "K",
-      "E",
-      "R",
       "#",
-      "#",
-      "#",
-      "R",
-      "#",
-      "S"
-    ],
-    [
-      "A",
-      "#",
-      "S",
-      "#",
-      "#",
-      "W",
-      "#",
+      "C",
       "O",
+      "I",
       "N",
-      "S",
-      "E",
-      "T"
-    ],
-    [
-      "T",
-      "#",
-      "#",
-      "G",
-      "R",
-      "E",
-      "W",
-      "#",
-      "#",
-      "#",
-      "#",
-      "O"
-    ],
-    [
-      "H",
-      "#",
-      "#",
-      "#",
-      "#",
-      "L",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "N"
-    ],
-    [
-      "#",
-      "M",
-      "U",
-      "R",
-      "A",
-      "L",
       "#",
       "#",
       "V",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "W",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "B",
+      "#",
       "A",
+      "N",
+      "G",
       "L",
-      "E"
+      "E",
+      "R",
+      "S",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "B",
+      "E",
+      "A",
+      "M",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "#",
+      "R",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "Q",
+      "U",
+      "E",
+      "E",
+      "N",
+      "#"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "A",
+      "X",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "K",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
     ]
   ],
   "across": [
     {
-      "number": 1,
+      "number": 2,
       "row": 1,
       "col": 0,
-      "answer": "GAZE",
-      "clue": "Stare fixedly"
+      "answer": "PIECE",
+      "clue": "Bit of a chess move"
     },
     {
-      "number": 5,
+      "number": 3,
+      "row": 1,
+      "col": 6,
+      "answer": "VINYL",
+      "clue": "What spins at the local record shop, NW5's groove-keeper"
+    },
+    {
+      "number": 4,
       "row": 3,
       "col": 4,
-      "answer": "MALDEN",
-      "clue": "Road and arms where NW5 raises a glass"
+      "answer": "COIN",
+      "clue": "Toss it for heads or tails"
     },
     {
-      "number": 7,
+      "number": 6,
       "row": 5,
-      "col": 0,
-      "answer": "EARTH",
-      "clue": "Our planet, or where street art ends up"
+      "col": 2,
+      "answer": "ANGLERS",
+      "clue": "Jolly pub on the Lane where you'd hook a pint, not a fish"
     },
     {
       "number": 8,
       "row": 6,
-      "col": 5,
-      "answer": "OSENEY",
-      "clue": "Crescent borrowing an Oxford abbey's name"
+      "col": 8,
+      "answer": "HEEL",
+      "clue": "Back of the foot"
     },
     {
       "number": 9,
       "row": 7,
-      "col": 0,
-      "answer": "BUSKER",
-      "clue": "Tube-station serenader after your spare change"
-    },
-    {
-      "number": 11,
-      "row": 8,
-      "col": 7,
-      "answer": "ONSET",
-      "clue": "Beginning of an illness"
+      "col": 1,
+      "answer": "BEAM",
+      "clue": "Smile widely, or shine a light"
     },
     {
       "number": 12,
       "row": 9,
-      "col": 3,
-      "answer": "GREW",
-      "clue": "Increased in size"
+      "col": 6,
+      "answer": "QUEEN",
+      "clue": "She reigns supreme"
     },
     {
       "number": 13,
-      "row": 11,
-      "col": 1,
-      "answer": "MURAL",
-      "clue": "Secret Artist NW5's painted gift to a wall"
-    },
-    {
-      "number": 14,
-      "row": 11,
-      "col": 8,
-      "answer": "VALE",
-      "clue": "Hampstead's hidden hamlet, of Health"
+      "row": 10,
+      "col": 0,
+      "answer": "RELAX",
+      "clue": "Take it easy"
     }
   ],
   "down": [
     {
       "number": 1,
-      "row": 1,
-      "col": 0,
-      "answer": "GLOBE",
-      "clue": "Theatre once Shakespeare's, or a light fitting"
+      "row": 0,
+      "col": 2,
+      "answer": "PECKWATER",
+      "clue": "NW5 street borrowing its name from a posh Oxford quad"
     },
     {
       "number": 2,
       "row": 1,
-      "col": 5,
-      "answer": "GOAT",
-      "clue": "Horned billy"
+      "col": 0,
+      "answer": "PHOEBE",
+      "clue": "Local genius behind Fleabag, ___ Waller-Bridge"
     },
     {
       "number": 3,
       "row": 1,
-      "col": 7,
-      "answer": "CODE",
-      "clue": "Secret cipher"
+      "col": 6,
+      "answer": "VOICE",
+      "clue": "Singer's instrument or your say"
     },
     {
-      "number": 4,
-      "row": 2,
-      "col": 9,
-      "answer": "ANGLERS",
-      "clue": "Jolly pub and lane for fishermen"
+      "number": 5,
+      "row": 3,
+      "col": 10,
+      "answer": "VINE",
+      "clue": "Edwardian boozer with shuffleboard and a roof terrace, NW5"
     },
     {
-      "number": 6,
-      "row": 4,
-      "col": 2,
-      "answer": "PRESS",
-      "clue": "Squeeze, or Fleet Street collectively"
-    },
-    {
-      "number": 8,
-      "row": 6,
-      "col": 5,
-      "answer": "ORWELL",
-      "clue": "NW5 author who watched Big Brother coming"
-    },
-    {
-      "number": 9,
-      "row": 7,
-      "col": 0,
-      "answer": "BATH",
-      "clue": "Long soak in the tub"
+      "number": 7,
+      "row": 5,
+      "col": 8,
+      "answer": "SHINE",
+      "clue": "Polish till it gleams"
     },
     {
       "number": 10,
       "row": 7,
-      "col": 11,
-      "answer": "STONE",
-      "clue": "Rolling type that gathers no moss"
+      "col": 4,
+      "answer": "MARX",
+      "clue": "Bearded thinker who scribbled away at 46 Grafton Terrace"
+    },
+    {
+      "number": 11,
+      "row": 8,
+      "col": 0,
+      "answer": "BARK",
+      "clue": "What a dog does, or tree's coat"
     }
   ]
 }

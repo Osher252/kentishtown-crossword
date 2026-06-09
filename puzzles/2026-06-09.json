@@ -6,293 +6,258 @@
     [
       "#",
       "#",
-      "M",
       "#",
+      "O",
+      "R",
+      "W",
+      "E",
+      "L",
+      "L",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
       "#",
       "#",
       "B",
       "#",
       "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "J",
+      "U",
+      "N",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "O",
       "#",
       "#",
       "#"
     ],
     [
       "#",
-      "D",
-      "A",
-      "R",
-      "T",
-      "M",
-      "O",
-      "U",
-      "T",
+      "#",
+      "#",
       "H",
       "#",
-      "B"
+      "#",
+      "#",
+      "#",
+      "K",
+      "#",
+      "#",
+      "#"
     ],
     [
+      "S",
+      "T",
+      "P",
+      "A",
+      "N",
+      "C",
+      "R",
+      "A",
+      "S",
       "#",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "#",
+      "#",
+      "R",
       "#",
       "L",
       "#",
-      "R",
       "#",
-      "A",
-      "#",
-      "#",
+      "H",
       "#",
       "#",
       "O"
     ],
     [
+      "E",
       "#",
       "#",
-      "D",
+      "S",
       "#",
       "A",
-      "R",
-      "T",
-      "I",
-      "S",
-      "T",
+      "#",
+      "L",
+      "O",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "#",
+      "#",
+      "H",
+      "O",
+      "M",
+      "E",
+      "#",
+      "P",
+      "#",
+      "#",
+      "G"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "A"
     ],
     [
       "#",
       "#",
+      "#",
+      "#",
+      "L",
       "E",
-      "#",
-      "I",
-      "#",
-      "#",
-      "#",
-      "#",
-      "R",
-      "#",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "N",
-      "#",
-      "N",
-      "#",
-      "#",
-      "S",
-      "O",
-      "U",
-      "N",
-      "D"
-    ],
-    [
-      "#",
-      "O",
-      "#",
-      "#",
-      "#",
-      "#",
-      "H",
-      "#",
-      "#",
-      "T",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "S",
-      "#",
-      "C",
-      "A",
       "V",
       "E",
       "R",
-      "S",
-      "H",
-      "A",
-      "M"
-    ],
-    [
-      "F",
-      "E",
-      "E",
-      "L",
-      "#",
-      "#",
-      "A",
-      "#",
       "T",
-      "#",
-      "#",
-      "U"
-    ],
-    [
-      "#",
-      "N",
-      "#",
       "O",
-      "#",
-      "#",
-      "T",
-      "#",
-      "O",
-      "#",
-      "#",
-      "R"
-    ],
-    [
-      "L",
-      "E",
-      "A",
-      "S",
-      "T",
-      "#",
-      "H",
-      "A",
-      "R",
-      "D",
-      "#",
-      "A"
-    ],
-    [
-      "#",
-      "Y",
-      "#",
-      "E",
-      "#",
-      "#",
-      "#",
-      "#",
-      "M",
-      "#",
-      "#",
-      "L"
+      "N"
     ]
   ],
   "across": [
     {
-      "number": 3,
-      "row": 1,
-      "col": 1,
-      "answer": "DARTMOUTH",
-      "clue": "Gospel Oak's cosy local, the ___ Arms"
+      "number": 1,
+      "row": 0,
+      "col": 3,
+      "answer": "ORWELL",
+      "clue": "Animal Farm scribe, once a local lodger"
+    },
+    {
+      "number": 4,
+      "row": 3,
+      "col": 2,
+      "answer": "JUNCTION",
+      "clue": "Fortess Road's real-ale haven, a Tavern"
     },
     {
       "number": 6,
-      "row": 3,
-      "col": 4,
-      "answer": "ARTIST",
-      "clue": "NW5's elusive painter leaving freebies on walls"
+      "row": 6,
+      "col": 0,
+      "answer": "STPANCRAS",
+      "clue": "Old borough that held us, now a grand station"
     },
     {
-      "number": 8,
-      "row": 5,
+      "number": 9,
+      "row": 8,
       "col": 7,
-      "answer": "SOUND",
-      "clue": "Sensible, or what you hear"
+      "answer": "LOVER",
+      "clue": "Romeo, for one"
+    },
+    {
+      "number": 10,
+      "row": 9,
+      "col": 3,
+      "answer": "HOME",
+      "clue": "Where the heart is"
     },
     {
       "number": 11,
-      "row": 7,
-      "col": 3,
-      "answer": "CAVERSHAM",
-      "clue": "Christ Church Oxford gave this NW5 road its name"
-    },
-    {
-      "number": 14,
-      "row": 8,
-      "col": 0,
-      "answer": "FEEL",
-      "clue": "Touch, or sense emotionally"
-    },
-    {
-      "number": 15,
-      "row": 10,
-      "col": 0,
-      "answer": "LEAST",
-      "clue": "Smallest amount, at the very ___"
-    },
-    {
-      "number": 16,
-      "row": 10,
-      "col": 6,
-      "answer": "HARD",
-      "clue": "Tough, or difficult going"
+      "row": 11,
+      "col": 4,
+      "answer": "LEVERTON",
+      "clue": "Pineapple's street, sweetly named"
     }
   ],
   "down": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 2,
-      "answer": "MALDEN",
-      "clue": "NW5 road and Arms named for a Surrey town"
-    },
-    {
       "number": 2,
       "row": 0,
-      "col": 6,
-      "answer": "BOAT",
-      "clue": "Rowing vessel"
+      "col": 5,
+      "answer": "WATCH",
+      "clue": "Keep guard, or check the time"
     },
     {
-      "number": 4,
-      "row": 1,
-      "col": 4,
-      "answer": "TRAIN",
-      "clue": "Coach the team, or catch this at the station"
+      "number": 3,
+      "row": 2,
+      "col": 8,
+      "answer": "BOOKSHOP",
+      "clue": "207 Kentish Town Road's literary gem"
     },
     {
       "number": 5,
-      "row": 1,
-      "col": 11,
-      "answer": "BOARD",
-      "clue": "Plank, or get on the plane"
+      "row": 5,
+      "col": 3,
+      "answer": "HARSH",
+      "clue": "Cruel or severe"
+    },
+    {
+      "number": 6,
+      "row": 6,
+      "col": 0,
+      "answer": "SCENE",
+      "clue": "Setting for the action"
     },
     {
       "number": 7,
-      "row": 3,
-      "col": 9,
-      "answer": "TRUTH",
-      "clue": "Honesty, the whole ___"
-    },
-    {
-      "number": 9,
       "row": 6,
-      "col": 1,
-      "answer": "OSENEY",
-      "clue": "NW5 crescent borrowed from an Oxford abbey"
+      "col": 5,
+      "answer": "CLAM",
+      "clue": "Tight-lipped shellfish"
     },
     {
-      "number": 10,
-      "row": 6,
-      "col": 6,
-      "answer": "HEATH",
-      "clue": "The ancient wilderness on NW5's doorstep"
-    },
-    {
-      "number": 11,
-      "row": 7,
-      "col": 3,
-      "answer": "CLOSE",
-      "clue": "Shut, or nearly there"
-    },
-    {
-      "number": 12,
-      "row": 7,
-      "col": 8,
-      "answer": "STORM",
-      "clue": "Tempest brewing"
-    },
-    {
-      "number": 13,
+      "number": 8,
       "row": 7,
       "col": 11,
-      "answer": "MURAL",
-      "clue": "What our Secret painter leaves on a wall"
+      "answer": "ORGAN",
+      "clue": "Church instrument or vital body part"
     }
   ]
 }

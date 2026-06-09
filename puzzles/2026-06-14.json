@@ -4,167 +4,167 @@
   "size": 12,
   "grid": [
     [
-      "D",
       "#",
       "#",
       "#",
       "#",
       "#",
       "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "E",
-      "V",
-      "A",
-      "N",
-      "G",
-      "E",
+      "F",
       "L",
-      "I",
+      "E",
       "S",
-      "T",
-      "#",
+      "H",
       "#"
     ],
     [
-      "A",
-      "#",
-      "R",
-      "#",
-      "I",
-      "#",
-      "#",
-      "#",
-      "#",
-      "U",
-      "#",
-      "#"
-    ],
-    [
-      "R",
-      "#",
-      "T",
-      "#",
-      "V",
-      "#",
-      "B",
-      "#",
       "#",
       "L",
-      "#",
-      "W"
-    ],
-    [
-      "#",
-      "B",
       "I",
-      "T",
-      "E",
+      "D",
+      "O",
       "#",
       "O",
       "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "U",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "#",
+      "W",
+      "O",
       "L",
+      "S",
+      "E",
+      "Y",
+      "#",
+      "#"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "C",
+      "E",
+      "#",
+      "#",
+      "#",
       "I",
-      "D",
-      "O"
+      "#",
+      "F",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "I",
+      "#",
+      "L",
+      "#",
+      "M",
+      "U",
+      "R",
+      "A",
+      "L",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "V",
+      "A",
+      "L",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#"
     ],
     [
       "#",
       "#",
-      "S",
+      "E",
       "#",
       "#",
+      "#",
+      "V",
+      "A",
+      "L",
+      "U",
+      "E",
+      "#"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "U",
+      "M",
       "#",
       "A",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "#",
       "#",
       "#",
       "P",
       "#",
-      "L"
+      "#",
+      "#",
+      "#",
+      "#"
     ],
     [
-      "C",
-      "I",
-      "T",
-      "Y",
-      "F",
-      "A",
-      "R",
-      "M",
-      "#",
-      "#",
-      "#",
-      "S"
-    ],
-    [
-      "#",
-      "N",
-      "#",
-      "#",
-      "E",
-      "#",
-      "D",
-      "#",
-      "C",
       "O",
-      "V",
-      "E"
-    ],
-    [
-      "#",
-      "D",
-      "#",
-      "#",
-      "E",
       "#",
       "#",
       "#",
-      "U",
       "#",
-      "#",
-      "Y"
-    ],
-    [
-      "V",
-      "I",
-      "N",
-      "Y",
-      "L",
-      "#",
-      "#",
-      "F",
-      "R",
-      "O",
       "G",
+      "O",
+      "S",
+      "P",
+      "E",
+      "L",
       "#"
     ],
     [
-      "#",
+      "G",
+      "R",
+      "A",
+      "D",
       "E",
       "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "L",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
+      "R",
       "#",
       "#",
       "#",
@@ -174,118 +174,132 @@
   ],
   "across": [
     {
+      "number": 1,
+      "row": 0,
+      "col": 6,
+      "answer": "FLESH",
+      "clue": "Body's soft tissue"
+    },
+    {
       "number": 2,
       "row": 1,
-      "col": 0,
-      "answer": "EVANGELIST",
-      "clue": "St John's college estate road, for a preacher (10)"
-    },
-    {
-      "number": 8,
-      "row": 4,
       "col": 1,
-      "answer": "BITE",
-      "clue": "Nip, or what to grab for lunch (4)"
+      "answer": "LIDO",
+      "clue": "Where Heath swimmers brave the chill all year"
     },
     {
-      "number": 9,
+      "number": 6,
+      "row": 3,
+      "col": 4,
+      "answer": "WOLSEY",
+      "clue": "NW5 road named for Henry VIII's tumbled Cardinal"
+    },
+    {
+      "number": 7,
       "row": 4,
-      "col": 8,
-      "answer": "LIDO",
-      "clue": "Heath's open-air pool — brave it in April (4)"
+      "col": 0,
+      "answer": "FORCE",
+      "clue": "Power, or use of it"
     },
     {
       "number": 10,
+      "row": 5,
+      "col": 6,
+      "answer": "MURAL",
+      "clue": "Wall art — Secret Artist NW5's calling card"
+    },
+    {
+      "number": 11,
       "row": 6,
-      "col": 0,
-      "answer": "CITYFARM",
-      "clue": "Cressfield Close's home for goats since 1972 (8)"
+      "col": 2,
+      "answer": "VALE",
+      "clue": "Hidden hamlet on the Heath where you'd never find your address"
+    },
+    {
+      "number": 12,
+      "row": 7,
+      "col": 6,
+      "answer": "VALUE",
+      "clue": "What something's worth"
     },
     {
       "number": 13,
-      "row": 7,
-      "col": 8,
-      "answer": "COVE",
-      "clue": "Sheltered inlet on the coast (4)"
+      "row": 8,
+      "col": 0,
+      "answer": "FORUM",
+      "clue": "Town & Country Club, as locals stubbornly still call it"
     },
     {
       "number": 14,
-      "row": 9,
-      "col": 0,
-      "answer": "VINYL",
-      "clue": "What the record shops still spin round here (5)"
+      "row": 10,
+      "col": 5,
+      "answer": "GOSPEL",
+      "clue": "___ Oak — the bit between us and Hampstead"
     },
     {
       "number": 15,
-      "row": 9,
-      "col": 7,
-      "answer": "FROG",
-      "clue": "It croaks by the lily pad (4)"
+      "row": 11,
+      "col": 0,
+      "answer": "GRADE",
+      "clue": "Rank or level"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 0,
-      "answer": "DEAR",
-      "clue": "Beloved, or pricey (4)"
+      "col": 6,
+      "answer": "FOUL",
+      "clue": "Dirty, or a referee's whistle-worthy offence"
     },
     {
       "number": 3,
       "row": 1,
-      "col": 2,
-      "answer": "ARTIST",
-      "clue": "One who paints — ours leaves works around NW5 in secret (6)"
+      "col": 4,
+      "answer": "ORWELL",
+      "clue": "Big Brother's NW5 creator"
     },
     {
       "number": 4,
-      "row": 1,
-      "col": 4,
-      "answer": "GIVE",
-      "clue": "Donate or hand over (4)"
+      "row": 2,
+      "col": 0,
+      "answer": "REFER",
+      "clue": "Send on to a specialist"
     },
     {
       "number": 5,
-      "row": 1,
-      "col": 9,
-      "answer": "TULIP",
-      "clue": "Spring bloom, Dutch favourite (5)"
+      "row": 2,
+      "col": 8,
+      "answer": "HEIR",
+      "clue": "One who inherits"
     },
     {
-      "number": 6,
-      "row": 3,
-      "col": 6,
-      "answer": "BOARD",
-      "clue": "Plank, or get on a train (5)"
+      "number": 8,
+      "row": 4,
+      "col": 2,
+      "answer": "RIVER",
+      "clue": "Flows to the sea"
     },
     {
-      "number": 7,
-      "row": 3,
-      "col": 11,
-      "answer": "WOLSEY",
-      "clue": "Cardinal's road off NW5, his namesake fell from favour (6)"
-    },
-    {
-      "number": 11,
-      "row": 6,
-      "col": 1,
-      "answer": "INDIE",
-      "clue": "The Forum and Bull & Gate were built on it (5)"
+      "number": 9,
+      "row": 4,
+      "col": 10,
+      "answer": "FLEET",
+      "clue": "London's lost stream, still murmuring beneath the High Street"
     },
     {
       "number": 12,
-      "row": 6,
-      "col": 4,
-      "answer": "FEEL",
-      "clue": "Sense or emotion (4)"
+      "row": 7,
+      "col": 6,
+      "answer": "VAPOR",
+      "clue": "Mist from a steaming Heath pond, perhaps"
     },
     {
       "number": 13,
-      "row": 7,
-      "col": 8,
-      "answer": "CURL",
-      "clue": "Twist of hair (4)"
+      "row": 8,
+      "col": 0,
+      "answer": "FROG",
+      "clue": "Pond-hopping amphibian"
     }
   ]
 }

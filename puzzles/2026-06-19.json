@@ -6,286 +6,279 @@
     [
       "#",
       "#",
-      "U",
       "#",
-      "#",
-      "G",
-      "#",
-      "#",
-      "V",
+      "P",
+      "H",
+      "O",
+      "E",
+      "B",
+      "E",
       "#",
       "#",
       "#"
     ],
     [
-      "C",
+      "#",
+      "F",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
       "O",
-      "P",
-      "Y",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "U",
+      "R",
+      "#",
+      "A",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
       "#",
       "R",
-      "I",
-      "V",
-      "A",
-      "L",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "S",
-      "#",
-      "#",
-      "O",
-      "#",
       "#",
       "L",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "P",
-      "E",
+      "U",
       "C",
       "K",
-      "W",
-      "A",
-      "T",
-      "E",
+      "Y",
+      "#",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "#",
+      "I",
+      "#",
       "R",
       "#",
-      "#"
-    ],
-    [
       "#",
       "#",
       "T",
       "#",
-      "#",
-      "#",
-      "N",
-      "#",
-      "#",
-      "#",
-      "#",
       "#"
     ],
     [
       "#",
       "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "G",
-      "#",
-      "G",
-      "#",
-      "#",
-      "A"
-    ],
-    [
-      "#",
-      "#",
-      "F",
-      "I",
-      "D",
-      "D",
+      "V",
+      "A",
       "L",
       "E",
-      "R",
-      "S",
       "#",
-      "R"
-    ],
-    [
-      "#",
-      "#",
-      "R",
-      "#",
-      "#",
-      "#",
-      "E",
-      "#",
-      "A",
-      "#",
-      "#",
-      "T"
-    ],
-    [
-      "G",
-      "O",
-      "O",
       "D",
+      "E",
+      "P",
+      "T",
+      "H"
+    ],
+    [
       "#",
-      "C",
-      "R",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
       "A",
-      "F",
-      "T",
       "#",
-      "I"
+      "#",
+      "A",
+      "#",
+      "E"
     ],
     [
-      "I",
-      "#",
-      "G",
       "#",
       "#",
-      "#",
-      "S",
-      "#",
-      "T",
-      "#",
-      "#",
-      "S"
-    ],
-    [
+      "L",
+      "E",
       "V",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
+      "E",
+      "R",
       "T",
       "O",
-      "A",
-      "S",
-      "T"
+      "N",
+      "#",
+      "E"
     ],
     [
-      "E",
-      "X",
-      "T",
-      "R",
-      "A",
       "#",
       "#",
       "#",
       "N",
       "#",
       "#",
+      "T",
+      "#",
+      "#",
+      "C",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "W",
+      "I",
+      "S",
+      "T",
+      "#",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A",
+      "R",
+      "T",
+      "I",
+      "S",
+      "T",
       "#"
     ]
   ],
   "across": [
     {
-      "number": 4,
-      "row": 1,
-      "col": 0,
-      "answer": "COPY",
-      "clue": "Imitate, or duplicate text"
+      "number": 1,
+      "row": 0,
+      "col": 3,
+      "answer": "PHOEBE",
+      "clue": "Fleabag genius, local girl made good (6)"
     },
     {
-      "number": 5,
-      "row": 1,
-      "col": 5,
-      "answer": "RIVAL",
-      "clue": "Competitor for the same prize"
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "HOUR",
+      "clue": "Sixty minutes (4)"
     },
     {
       "number": 6,
       "row": 3,
-      "col": 1,
-      "answer": "PECKWATER",
-      "clue": "NW5 street borrowing a quad's name from Christ Church"
+      "col": 3,
+      "answer": "LUCKY",
+      "clue": "Fortunate, like a four-leaf clover (5)"
     },
     {
-      "number": 10,
-      "row": 6,
+      "number": 8,
+      "row": 5,
       "col": 2,
-      "answer": "FIDDLERS",
-      "clue": "Bend your arm and catch some live music on Malden Road"
+      "answer": "VALE",
+      "clue": "Secret Heath hamlet, Health and well-being (4)"
     },
     {
-      "number": 11,
-      "row": 8,
-      "col": 0,
-      "answer": "GOOD",
-      "clue": "Well-behaved, or a hearty greeting?"
+      "number": 9,
+      "row": 5,
+      "col": 7,
+      "answer": "DEPTH",
+      "clue": "How deep? (5)"
     },
     {
       "number": 12,
-      "row": 8,
-      "col": 5,
-      "answer": "CRAFT",
-      "clue": "What The Grafton pours with reverence — beer made with care"
+      "row": 7,
+      "col": 2,
+      "answer": "LEVERTON",
+      "clue": "Street where The Pineapple keeps the locals merry (8)"
     },
     {
       "number": 13,
-      "row": 10,
-      "col": 7,
-      "answer": "TOAST",
-      "clue": "Raise a glass, or grill some bread"
+      "row": 9,
+      "col": 3,
+      "answer": "TWIST",
+      "clue": "Sudden plot turn — or a dance with Oliver (5)"
     },
     {
       "number": 14,
       "row": 11,
-      "col": 0,
-      "answer": "EXTRA",
-      "clue": "Additional, like a film's hired hand"
+      "col": 5,
+      "answer": "ARTIST",
+      "clue": "The Secret one leaving paintings round NW5 (6)"
     }
   ],
   "down": [
     {
       "number": 1,
       "row": 0,
-      "col": 2,
-      "answer": "UPSET",
-      "clue": "Knocked over, or thoroughly miffed"
+      "col": 3,
+      "answer": "PARLIAMENT",
+      "clue": "Hill of kites and the best view in London (10)"
     },
     {
       "number": 2,
       "row": 0,
-      "col": 5,
-      "answer": "GROW",
-      "clue": "Cultivate in the garden"
+      "col": 7,
+      "answer": "BODY",
+      "clue": "Anatomical whole (4)"
     },
     {
       "number": 3,
-      "row": 0,
-      "col": 8,
-      "answer": "VALE",
-      "clue": "Hidden Hampstead hamlet good for your wellbeing, allegedly"
+      "row": 1,
+      "col": 1,
+      "answer": "FORM",
+      "clue": "Shape, or a gym membership goal (4)"
+    },
+    {
+      "number": 5,
+      "row": 2,
+      "col": 5,
+      "answer": "ACRE",
+      "clue": "0.4 hectares, roughly (4)"
     },
     {
       "number": 7,
       "row": 3,
-      "col": 6,
-      "answer": "ANGLERS",
-      "clue": "The Jolly fishermen who gave their Lane its name"
-    },
-    {
-      "number": 8,
-      "row": 5,
-      "col": 8,
-      "answer": "GRAFTON",
-      "clue": "Beloved Victorian boozer beside Kentish Town West"
-    },
-    {
-      "number": 9,
-      "row": 5,
-      "col": 11,
-      "answer": "ARTIST",
-      "clue": "NW5's mysterious painter leaving secret canvases about town"
+      "col": 9,
+      "answer": "STPANCRAS",
+      "clue": "Grand station — and the old borough we belonged to (3,7)"
     },
     {
       "number": 10,
-      "row": 6,
-      "col": 2,
-      "answer": "FROG",
-      "clue": "It croaks down by the pond"
+      "row": 5,
+      "col": 11,
+      "answer": "HEEL",
+      "clue": "Achilles' weak spot (4)"
     },
     {
       "number": 11,
-      "row": 8,
-      "col": 0,
-      "answer": "GIVE",
-      "clue": "Donate, or yield under pressure"
+      "row": 6,
+      "col": 6,
+      "answer": "ARTS",
+      "clue": "Drama, painting and the like (4)"
     }
   ]
 }

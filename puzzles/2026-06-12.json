@@ -4,246 +4,295 @@
   "size": 12,
   "grid": [
     [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "H",
+      "D",
       "A",
-      "R",
-      "S",
-      "H",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "P",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "O",
-      "S",
+      "T",
       "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "R",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "A",
+      "C",
+      "R",
+      "E",
+      "#",
+      "M",
+      "U",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "T",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "M",
+      "#",
+      "T",
+      "U",
+      "F",
       "N",
       "E",
-      "Y",
+      "L",
+      "L",
       "#",
+      "G",
       "#"
     ],
     [
-      "#",
-      "#",
+      "O",
       "#",
       "#",
       "#",
       "T",
       "#",
       "#",
+      "D",
+      "#",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "S",
+      "#",
+      "V",
+      "I",
+      "N",
+      "Y",
+      "L",
+      "#",
+      "L"
+    ],
+    [
+      "H",
+      "#",
+      "#",
+      "W",
+      "#",
       "A",
       "#",
       "#",
-      "#"
+      "#",
+      "U",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "V",
+      "I",
+      "O",
+      "L",
+      "A",
+      "#",
+      "#",
+      "C",
+      "#",
+      "G"
     ],
     [
       "#",
       "#",
       "#",
+      "F",
       "#",
+      "E",
       "#",
-      "P",
       "#",
       "#",
       "K",
       "#",
-      "#",
-      "#"
+      "A"
     ],
     [
-      "#",
-      "#",
-      "#",
-      "H",
-      "E",
+      "G",
+      "O",
       "A",
       "T",
-      "H",
       "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "P",
-      "#",
-      "#",
-      "#",
-      "N",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "B",
-      "A",
-      "L",
-      "D",
-      "#",
-      "C",
       "#",
       "#",
       "R",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "T",
-      "#",
-      "#",
-      "P",
-      "R",
-      "I",
-      "D",
-      "E",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "C",
-      "#",
-      "#",
-      "#",
+      "O",
+      "Y",
       "A",
-      "#",
-      "#",
-      "L",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "H",
-      "A",
-      "M",
-      "P",
-      "S",
-      "T",
-      "E",
-      "A",
-      "D",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "X",
-      "#",
-      "#",
-      "#"
+      "L"
     ]
   ],
   "across": [
     {
       "number": 1,
       "row": 0,
-      "col": 5,
-      "answer": "HARSH",
-      "clue": "Severe or unkind"
-    },
-    {
-      "number": 3,
-      "row": 2,
-      "col": 4,
-      "answer": "OSENEY",
-      "clue": "Crescent off Kentish Town Road borrowing its name from an Oxford abbey"
-    },
-    {
-      "number": 5,
-      "row": 5,
-      "col": 3,
-      "answer": "HEATH",
-      "clue": "Where NW5 walks the dog, swims at dawn, and spots the parakeets"
-    },
-    {
-      "number": 7,
-      "row": 7,
       "col": 0,
-      "answer": "BALD",
-      "clue": "Lacking hair"
-    },
-    {
-      "number": 9,
-      "row": 8,
-      "col": 4,
-      "answer": "PRIDE",
-      "clue": "Lions show this collectively"
-    },
-    {
-      "number": 10,
-      "row": 10,
-      "col": 1,
-      "answer": "HAMPSTEAD",
-      "clue": "Posh NW3 neighbour to the north, all artisan bakeries and Keats"
-    }
-  ],
-  "down": [
-    {
-      "number": 2,
-      "row": 0,
-      "col": 8,
-      "answer": "SPEAK",
-      "clue": "Talk or address a crowd"
+      "answer": "DATE",
+      "clue": "Romantic outing, or fruit?"
     },
     {
       "number": 4,
       "row": 2,
+      "col": 2,
+      "answer": "ACRE",
+      "clue": "Patch of land measure"
+    },
+    {
+      "number": 5,
+      "row": 2,
+      "col": 7,
+      "answer": "MURAL",
+      "clue": "Brightening up a Secret Artist's wall round NW5"
+    },
+    {
+      "number": 7,
+      "row": 4,
+      "col": 2,
+      "answer": "TUFNELL",
+      "clue": "___ Park, our neighbour to the west"
+    },
+    {
+      "number": 9,
+      "row": 7,
       "col": 5,
-      "answer": "STPANCRAS",
-      "clue": "The grand old borough Kentish Town once answered to, before Camden swallowed it"
+      "answer": "VINYL",
+      "clue": "Black gold spun in Camden's record shops"
+    },
+    {
+      "number": 12,
+      "row": 9,
+      "col": 2,
+      "answer": "VIOLA",
+      "clue": "Orchestral cousin of the violin"
+    },
+    {
+      "number": 13,
+      "row": 11,
+      "col": 0,
+      "answer": "GOAT",
+      "clue": "Bearded beast, or pub on the hill?"
+    },
+    {
+      "number": 14,
+      "row": 11,
+      "col": 7,
+      "answer": "ROYAL",
+      "clue": "Fit for a king or queen"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "DARTMOUTH",
+      "clue": "Cosy Gospel Oak boozer, the ___ Arms"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "TRAIT",
+      "clue": "Distinguishing characteristic"
+    },
+    {
+      "number": 3,
+      "row": 1,
+      "col": 4,
+      "answer": "CRAFT",
+      "clue": "Beer style worshipped at the Grafton"
+    },
+    {
+      "number": 5,
+      "row": 2,
+      "col": 7,
+      "answer": "MALDEN",
+      "clue": "NW5 road and Arms off Queen's Crescent"
     },
     {
       "number": 6,
-      "row": 6,
-      "col": 1,
-      "answer": "PATCH",
-      "clue": "Repair, or small plot of ground"
+      "row": 2,
+      "col": 10,
+      "answer": "ANGER",
+      "clue": "Rage, or what the Northern Line stirs"
     },
     {
       "number": 8,
       "row": 7,
-      "col": 8,
-      "answer": "RELAX",
-      "clue": "Unwind after a long week"
+      "col": 3,
+      "answer": "SWIFT",
+      "clue": "Bird that darts, or composer Taylor"
+    },
+    {
+      "number": 9,
+      "row": 7,
+      "col": 5,
+      "answer": "VALE",
+      "clue": "Hampstead's hidden hamlet, the ___ of Health"
+    },
+    {
+      "number": 10,
+      "row": 7,
+      "col": 9,
+      "answer": "LUCKY",
+      "clue": "Fortunate, like finding a Heath shortcut"
+    },
+    {
+      "number": 11,
+      "row": 7,
+      "col": 11,
+      "answer": "LEGAL",
+      "clue": "Within the law, and above board"
     }
   ]
 }

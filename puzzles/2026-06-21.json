@@ -10,164 +10,164 @@
       "#",
       "#",
       "#",
-      "F",
-      "O",
-      "O",
-      "D",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ],
     [
       "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "L",
+      "U",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "R",
+      "I",
+      "O",
+      "R",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "P",
+      "#",
+      "O",
+      "#",
+      "#",
+      "A",
+      "#",
+      "K",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "A",
+      "#",
+      "S",
+      "W",
+      "A",
+      "I",
+      "N",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "T",
+      "I",
+      "T",
+      "L",
+      "E",
       "#",
       "#",
       "S",
       "#",
+      "H",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "#",
+      "N",
       "#",
       "L",
-      "#",
-      "#",
-      "#",
-      "C",
-      "#"
-    ],
-    [
-      "#",
-      "C",
-      "I",
-      "T",
-      "Y",
-      "F",
-      "A",
-      "R",
+      "E",
       "M",
-      "#",
-      "A",
+      "O",
+      "N",
       "#"
     ],
     [
+      "#",
+      "F",
+      "O",
+      "X",
+      "E",
+      "S",
       "#",
       "#",
       "#",
       "P",
       "#",
-      "#",
-      "T",
-      "#",
-      "E",
-      "#",
-      "M",
       "#"
     ],
     [
       "#",
-      "F",
-      "#",
-      "A",
-      "#",
-      "#",
-      "#",
-      "#",
-      "D",
-      "#",
-      "D",
-      "#"
-    ],
-    [
-      "Y",
-      "O",
-      "U",
-      "N",
-      "G",
-      "#",
-      "#",
-      "C",
-      "A",
-      "G",
-      "E",
-      "#"
-    ],
-    [
-      "#",
-      "X",
-      "#",
-      "C",
-      "#",
-      "#",
-      "#",
-      "#",
-      "L",
       "#",
       "N",
-      "#"
-    ],
-    [
-      "#",
-      "E",
-      "#",
-      "R",
-      "#",
-      "#",
-      "#",
-      "B",
-      "#",
-      "F",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "S",
-      "M",
-      "A",
-      "L",
-      "L",
-      "#",
-      "O",
-      "#",
-      "L",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "S",
-      "#",
-      "I",
-      "N",
-      "D",
-      "I",
-      "E",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "D",
       "#",
       "Y",
       "#",
-      "E",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ],
     [
       "#",
       "#",
-      "F",
-      "L",
-      "O",
-      "O",
-      "D",
       "#",
       "#",
-      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
       "#",
       "#"
     ]
@@ -175,110 +175,82 @@
   "across": [
     {
       "number": 1,
-      "row": 0,
+      "row": 1,
       "col": 6,
-      "answer": "FOOD",
-      "clue": "Nourishment on the plate"
+      "answer": "CLUB",
+      "clue": "Nightspot, or what golfers swing"
     },
     {
       "number": 4,
-      "row": 2,
-      "col": 1,
-      "answer": "CITYFARM",
-      "clue": "Cressfield Close's resident goats and chickens, farming since '72"
-    },
-    {
-      "number": 7,
-      "row": 5,
-      "col": 0,
-      "answer": "YOUNG",
-      "clue": "Not old"
+      "row": 3,
+      "col": 6,
+      "answer": "PRIOR",
+      "clue": "Earlier; monastery deputy"
     },
     {
       "number": 8,
       "row": 5,
-      "col": 7,
-      "answer": "CAGE",
-      "clue": "Enclosure for a bird"
+      "col": 4,
+      "answer": "SWAINS",
+      "clue": "Calf-burning climb to Highgate's famous graves (6)"
+    },
+    {
+      "number": 9,
+      "row": 6,
+      "col": 0,
+      "answer": "TITLE",
+      "clue": "Sir, for one; book heading"
+    },
+    {
+      "number": 10,
+      "row": 7,
+      "col": 6,
+      "answer": "LEMON",
+      "clue": "Bitter yellow fruit"
     },
     {
       "number": 11,
       "row": 8,
       "col": 1,
-      "answer": "SMALL",
-      "clue": "Not large"
-    },
-    {
-      "number": 13,
-      "row": 9,
-      "col": 5,
-      "answer": "INDIE",
-      "clue": "Genre that built the Forum and Bull & Gate"
-    },
-    {
-      "number": 14,
-      "row": 11,
-      "col": 2,
-      "answer": "FLOOD",
-      "clue": "Deluge of water"
+      "answer": "FOXES",
+      "clue": "NW5's bin-raiding, midnight-screeching locals (5)"
     }
   ],
   "down": [
     {
-      "number": 1,
-      "row": 0,
-      "col": 6,
-      "answer": "FLAT",
-      "clue": "Pancake-shaped, or a Kentish Town rental"
-    },
-    {
       "number": 2,
       "row": 1,
-      "col": 3,
-      "answer": "STPANCRAS",
-      "clue": "Grand station and the old borough that covered us all"
+      "col": 9,
+      "answer": "BOOKSHOP",
+      "clue": "Where Kentish Town shelves its readers, no. 207 (8)"
     },
     {
       "number": 3,
-      "row": 1,
-      "col": 10,
-      "answer": "CAMDEN",
-      "clue": "Market mayhem just down the road from us"
+      "row": 3,
+      "col": 0,
+      "answer": "GRIT",
+      "clue": "Sand, or gutsy determination"
     },
     {
       "number": 5,
-      "row": 2,
-      "col": 8,
-      "answer": "MEDAL",
-      "clue": "Olympic gong"
+      "row": 3,
+      "col": 7,
+      "answer": "RAISE",
+      "clue": "Lift up; bring up children"
     },
     {
       "number": 6,
       "row": 4,
-      "col": 1,
-      "answer": "FOXES",
-      "clue": "Russet midnight bin-raiders, the true NW5 mascots"
+      "col": 2,
+      "answer": "PATRON",
+      "clue": "Backer of the arts — or Fortess Road's bit of Paris (6)"
     },
     {
-      "number": 9,
-      "row": 7,
-      "col": 7,
-      "answer": "BODY",
-      "clue": "Corpse, or your physical form"
-    },
-    {
-      "number": 10,
-      "row": 7,
-      "col": 9,
-      "answer": "FLEET",
-      "clue": "Lost river still flowing beneath the High Street"
-    },
-    {
-      "number": 12,
-      "row": 8,
-      "col": 5,
-      "answer": "LIDO",
-      "clue": "Open-air pool on the Heath, brave swimmers' delight"
+      "number": 7,
+      "row": 4,
+      "col": 4,
+      "answer": "OSENEY",
+      "clue": "NW5 crescent borrowing an Oxford abbey's name (6)"
     }
   ]
 }

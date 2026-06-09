@@ -5,93 +5,9 @@
   "grid": [
     [
       "#",
-      "F",
       "#",
       "#",
       "#",
-      "G",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "L",
-      "#",
-      "P",
-      "#",
-      "U",
-      "#",
-      "J",
-      "E",
-      "W",
-      "E",
-      "L"
-    ],
-    [
-      "C",
-      "O",
-      "N",
-      "E",
-      "#",
-      "S",
-      "#",
-      "#",
-      "#",
-      "O",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "O",
-      "#",
-      "C",
-      "I",
-      "T",
-      "Y",
-      "F",
-      "A",
-      "R",
-      "M",
-      "#"
-    ],
-    [
-      "#",
-      "D",
-      "#",
-      "K",
-      "#",
-      "#",
-      "#",
-      "#",
-      "#",
-      "R",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "#",
-      "#",
-      "W",
-      "#",
-      "G",
-      "I",
-      "P",
-      "S",
-      "Y",
-      "#",
-      "#"
-    ],
-    [
-      "#",
-      "C",
-      "#",
-      "A",
       "#",
       "#",
       "#",
@@ -102,59 +18,143 @@
       "#"
     ],
     [
-      "D",
-      "A",
-      "R",
-      "T",
-      "M",
-      "O",
-      "U",
-      "T",
-      "H",
       "#",
       "#",
-      "#"
-    ],
-    [
+      "#",
       "#",
       "B",
       "#",
-      "E",
       "#",
       "#",
       "#",
       "#",
       "#",
-      "#",
-      "#",
-      "#"
+      "A"
     ],
     [
-      "C",
-      "L",
-      "A",
+      "#",
+      "#",
+      "F",
+      "O",
       "R",
+      "T",
       "E",
+      "S",
+      "S",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "L",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "F",
+      "#",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "R",
+      "W",
+      "E",
+      "L",
+      "L",
+      "#",
+      "O",
+      "#",
+      "E"
+    ],
+    [
       "N",
+      "#",
+      "S",
+      "#",
+      "N",
+      "#",
+      "E",
+      "#",
+      "#",
+      "R",
+      "#",
+      "M"
+    ],
+    [
       "C",
+      "I",
+      "T",
+      "Y",
+      "#",
+      "#",
+      "V",
+      "A",
+      "L",
+      "E",
+      "#",
+      "B"
+    ],
+    [
       "E",
       "#",
       "#",
       "#",
-      "#"
-    ],
-    [
+      "#",
       "#",
       "E",
       "#",
       "#",
       "#",
       "#",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "B",
+      "U",
+      "R",
+      "G",
+      "H",
+      "L",
+      "E",
+      "Y"
+    ],
+    [
       "#",
       "#",
       "#",
       "#",
       "#",
+      "#",
+      "T",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "H",
+      "O",
+      "S",
+      "T",
+      "#",
+      "R",
       "#"
     ],
     [
@@ -164,93 +164,114 @@
       "#",
       "#",
       "#",
+      "N",
       "#",
+      "E",
       "#",
-      "#",
-      "#",
-      "#",
+      "N",
       "#"
     ]
   ],
   "across": [
     {
-      "number": 4,
-      "row": 1,
-      "col": 7,
-      "answer": "JEWEL",
-      "clue": "Crown's sparkling treasure"
+      "number": 3,
+      "row": 2,
+      "col": 2,
+      "answer": "FORTESS",
+      "clue": "Tufnell Park's main road, oddly spelt"
     },
     {
       "number": 6,
-      "row": 2,
-      "col": 0,
-      "answer": "CONE",
-      "clue": "Ice cream's pointed home"
-    },
-    {
-      "number": 7,
-      "row": 3,
-      "col": 3,
-      "answer": "CITYFARM",
-      "clue": "Cressfield Close spot where NW5 toddlers meet actual goats"
+      "row": 4,
+      "col": 2,
+      "answer": "ORWELL",
+      "clue": "He gave us Big Brother and pigs"
     },
     {
       "number": 8,
-      "row": 5,
-      "col": 5,
-      "answer": "GIPSY",
-      "clue": "Malden Road's regal welcome for kids and dogs alike"
+      "row": 6,
+      "col": 0,
+      "answer": "CITY",
+      "clue": "Square Mile of London"
+    },
+    {
+      "number": 9,
+      "row": 6,
+      "col": 6,
+      "answer": "VALE",
+      "clue": "Secluded Heath hamlet of Health"
     },
     {
       "number": 10,
-      "row": 7,
-      "col": 0,
-      "answer": "DARTMOUTH",
-      "clue": "Gospel Oak's snuggest spot for a pint"
+      "row": 8,
+      "col": 4,
+      "answer": "BURGHLEY",
+      "clue": "Lord Burghley's road off Tufnell Park"
     },
     {
-      "number": 11,
-      "row": 9,
-      "col": 0,
-      "answer": "CLARENCE",
-      "clue": "NW5 way sharing a royal duke's title"
+      "number": 13,
+      "row": 10,
+      "col": 4,
+      "answer": "GHOST",
+      "clue": "Spectre that haunts a Christmas Carol"
     }
   ],
   "down": [
     {
       "number": 1,
-      "row": 0,
-      "col": 1,
-      "answer": "FLOOD",
-      "clue": "Deluge after heavy rain"
+      "row": 1,
+      "col": 4,
+      "answer": "BROWN",
+      "clue": "PM Gordon, or a colour"
     },
     {
       "number": 2,
-      "row": 0,
-      "col": 5,
-      "answer": "GUST",
-      "clue": "Sudden blast of wind"
+      "row": 1,
+      "col": 11,
+      "answer": "ASSEMBLY",
+      "clue": "Listed boozer at 292, the House of gathering"
     },
     {
       "number": 3,
-      "row": 1,
-      "col": 3,
-      "answer": "PECKWATER",
-      "clue": "NW5 street that borrowed an Oxford quad's name"
+      "row": 2,
+      "col": 2,
+      "answer": "FROST",
+      "clue": "Jack who nips at your toes"
+    },
+    {
+      "number": 4,
+      "row": 3,
+      "col": 0,
+      "answer": "LANCE",
+      "clue": "Knight's long pointed weapon"
     },
     {
       "number": 5,
-      "row": 1,
+      "row": 3,
       "col": 9,
-      "answer": "WORRY",
-      "clue": "Fret and stew"
+      "answer": "FORE",
+      "clue": "Golfer's warning shout"
     },
     {
-      "number": 9,
-      "row": 6,
-      "col": 1,
-      "answer": "CABLE",
-      "clue": "Wire carrying current"
+      "number": 7,
+      "row": 4,
+      "col": 6,
+      "answer": "LEVERTON",
+      "clue": "Street where The Pineapple ripens"
+    },
+    {
+      "number": 11,
+      "row": 8,
+      "col": 8,
+      "answer": "HATE",
+      "clue": "Loathe, the opposite of love"
+    },
+    {
+      "number": 12,
+      "row": 8,
+      "col": 10,
+      "answer": "EARN",
+      "clue": "Bring home as wages"
     }
   ]
 }
