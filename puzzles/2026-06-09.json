@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-09",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "R",
+      "A",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "I",
+      "#",
+      "C",
+      "#",
+      "V"
+    ],
+    [
+      "S",
+      "E",
+      "I",
+      "Z",
+      "E"
+    ],
+    [
+      "E",
+      "#",
+      "N",
+      "#",
+      "N"
+    ],
+    [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "RAISE",
+      "clue": "Lift up a wage demand"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "SEIZE",
+      "clue": "Grab hold, like cops on Swain's Lane?"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "NIGHT",
+      "clue": "Time at The Forum when bands play till late"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "RISEN",
+      "clue": "Resurrected, having climbed Parliament Hill?"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "ICING",
+      "clue": "Topping that crowns a cake at The Pineapple"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "EVENT",
+      "clue": "Happening, like a Forum gig"
+    }
+  ]
+}

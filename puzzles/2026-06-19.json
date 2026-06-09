@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-19",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "N",
+      "O",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "#",
+      "I",
+      "#",
+      "U"
+    ],
+    [
+      "R",
+      "I",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "#",
+      "T",
+      "#",
+      "C"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "T",
+      "H"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "NOVEL",
+      "clue": "Fresh fiction, like a book?"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "RISEN",
+      "clue": "Bread that's proved? It's gone up"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "HEATH",
+      "clue": "Hampstead's wild expanse, where you might climb Parliament Hill (5)"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "NORTH",
+      "clue": "Direction to head for NW5 from the City (5)"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "VISTA",
+      "clue": "View from Parliament Hill, perhaps (5)"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "LUNCH",
+      "clue": "Midday meal, maybe at The Pineapple on Leverton Street (5)"
+    }
+  ]
+}

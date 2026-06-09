@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-15",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "H",
+      "A",
+      "R",
+      "S",
+      "H"
+    ],
+    [
+      "O",
+      "#",
+      "I",
+      "#",
+      "I"
+    ],
+    [
+      "N",
+      "O",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "L"
+    ],
+    [
+      "Y",
+      "A",
+      "R",
+      "D",
+      "S"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "HARSH",
+      "clue": "Severe, like winter winds whipping across Parliament Hill"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "NOVEL",
+      "clue": "Fresh and original, or a book to read by Regent's Canal"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "YARDS",
+      "clue": "Units of fabric, or where Kentish Town gardens are measured"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "HONEY",
+      "clue": "Sweet stuff the bees make, a term of endearment too"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "RIVER",
+      "clue": "Flowing water, like Regent's that runs through Camden"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "HILLS",
+      "clue": "Heights, like Parliament and Primrose near NW5"
+    }
+  ]
+}

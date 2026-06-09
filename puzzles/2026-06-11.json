@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-11",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "C",
+      "U",
+      "B",
+      "I",
+      "C"
+    ],
+    [
+      "O",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "R",
+      "I",
+      "S",
+      "E",
+      "N"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "A",
+      "L"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "CUBIC",
+      "clue": "Shaped like dice, perhaps measuring volume in three dimensions"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "RISEN",
+      "clue": "Got up, as bread dough has on Parliament Hill picnic morning"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "LOCAL",
+      "clue": "The Pineapple is the perfect one for an NW5 pint"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "CORAL",
+      "clue": "Reef-building organism, a pinkish-red hue"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "BASIC",
+      "clue": "Fundamental, no-frills sort of thing"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "CANAL",
+      "clue": "Regent's waterway winding through Camden"
+    }
+  ]
+}

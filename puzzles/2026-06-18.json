@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-18",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "A",
+      "L",
+      "L",
+      "E",
+      "Y"
+    ],
+    [
+      "S",
+      "#",
+      "A",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "U",
+      "G",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "D"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "M",
+      "S"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "ALLEY",
+      "clue": "Narrow passage where secretartistnw5 might leave a hidden gem (5)"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "SUGAR",
+      "clue": "Sweet stuff that's not on a pineapple, but found atop one at the Leverton Street pub (5)"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "TERMS",
+      "clue": "Conditions of agreement, or what students study in (5)"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "ASSET",
+      "clue": "Parliament Hill's view could be considered a valuable one of NW5 (5)"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "LAGER",
+      "clue": "Pint pulled at The Pineapple, brewed cold and crisp (5)"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "YARDS",
+      "clue": "Measures of fabric, or Highgate's stretches near Swain's Lane (5)"
+    }
+  ]
+}

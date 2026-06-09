@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-12",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "S",
+      "T",
+      "E",
+      "R",
+      "N"
+    ],
+    [
+      "M",
+      "#",
+      "X",
+      "#",
+      "O"
+    ],
+    [
+      "A",
+      "F",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "#",
+      "R",
+      "#",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "T",
+      "H"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "STERN",
+      "clue": "Severe back end of a boat"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "AFTER",
+      "clue": "Following the manner of, seeking employment"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "HEATH",
+      "clue": "Hampstead's open expanse, Parliament Hill's neighbour"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "SMASH",
+      "clue": "Hit hard, like a tennis ace at The Forum's gigs?"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "EXTRA",
+      "clue": "Additional player at Camden cricket — and a film background role"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "NORTH",
+      "clue": "Direction to NW5 from central London"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-17",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "F",
+      "I",
+      "F",
+      "T",
+      "H"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "#",
+      "E",
+      "#",
+      "L"
+    ],
+    [
+      "Y",
+      "A",
+      "R",
+      "D",
+      "S"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "FIFTH",
+      "clue": "Musical interval, or the one before sixth"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "NAVAL",
+      "clue": "Maritime, like a Navy officer's bearing"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "YARDS",
+      "clue": "Measures of cloth, or where Camden's gardens are sized up"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "FANCY",
+      "clue": "Imagine, or distinctly elaborate"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "FEVER",
+      "clue": "High temperature catching on at The Forum's hottest gigs"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "HILLS",
+      "clue": "Parliament and Primrose are notable London ones"
+    }
+  ]
+}

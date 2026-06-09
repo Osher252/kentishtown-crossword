@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-16",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "G",
+      "A",
+      "M",
+      "M",
+      "A"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "L"
+    ],
+    [
+      "M",
+      "U",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "L",
+      "Y"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "GAMMA",
+      "clue": "Third Greek letter, a gram broken up"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "MURAL",
+      "clue": "Wall painting secretartistnw5.com might leave around the area"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "RALLY",
+      "clue": "Motorsport event, or political gathering on Parliament Hill"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "GAMER",
+      "clue": "One glued to a console in Tufnell Park, perhaps"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "MORAL",
+      "clue": "Lesson from a fable, like Aesop's"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "ALLEY",
+      "clue": "Narrow passage behind The Pineapple pub, say"
+    }
+  ]
+}

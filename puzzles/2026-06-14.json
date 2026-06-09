@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-14",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "G",
+      "R",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "R",
+      "#",
+      "B",
+      "#",
+      "V"
+    ],
+    [
+      "O",
+      "Z",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "V",
+      "#",
+      "V",
+      "#",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      "E",
+      "M",
+      "Y"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "GRAVE",
+      "clue": "Serious resting place at the end of Swain's Lane"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "OZONE",
+      "clue": "Layer protecting us, found around The Forum's gig zone"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "ENEMY",
+      "clue": "Foe seen at the end of any old enemy lines"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "GROVE",
+      "clue": "Tree-lined walk hiding nothing but a grave swap of letters"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "ABOVE",
+      "clue": "Overhead, like Parliament Hill's kite-filled sky"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "EVERY",
+      "clue": "Each and all, as in every pint pulled at The Pineapple"
+    }
+  ]
+}

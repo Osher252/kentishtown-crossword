@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-21",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "R",
+      "E",
+      "P",
+      "A",
+      "Y"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "U",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "G",
+      "#",
+      "A",
+      "#",
+      "D"
+    ],
+    [
+      "H",
+      "I",
+      "L",
+      "L",
+      "S"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "REPAY",
+      "clue": "Settle debt with rising star, almost in pieces (5)"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "UNDER",
+      "clue": "Beneath the Forum, oddly nude broke loose (5)"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "HILLS",
+      "clue": "Parliament and Primrose, perhaps, where heath rolls (5)"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "ROUGH",
+      "clue": "Approximately how Hampstead Heath feels underfoot (5)"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "PEDAL",
+      "clue": "Push hard on cyclist's gear along Regent's Canal (5)"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "YARDS",
+      "clue": "Lengths of measure in Swain's Lane back gardens (5)"
+    }
+  ]
+}

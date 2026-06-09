@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-22",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "L",
+      "A",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "H",
+      "#",
+      "A"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "W",
+      "D"
+    ],
+    [
+      "A",
+      "#",
+      "S",
+      "#",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "E",
+      "R"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "LAGER",
+      "clue": "Pint pulled at The Pineapple, mostly large"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "CROWD",
+      "clue": "The Forum gig draws a noisy one"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "LATER",
+      "clue": "After a while, sounds like Camden waterway after rain (5)"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "LOCAL",
+      "clue": "The Pineapple, perhaps, to a Leverton Street regular"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "GHOST",
+      "clue": "Spirit that might haunt Highgate Cemetery up Swain's Lane"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "RADAR",
+      "clue": "Detection system that reads the same backwards as forwards"
+    }
+  ]
+}

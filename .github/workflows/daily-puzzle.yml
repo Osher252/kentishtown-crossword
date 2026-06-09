@@ -1,0 +1,36 @@
+name: Generate Daily Puzzle
+
+on:
+  schedule:
+    # Run at midnight UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci --legacy-peer-deps
+
+      - name: Generate tomorrow's puzzle
+        run: node_modules/.bin/tsx scripts/generate-puzzle.ts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push if puzzle was created
+        run: |
+          git config user.name "Puzzle Bot"
+          git config user.email "bot@kentishtown.local"
+          git add puzzles/
+          git diff --staged --quiet || git commit -m "Add puzzle for $(date -u +%Y-%m-%d)"
+          git push

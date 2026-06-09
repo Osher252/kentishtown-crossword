@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-20",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "P",
+      "L",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "A",
+      "#",
+      "W",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "H",
+      "#",
+      "K",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "R",
+      "N"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "PLANT",
+      "clue": "Factory's pineapple, perhaps, that takes root in NW5?"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "TRACK",
+      "clue": "Follow the railway line through Gospel Oak"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "STERN",
+      "clue": "Severe captain's rear"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "PATHS",
+      "clue": "Routes across Hampstead Heath to Parliament Hill"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "AWAKE",
+      "clue": "Alert and not asleep at The Forum"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "TOKEN",
+      "clue": "A gesture, or a small painting left around NW5 by a secret artist?"
+    }
+  ]
+}

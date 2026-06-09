@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-13",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "O",
+      "Z",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "C",
+      "#",
+      "U",
+      "#",
+      "A"
+    ],
+    [
+      "E",
+      "N",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "T"
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "T",
+      "H"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "OZONE",
+      "clue": "Layer protecting us, found in cosy zones oddly"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "ENTER",
+      "clue": "Walk into Parliament Hill, or hit this key"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "NORTH",
+      "clue": "Direction to NW5 from central London"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "OCEAN",
+      "clue": "Vast water mass concealed in piano cantatas"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "OUTER",
+      "clue": "Far from central, like Hampstead Heath's edge"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "EARTH",
+      "clue": "Our planet, or what a gardener works in Gospel Oak"
+    }
+  ]
+}

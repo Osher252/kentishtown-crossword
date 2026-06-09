@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-10",
+  "title": "Kentish Town Daily Crossword",
+  "grid": [
+    [
+      "L",
+      "A",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "L"
+    ],
+    [
+      "L",
+      "U",
+      "C",
+      "K",
+      "Y"
+    ]
+  ],
+  "across": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "LASER",
+      "clue": "Light beam from cat, regularly missing the points"
+    },
+    {
+      "number": 4,
+      "row": 2,
+      "col": 0,
+      "answer": "CANAL",
+      "clue": "Regent's waterway carrying barges through NW5"
+    },
+    {
+      "number": 5,
+      "row": 4,
+      "col": 0,
+      "answer": "LUCKY",
+      "clue": "Fortunate, like finding a free painting from secretartistnw5"
+    }
+  ],
+  "down": [
+    {
+      "number": 1,
+      "row": 0,
+      "col": 0,
+      "answer": "LOCAL",
+      "clue": "The Pineapple, for many a Kentish Town drinker"
+    },
+    {
+      "number": 2,
+      "row": 0,
+      "col": 2,
+      "answer": "SONIC",
+      "clue": "Speedy hedgehog producing sound, audibly"
+    },
+    {
+      "number": 3,
+      "row": 0,
+      "col": 4,
+      "answer": "RALLY",
+      "clue": "Tennis exchange, or a Parliament Hill protest gathering"
+    }
+  ]
+}
