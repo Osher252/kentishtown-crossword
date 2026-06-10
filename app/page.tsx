@@ -41,29 +41,55 @@ export default async function Home() {
   });
 
   return (
-    <main className="min-h-screen bg-[#f5f0e8] flex flex-col items-center py-8 px-4">
-      <header className="text-center mb-6">
-        <p className="text-xs tracking-widest uppercase text-stone-500 mb-1">
-          NW5 · Daily Edition
-        </p>
-        <h1 className="text-3xl font-bold text-stone-900" style={{ fontFamily: "Georgia, serif" }}>
-          Kentish Town Crossword
-        </h1>
-        <p className="text-sm text-stone-500 mt-1">{today}</p>
-      </header>
+    <main
+      className="min-h-screen flex flex-col items-center py-8 px-4 relative"
+      style={{
+        backgroundImage: "url('/secret-artist-bg.avif')",
+        backgroundSize: "cover",
+        backgroundPosition: "center top",
+        backgroundAttachment: "fixed",
+      }}
+    >
+      {/* Soft warm overlay so the crossword stays readable over the painting */}
+      <div className="absolute inset-0 bg-[#f5f0e8]/80 pointer-events-none" />
 
-      {puzzle ? (
-        <CrosswordGame puzzle={puzzle} />
-      ) : (
-        <div className="text-stone-600 text-center mt-16">
-          <p className="text-lg">No puzzle available for today yet.</p>
-          <p className="text-sm mt-2 text-stone-400">Check back tomorrow!</p>
-        </div>
-      )}
+      {/* All content sits above the overlay */}
+      <div className="relative z-10 flex flex-col items-center w-full">
+        <header className="text-center mb-6">
+          <p className="text-xs tracking-widest uppercase text-stone-500 mb-1">
+            NW5 · Daily Edition
+          </p>
+          <h1 className="text-3xl font-bold text-stone-900" style={{ fontFamily: "Georgia, serif" }}>
+            Kentish Town Crossword
+          </h1>
+          <p className="text-sm text-stone-500 mt-1">{today}</p>
+        </header>
 
-      <footer className="mt-10 text-center text-xs text-stone-400">
-        <p>Inspired by the streets, pubs, and paintings of NW5.</p>
-      </footer>
+        {puzzle ? (
+          <CrosswordGame puzzle={puzzle} />
+        ) : (
+          <div className="text-stone-600 text-center mt-16">
+            <p className="text-lg">No puzzle available for today yet.</p>
+            <p className="text-sm mt-2 text-stone-400">Check back tomorrow!</p>
+          </div>
+        )}
+
+        <footer className="mt-10 text-center text-xs text-stone-400 space-y-1">
+          <p>Inspired by the streets, pubs, and paintings of NW5.</p>
+          <p>
+            Background painting:{" "}
+            <a
+              href="https://secretartistnw5.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-stone-600 transition"
+            >
+              Secret Artist NW5
+            </a>
+            {" "}— Kentish Town Road, looking north, 2023
+          </p>
+        </footer>
+      </div>
     </main>
   );
 }
