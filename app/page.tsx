@@ -2,6 +2,8 @@ import { readFile } from "fs/promises";
 import { existsSync } from "fs";
 import path from "path";
 import CrosswordGame from "./CrosswordGame";
+import SpellingBee from "./SpellingBee";
+import type { BeeData } from "./SpellingBee";
 
 export const dynamic = "force-static";
 export const revalidate = 3600;
@@ -31,8 +33,16 @@ async function getPuzzle(): Promise<Puzzle | null> {
   return JSON.parse(raw);
 }
 
+async function getBee(): Promise<BeeData | null> {
+  const today = new Date().toISOString().split("T")[0];
+  const filePath = path.join(process.cwd(), "bees", `${today}.json`);
+  if (!existsSync(filePath)) return null;
+  const raw = await readFile(filePath, "utf-8");
+  return JSON.parse(raw);
+}
+
 export default async function Home() {
-  const puzzle = await getPuzzle();
+  const [puzzle, bee] = await Promise.all([getPuzzle(), getBee()]);
   const today = new Date().toLocaleDateString("en-GB", {
     weekday: "long",
     day: "numeric",
@@ -50,7 +60,7 @@ export default async function Home() {
         backgroundAttachment: "fixed",
       }}
     >
-      {/* Soft warm overlay so the crossword stays readable over the painting */}
+      {/* Soft warm overlay so games stay readable over the painting */}
       <div className="absolute inset-0 bg-[#f5f0e8]/80 pointer-events-none" />
 
       {/* All content sits above the overlay */}
@@ -60,21 +70,39 @@ export default async function Home() {
             NW5 · Daily Edition
           </p>
           <h1 className="text-3xl font-bold text-stone-900" style={{ fontFamily: "Georgia, serif" }}>
-            Kentish Town Crossword
+            Kentish Town
           </h1>
           <p className="text-sm text-stone-500 mt-1">{today}</p>
         </header>
 
+        {/* ── Crossword ── */}
         {puzzle ? (
           <CrosswordGame puzzle={puzzle} />
         ) : (
-          <div className="text-stone-600 text-center mt-16">
-            <p className="text-lg">No puzzle available for today yet.</p>
+          <div className="text-stone-600 text-center mt-8">
+            <p className="text-lg">No crossword available yet.</p>
             <p className="text-sm mt-2 text-stone-400">Check back tomorrow!</p>
           </div>
         )}
 
-        <footer className="mt-10 text-center text-xs text-stone-400 space-y-1">
+        {/* ── Divider ── */}
+        <div className="w-full max-w-md my-10 flex items-center gap-3">
+          <div className="flex-1 h-px bg-stone-300" />
+          <span className="text-xs uppercase tracking-widest text-stone-400">Spelling Bee</span>
+          <div className="flex-1 h-px bg-stone-300" />
+        </div>
+
+        {/* ── Spelling Bee ── */}
+        {bee ? (
+          <SpellingBee bee={bee} />
+        ) : (
+          <div className="text-stone-600 text-center">
+            <p className="text-lg">No bee available yet.</p>
+            <p className="text-sm mt-2 text-stone-400">Check back tomorrow!</p>
+          </div>
+        )}
+
+        <footer className="mt-10 mb-4 text-center text-xs text-stone-400 space-y-1">
           <p>Inspired by the streets, pubs, and paintings of NW5.</p>
           <p>
             Background painting:{" "}

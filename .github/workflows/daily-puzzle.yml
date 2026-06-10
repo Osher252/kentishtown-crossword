@@ -1,4 +1,4 @@
-name: Generate Daily Puzzle
+name: Generate Daily Puzzle & Bee
 
 on:
   schedule:
@@ -22,15 +22,20 @@ jobs:
 
       - run: npm ci --legacy-peer-deps
 
-      - name: Generate tomorrow's puzzle
+      - name: Generate tomorrow's crossword
         run: node_modules/.bin/tsx scripts/generate-puzzle.ts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Commit and push if puzzle was created
+      - name: Generate tomorrow's spelling bee
+        run: node_modules/.bin/tsx scripts/generate-bee.ts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push
         run: |
           git config user.name "Puzzle Bot"
           git config user.email "bot@kentishtown.local"
-          git add puzzles/
-          git diff --staged --quiet || git commit -m "Add puzzle for $(date -u +%Y-%m-%d)"
+          git add puzzles/ bees/
+          git diff --staged --quiet || git commit -m "Add puzzles for $(date -u +%Y-%m-%d)"
           git push
