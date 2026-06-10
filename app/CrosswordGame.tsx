@@ -10,16 +10,17 @@ interface ActiveClue { direction: Direction; number: number; }
 
 interface Stats {
   streak: number;
-  lastSolvedDate: string | null; // "YYYY-MM-DD"
+  lastSolvedDate: string | null;
   totalSolved: number;
-  bestTime: number | null; // seconds
-  todaySolveTime: number | null; // seconds — set once per day
+  bestTime: number | null;
+  todaySolveTime: number | null;
 }
 
 const STATS_KEY = "kt-crossword-stats";
 
 function loadStats(): Stats {
-  if (typeof window === "undefined") return { streak: 0, lastSolvedDate: null, totalSolved: 0, bestTime: null, todaySolveTime: null };
+  if (typeof window === "undefined")
+    return { streak: 0, lastSolvedDate: null, totalSolved: 0, bestTime: null, todaySolveTime: null };
   try {
     const raw = localStorage.getItem(STATS_KEY);
     if (!raw) return { streak: 0, lastSolvedDate: null, totalSolved: 0, bestTime: null, todaySolveTime: null };
@@ -31,9 +32,7 @@ function saveStats(s: Stats) {
   try { localStorage.setItem(STATS_KEY, JSON.stringify(s)); } catch {}
 }
 
-function toDateStr(d: Date) {
-  return d.toISOString().split("T")[0];
-}
+function toDateStr(d: Date) { return d.toISOString().split("T")[0]; }
 
 function prevDay(dateStr: string) {
   const d = new Date(dateStr + "T12:00:00Z");
@@ -82,7 +81,7 @@ function cellNumber(puzzle: Puzzle, row: number, col: number): number | null {
 function StatsPanel({ stats, elapsed, solved }: { stats: Stats; elapsed: number; solved: boolean }) {
   const displayTime = solved ? (stats.todaySolveTime ?? elapsed) : elapsed;
   return (
-    <div className="w-full max-w-md grid grid-cols-3 gap-3 text-center">
+    <div className="w-full grid grid-cols-3 gap-3 text-center">
       {[
         { label: "Streak", value: `${stats.streak}🔥` },
         { label: "Solved", value: stats.totalSolved },
@@ -116,11 +115,26 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
   const [solved, setSolved] = useState(false);
   const [stats, setStats] = useState<Stats>(() => loadStats());
   const [elapsed, setElapsed] = useState(0);
+  // Cell size in px — calculated once on mount to fit the screen
+  const [cellSize, setCellSize] = useState(40);
   const startRef = useRef<number | null>(null);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  // Visible input for reliable mobile keyboard
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // Start timer on first keypress / cell click
+  // Calculate responsive cell size
+  useEffect(() => {
+    const calc = () => {
+      // Leave 16px padding each side = 32px total, plus 2px gap × (COLS-1)
+      const available = Math.min(window.innerWidth, 500) - 32 - (COLS - 1) * 2;
+      const size = Math.floor(available / COLS);
+      setCellSize(Math.max(28, Math.min(44, size)));
+    };
+    calc();
+    window.addEventListener("resize", calc);
+    return () => window.removeEventListener("resize", calc);
+  }, [COLS]);
+
   const ensureTimer = useCallback(() => {
     if (startRef.current !== null || solved) return;
     startRef.current = Date.now();
@@ -129,19 +143,11 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
     }, 1000);
   }, [solved]);
 
-  // Stop timer when solved
   useEffect(() => {
-    if (solved && timerRef.current) {
-      clearInterval(timerRef.current);
-      timerRef.current = null;
-    }
+    if (solved && timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; }
   }, [solved]);
 
-  // Cleanup on unmount
   useEffect(() => () => { if (timerRef.current) clearInterval(timerRef.current); }, []);
-
-  // Focus hidden input when a cell is selected
-  useEffect(() => { if (selected) inputRef.current?.focus(); }, [selected]);
 
   const isBlack = (row: number, col: number) => puzzle.grid[row]?.[col] === "#";
 
@@ -158,6 +164,7 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
   const handleCellClick = (row: number, col: number) => {
     if (isBlack(row, col)) return;
     ensureTimer();
+
     if (selected?.row === row && selected?.col === col) {
       const clues = cluesForCell(puzzle, row, col);
       if (clues.length > 1 && active) {
@@ -166,14 +173,17 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
         );
         if (other) setActive(other);
       }
-      return;
+    } else {
+      setSelected({ row, col });
+      const clues = cluesForCell(puzzle, row, col);
+      if (clues.length > 0) {
+        const same = active ? clues.find((c) => c.direction === active.direction) : null;
+        setActive(same || clues[0]);
+      }
     }
-    setSelected({ row, col });
-    const clues = cluesForCell(puzzle, row, col);
-    if (clues.length > 0) {
-      const same = active ? clues.find((c) => c.direction === active.direction) : null;
-      setActive(same || clues[0]);
-    }
+
+    // Focus the visible input synchronously — this is what triggers mobile keyboards
+    inputRef.current?.focus();
   };
 
   const advanceCursor = useCallback(
@@ -219,16 +229,44 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
     }
   };
 
+  // Handle input from the visible text field (mobile keyboard path)
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (!selected) return;
+    const val = e.target.value;
+    // We keep the input empty so it's always ready; grab the last typed char
+    const ch = val.slice(-1).toUpperCase();
+    e.target.value = ""; // reset immediately
+    if (!ch || !/^[A-Z]$/.test(ch)) return;
+    const { row, col } = selected;
+    ensureTimer();
+    setLetters((prev) => { const n = prev.map((r) => [...r]); n[row][col] = ch; return n; });
+    setChecked(false);
+    advanceCursor(row, col);
+  };
+
+  const handleInputKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (!selected) return;
+    const { row, col } = selected;
+    if (e.key === "Backspace") {
+      e.preventDefault();
+      if (letters[row][col]) {
+        setLetters((prev) => { const n = prev.map((r) => [...r]); n[row][col] = ""; return n; });
+      } else { retreatCursor(row, col); }
+    }
+    if (e.key === "ArrowRight") { const c = cluesForCell(puzzle, row, col).find((c) => c.direction === "across"); if (c) setActive(c); }
+    if (e.key === "ArrowDown")  { const c = cluesForCell(puzzle, row, col).find((c) => c.direction === "down");   if (c) setActive(c); }
+    if (e.key === "ArrowLeft")  { const c = cluesForCell(puzzle, row, col).find((c) => c.direction === "across"); if (c) { setActive(c); retreatCursor(row, col); } }
+    if (e.key === "ArrowUp")    { const c = cluesForCell(puzzle, row, col).find((c) => c.direction === "down");   if (c) { setActive(c); retreatCursor(row, col); } }
+  };
+
   const markSolved = useCallback(() => {
     if (solved) return;
     setSolved(true);
     const solveTime = startRef.current ? Math.floor((Date.now() - startRef.current) / 1000) : elapsed;
     const today = toDateStr(new Date());
     setStats((prev) => {
-      const alreadySolvedToday = prev.lastSolvedDate === today;
-      if (alreadySolvedToday) return prev; // don't double-count
-      const newStreak =
-        prev.lastSolvedDate === prevDay(today) ? prev.streak + 1 : 1;
+      if (prev.lastSolvedDate === today) return prev;
+      const newStreak = prev.lastSolvedDate === prevDay(today) ? prev.streak + 1 : 1;
       const next: Stats = {
         streak: newStreak,
         lastSolvedDate: today,
@@ -249,18 +287,18 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
     markSolved();
   };
 
-  // Auto-check after every letter
+  // Auto-solve check
   useEffect(() => {
     let allFilled = true;
-    for (let r = 0; r < ROWS; r++)
+    outer: for (let r = 0; r < ROWS; r++)
       for (let c = 0; c < COLS; c++)
-        if (!isBlack(r, c) && !letters[r][c]) { allFilled = false; break; }
+        if (!isBlack(r, c) && !letters[r][c]) { allFilled = false; break outer; }
     if (!allFilled || solved) return;
-    let allCorrect = true;
     for (let r = 0; r < ROWS; r++)
       for (let c = 0; c < COLS; c++)
-        if (!isBlack(r, c) && letters[r][c] !== puzzle.grid[r][c]) { allCorrect = false; break; }
-    if (allCorrect) { setChecked(true); markSolved(); }
+        if (!isBlack(r, c) && letters[r][c] !== puzzle.grid[r][c]) return;
+    setChecked(true);
+    markSolved();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [letters]);
 
@@ -286,8 +324,11 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
       )
     : null;
 
+  const numSize = Math.max(8, Math.round(cellSize * 0.22));
+  const letterSize = Math.max(14, Math.round(cellSize * 0.48));
+
   return (
-    <div className="flex flex-col items-center gap-5 w-full max-w-md">
+    <div className="flex flex-col items-center gap-5 w-full max-w-lg">
       {/* Stats */}
       <StatsPanel stats={stats} elapsed={elapsed} solved={solved} />
 
@@ -298,8 +339,11 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
         </div>
       )}
 
-      {/* Active clue */}
-      <div className="min-h-[48px] text-center px-2">
+      {/* Active clue bar — also acts as the tap-to-type area on mobile */}
+      <div
+        className="w-full min-h-[52px] bg-white/80 rounded-xl px-4 py-3 shadow-sm flex items-center justify-center text-center cursor-text"
+        onClick={() => inputRef.current?.focus()}
+      >
         {activeEntry ? (
           <p className="text-stone-700 text-sm leading-snug">
             <span className="font-bold text-stone-900">
@@ -309,14 +353,32 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
             {activeEntry.clue}
           </p>
         ) : (
-          <p className="text-stone-400 text-sm">Click a square to start</p>
+          <p className="text-stone-400 text-sm">Tap a square to start</p>
         )}
       </div>
 
+      {/* Invisible but real input — positioned under the clue bar so iOS shows keyboard */}
+      <input
+        ref={inputRef}
+        type="text"
+        autoComplete="off"
+        autoCorrect="off"
+        autoCapitalize="characters"
+        spellCheck={false}
+        className="opacity-0 w-0 h-0 absolute"
+        onChange={handleInputChange}
+        onKeyDown={handleInputKeyDown}
+        aria-label="Crossword input"
+      />
+
       {/* Grid */}
       <div
-        className="grid gap-[2px] bg-stone-300 p-[2px] rounded-md shadow-md select-none"
-        style={{ gridTemplateColumns: `repeat(${COLS}, 44px)` }}
+        className="grid bg-stone-300 rounded-md shadow-md select-none"
+        style={{
+          gridTemplateColumns: `repeat(${COLS}, ${cellSize}px)`,
+          gap: "2px",
+          padding: "2px",
+        }}
         onKeyDown={handleKeyDown}
         tabIndex={0}
       >
@@ -331,29 +393,34 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
               <div
                 key={`${r}-${c}`}
                 className={[
-                  "relative w-[44px] h-[44px] flex items-center justify-center cursor-pointer",
+                  "relative flex items-center justify-center cursor-pointer",
                   black ? "bg-stone-500"
                     : isSelected ? "bg-yellow-300"
                     : inClue ? "bg-amber-50"
                     : "bg-white",
                   !black && "border border-stone-200",
                 ].join(" ")}
+                style={{ width: cellSize, height: cellSize }}
                 onClick={() => handleCellClick(r, c)}
               >
                 {!black && (
                   <>
                     {num && (
-                      <span className="absolute top-[2px] left-[3px] text-[10px] font-bold text-stone-700 leading-none">
+                      <span
+                        className="absolute top-[2px] left-[2px] font-bold text-stone-700 leading-none"
+                        style={{ fontSize: numSize }}
+                      >
                         {num}
                       </span>
                     )}
                     <span
                       className={[
-                        "text-xl font-bold",
+                        "font-bold",
                         correct === true ? "text-green-700"
                           : correct === false ? "text-red-600"
                           : "text-stone-900",
                       ].join(" ")}
+                      style={{ fontSize: letterSize }}
                     >
                       {letters[r][c]}
                     </span>
@@ -364,9 +431,6 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
           })
         )}
       </div>
-
-      {/* Hidden input for mobile keyboard */}
-      <input ref={inputRef} className="opacity-0 absolute -top-10 w-1 h-1" readOnly onKeyDown={handleKeyDown} />
 
       {/* Buttons */}
       <div className="flex gap-3">
@@ -379,12 +443,20 @@ export default function CrosswordGame({ puzzle }: { puzzle: Puzzle }) {
       </div>
 
       {/* Clue lists */}
-      <div className="w-full grid grid-cols-2 gap-6 mt-2">
+      <div className="w-full grid grid-cols-2 gap-4 mt-2">
         <ClueList title="Across" entries={puzzle.across} activeDirection={active?.direction} activeNumber={active?.number}
-          onClick={(n) => { setActive({ direction: "across", number: n }); const cells = clueCells(puzzle, "across", n); if (cells.length > 0) setSelected(cells[0]); }}
+          onClick={(n) => {
+            setActive({ direction: "across", number: n });
+            const cells = clueCells(puzzle, "across", n);
+            if (cells.length > 0) { setSelected(cells[0]); inputRef.current?.focus(); }
+          }}
         />
         <ClueList title="Down" entries={puzzle.down} activeDirection={active?.direction} activeNumber={active?.number}
-          onClick={(n) => { setActive({ direction: "down", number: n }); const cells = clueCells(puzzle, "down", n); if (cells.length > 0) setSelected(cells[0]); }}
+          onClick={(n) => {
+            setActive({ direction: "down", number: n });
+            const cells = clueCells(puzzle, "down", n);
+            if (cells.length > 0) { setSelected(cells[0]); inputRef.current?.focus(); }
+          }}
         />
       </div>
     </div>
